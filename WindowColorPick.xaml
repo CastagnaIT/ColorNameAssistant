@@ -1,0 +1,20 @@
+﻿<Window x:Class="ColorNameAssistant.WindowColorPick"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ColorNameAssistant"
+        mc:Ignorable="d"
+        Title="Pick a color" Height="450" Width="800" ResizeMode="NoResize" Loaded="Window_Loaded" 
+        MouseMove="Window_MouseMove" KeyDown="Window_KeyDown" WindowStyle="None" ShowInTaskbar="False" Topmost="True">
+    <Grid RenderOptions.BitmapScalingMode="LowQuality" x:Name="GridMain" MouseDown="GridMain_MouseDown">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Ellipse RenderOptions.EdgeMode="Unspecified" RenderOptions.CachingHint="Unspecified" RenderOptions.BitmapScalingMode="LowQuality" x:Name="EllipseCursor" HorizontalAlignment="Left" Height="100" Stroke="Black" VerticalAlignment="Top" Width="100" StrokeThickness="6" IsHitTestVisible="False">
+            <Ellipse.Effect>
+                <DropShadowEffect RenderOptions.BitmapScalingMode="LowQuality" Direction="0" BlurRadius="5" ShadowDepth="0"/>
+            </Ellipse.Effect>
+        </Ellipse>
+    </Grid>
+</Window>

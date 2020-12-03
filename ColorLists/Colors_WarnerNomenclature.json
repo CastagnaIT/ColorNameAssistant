@@ -1,0 +1,483 @@
+{
+    "Info": {
+        "source": "Werner nomenclature",
+		"url": "https://www.c82.net/werner/",
+        "lastUpdate": "2020/11/20",
+        "lastUpdateHue": "2020/11/20",
+        "hasHueValues": true
+    },
+    "HueColors": {
+        "Reds": {
+            "hex": "#FF0000"
+        },
+        "Oranges": {
+            "hex": "#FFA500"
+        },
+        "Yellows": {
+            "hex": "#FFFF00"
+        },
+        "Greens": {
+            "hex": "#008000"
+        },
+        "Blues": {
+            "hex": "#0000FF"
+        },
+        "Purples": {
+            "hex": "#A020F0"
+        },
+        "Browns": {
+            "hex": "#A52A2A"
+        },
+        "Blacks": {
+            "hex": "#000000"
+        },
+        "Greys": {
+            "hex": "#808080"
+        },
+        "Whites": {
+            "hex": "#FFFFFF"
+        }
+    },
+    "Colors": {
+        "#F1E9CD": {
+            "name": "Snow White",
+            "hueName": "Whites"
+        },
+        "#F2E7CF": {
+            "name": "Reddish White",
+            "hueName": "Whites"
+        },
+        "#ECE6D0": {
+            "name": "Purplish White",
+            "hueName": "Whites"
+        },
+        "#F2EACC": {
+            "name": "Yellowish White",
+            "hueName": "Whites"
+        },
+        "#F3E9CA": {
+            "name": "Orange coloured White",
+            "hueName": "Whites"
+        },
+        "#F2EBCD": {
+            "name": "Greenish White",
+            "hueName": "Whites"
+        },
+        "#E6E1C9": {
+            "name": "Skimmed milk White",
+            "hueName": "Whites"
+        },
+        "#E2DDC6": {
+            "name": "Greyish White",
+            "hueName": "Whites"
+        },
+        "#CBC8B7": {
+            "name": "Ash Grey",
+            "hueName": "Greys"
+        },
+        "#BFBBB0": {
+            "name": "Smoke Grey",
+            "hueName": "Greys"
+        },
+        "#BEBEB3": {
+            "name": "French Grey",
+            "hueName": "Greys"
+        },
+        "#B7B5AC": {
+            "name": "Pearl Grey",
+            "hueName": "Greys"
+        },
+        "#BAB191": {
+            "name": "Yellowish Grey",
+            "hueName": "Greys"
+        },
+        "#9C9D9A": {
+            "name": "Bluish Grey",
+            "hueName": "Greys"
+        },
+        "#8A8D84": {
+            "name": "Greenish Grey",
+            "hueName": "Greys"
+        },
+        "#5B5C61": {
+            "name": "Blackish Grey",
+            "hueName": "Greys"
+        },
+        "#555152": {
+            "name": "Greyish Black",
+            "hueName": "Blacks"
+        },
+        "#413F44": {
+            "name": "Bluish Black",
+            "hueName": "Blacks"
+        },
+        "#454445": {
+            "name": "Greenish Black",
+            "hueName": "Blacks"
+        },
+        "#423937": {
+            "name": "Pitch or Brownish Black",
+            "hueName": "Blacks"
+        },
+        "#433635": {
+            "name": "Reddish Black",
+            "hueName": "Blacks"
+        },
+        "#252024": {
+            "name": "Ink Black",
+            "hueName": "Blacks"
+        },
+        "#241F20": {
+            "name": "Velvet Black",
+            "hueName": "Blacks"
+        },
+        "#281F3F": {
+            "name": "Scotch Blue",
+            "hueName": "Blues"
+        },
+        "#1C1949": {
+            "name": "Prussian Blue",
+            "hueName": "Blues"
+        },
+        "#4F638D": {
+            "name": "Indigo Blue",
+            "hueName": "Blues"
+        },
+        "#383867": {
+            "name": "China Blue",
+            "hueName": "Blues"
+        },
+        "#5C6B8F": {
+            "name": "Azure Blue",
+            "hueName": "Blues"
+        },
+        "#657ABB": {
+            "name": "Ultramarine Blue",
+            "hueName": "Blues"
+        },
+        "#6F88AF": {
+            "name": "Flax-Flower Blue",
+            "hueName": "Blues"
+        },
+        "#7994B5": {
+            "name": "Berlin Blue",
+            "hueName": "Blues"
+        },
+        "#6FB5A8": {
+            "name": "Verditter Blue",
+            "hueName": "Blues"
+        },
+        "#719BA2": {
+            "name": "Greenish Blue",
+            "hueName": "Blues"
+        },
+        "#8AA1A6": {
+            "name": "Greyish Blue",
+            "hueName": "Blues"
+        },
+        "#D0D5D3": {
+            "name": "Bluish Lilac Purple",
+            "hueName": "Purples"
+        },
+        "#8590AE": {
+            "name": "Bluish Purple",
+            "hueName": "Purples"
+        },
+        "#3A2F52": {
+            "name": "Violet Purple",
+            "hueName": "Purples"
+        },
+        "#39334A": {
+            "name": "Pansy Purple",
+            "hueName": "Purples"
+        },
+        "#6C6D94": {
+            "name": "Campanula Purple",
+            "hueName": "Purples"
+        },
+        "#584C77": {
+            "name": "Imperial Purple",
+            "hueName": "Purples"
+        },
+        "#533552": {
+            "name": "Auricula Purple",
+            "hueName": "Purples"
+        },
+        "#463759": {
+            "name": "Plum Purple",
+            "hueName": "Purples"
+        },
+        "#BFBAC0": {
+            "name": "Red Lilac Purple",
+            "hueName": "Purples"
+        },
+        "#77747F": {
+            "name": "Lavender Purple",
+            "hueName": "Purples"
+        },
+        "#4A475C": {
+            "name": "Pale Blackish Purple",
+            "hueName": "Purples"
+        },
+        "#B8BFAF": {
+            "name": "Celadine Green",
+            "hueName": "Greens"
+        },
+        "#B2B599": {
+            "name": "Mountain Green",
+            "hueName": "Greens"
+        },
+        "#979C84": {
+            "name": "Leek Green",
+            "hueName": "Greens"
+        },
+        "#5D6161": {
+            "name": "Blackish Green",
+            "hueName": "Greens"
+        },
+        "#61AC86": {
+            "name": "Verdigris Green",
+            "hueName": "Greens"
+        },
+        "#A4B6A7": {
+            "name": "Bluish Green",
+            "hueName": "Greens"
+        },
+        "#ADBA98": {
+            "name": "Apple Green",
+            "hueName": "Greens"
+        },
+        "#93B778": {
+            "name": "Emerald Green",
+            "hueName": "Greens"
+        },
+        "#7D8C55": {
+            "name": "Grass Green",
+            "hueName": "Greens"
+        },
+        "#33431E": {
+            "name": "Duck Green",
+            "hueName": "Greens"
+        },
+        "#7C8635": {
+            "name": "Sap Green",
+            "hueName": "Greens"
+        },
+        "#8E9849": {
+            "name": "Pistachio Green",
+            "hueName": "Greens"
+        },
+        "#C2C190": {
+            "name": "Asparagus Green",
+            "hueName": "Greens"
+        },
+        "#67765B": {
+            "name": "Olive Green",
+            "hueName": "Greens"
+        },
+        "#AB924B": {
+            "name": "Oil Green",
+            "hueName": "Greens"
+        },
+        "#C8C76F": {
+            "name": "Siskin Green",
+            "hueName": "Greens"
+        },
+        "#CCC050": {
+            "name": "Sulphur Yellow",
+            "hueName": "Yellows"
+        },
+        "#EBDD99": {
+            "name": "Primrose Yellow",
+            "hueName": "Yellows"
+        },
+        "#AB9649": {
+            "name": "Wax Yellow",
+            "hueName": "Yellows"
+        },
+        "#DBC364": {
+            "name": "Lemon Yellow",
+            "hueName": "Yellows"
+        },
+        "#E6D058": {
+            "name": "Gamboge Yellow",
+            "hueName": "Yellows"
+        },
+        "#EAD665": {
+            "name": "Kings Yellow",
+            "hueName": "Yellows"
+        },
+        "#D09B2C": {
+            "name": "Saffron Yellow",
+            "hueName": "Yellows"
+        },
+        "#A36629": {
+            "name": "Gallstone Yellow",
+            "hueName": "Yellows"
+        },
+        "#A77D35": {
+            "name": "Honey Yellow",
+            "hueName": "Yellows"
+        },
+        "#F0D696": {
+            "name": "Straw Yellow",
+            "hueName": "Yellows"
+        },
+        "#D7C485": {
+            "name": "Wine Yellow",
+            "hueName": "Yellows"
+        },
+        "#F1D28C": {
+            "name": "Sienna Yellow",
+            "hueName": "Yellows"
+        },
+        "#EFCC83": {
+            "name": "Ochre Yellow",
+            "hueName": "Yellows"
+        },
+        "#F3DAA7": {
+            "name": "Cream Yellow",
+            "hueName": "Yellows"
+        },
+        "#DFA837": {
+            "name": "Dutch Orange",
+            "hueName": "Oranges"
+        },
+        "#EBBC71": {
+            "name": "Buff Orange",
+            "hueName": "Oranges"
+        },
+        "#D17C3F": {
+            "name": "Orpiment Orange",
+            "hueName": "Oranges"
+        },
+        "#92462F": {
+            "name": "Brownish Orange",
+            "hueName": "Oranges"
+        },
+        "#BE7249": {
+            "name": "Reddish Orange",
+            "hueName": "Oranges"
+        },
+        "#BB603C": {
+            "name": "Deep Reddish Orange",
+            "hueName": "Oranges"
+        },
+        "#C76B4A": {
+            "name": "Tile Red",
+            "hueName": "Reds"
+        },
+        "#A75536": {
+            "name": "Hyacinth Red",
+            "hueName": "Reds"
+        },
+        "#B63E36": {
+            "name": "Scarlet Red",
+            "hueName": "Reds"
+        },
+        "#B5493A": {
+            "name": "Vermilion Red",
+            "hueName": "Reds"
+        },
+        "#CD6D57": {
+            "name": "Aurora Red",
+            "hueName": "Reds"
+        },
+        "#711518": {
+            "name": "Arterial Blood Red",
+            "hueName": "Reds"
+        },
+        "#E9C49D": {
+            "name": "Flesh Red",
+            "hueName": "Reds"
+        },
+        "#EEDAC3": {
+            "name": "Rose Red",
+            "hueName": "Reds"
+        },
+        "#EECFBF": {
+            "name": "Peach Blossom Red",
+            "hueName": "Reds"
+        },
+        "#CE536B": {
+            "name": "Carmine Red",
+            "hueName": "Reds"
+        },
+        "#B74A70": {
+            "name": "Lake Red",
+            "hueName": "Reds"
+        },
+        "#B7757C": {
+            "name": "Crimson Red",
+            "hueName": "Reds"
+        },
+        "#612741": {
+            "name": "Purplish Red",
+            "hueName": "Reds"
+        },
+        "#7A4848": {
+            "name": "Cochineal Red",
+            "hueName": "Reds"
+        },
+        "#3F3033": {
+            "name": "Veinous Blood Red",
+            "hueName": "Reds"
+        },
+        "#8D746F": {
+            "name": "Brownish Purple Red",
+            "hueName": "Reds"
+        },
+        "#4D3635": {
+            "name": "Chocolate Red",
+            "hueName": "Reds"
+        },
+        "#6E3B31": {
+            "name": "Brownish Red",
+            "hueName": "Reds"
+        },
+        "#864735": {
+            "name": "Deep Orange-coloured Brown",
+            "hueName": "Browns"
+        },
+        "#553D3A": {
+            "name": "Deep Reddish Brown",
+            "hueName": "Browns"
+        },
+        "#613936": {
+            "name": "Umber Brown",
+            "hueName": "Browns"
+        },
+        "#7A4B3A": {
+            "name": "Chestnut Brown",
+            "hueName": "Browns"
+        },
+        "#946943": {
+            "name": "Yellowish Brown",
+            "hueName": "Browns"
+        },
+        "#C39E6D": {
+            "name": "Wood Brown",
+            "hueName": "Browns"
+        },
+        "#513E32": {
+            "name": "Liver Brown",
+            "hueName": "Browns"
+        },
+        "#8B7859": {
+            "name": "Hair Brown",
+            "hueName": "Browns"
+        },
+        "#9B856B": {
+            "name": "Broccoli Brown",
+            "hueName": "Browns"
+        },
+        "#766051": {
+            "name": "Clove Brown",
+            "hueName": "Browns"
+        },
+        "#453B32": {
+            "name": "Blackish Brown",
+            "hueName": "Browns"
+        }
+    }
+}

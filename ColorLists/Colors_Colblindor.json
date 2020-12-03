@@ -1,0 +1,6599 @@
+{
+    "Info": {
+        "source": "Colblindor",
+		"url": "https://www.color-blindness.com/color-name-hue/",
+        "lastUpdate": "2020/11/20",
+		"lastUpdateHue": "2020/11/20",
+		"hasHueValues": true
+    },
+    "HueColors": {
+        "Red": {
+            "hex": "#FF0000"
+        },
+        "Orange": {
+            "hex": "#FFA500"
+        },
+        "Yellow": {
+            "hex": "#FFFF00"
+        },
+        "Green": {
+            "hex": "#008000"
+        },
+        "Blue": {
+            "hex": "#0000FF"
+        },
+        "Violet": {
+            "hex": "#EE82EE"
+        },
+        "Brown": {
+            "hex": "#A52A2A"
+        },
+        "Black": {
+            "hex": "#000000"
+        },
+        "Grey": {
+            "hex": "#808080"
+        },
+        "White": {
+            "hex": "#FFFFFF"
+        }
+    },
+    "Colors": {
+        "#35312C": {
+            "name": "Acadia",
+            "hueName": "Brown"
+        },
+        "#75AA94": {
+            "name": "Acapulco",
+            "hueName": "Green"
+        },
+        "#C0E8D5": {
+            "name": "Aero Blue",
+            "hueName": "Green"
+        },
+        "#745085": {
+            "name": "Affair",
+            "hueName": "Violet"
+        },
+        "#905E26": {
+            "name": "Afghan Tan",
+            "hueName": "Yellow"
+        },
+        "#5D8AA8": {
+            "name": "Air Force Blue",
+            "hueName": "Blue"
+        },
+        "#BEB29A": {
+            "name": "Akaroa",
+            "hueName": "Yellow"
+        },
+        "#F2F0E6": {
+            "name": "Alabaster",
+            "hueName": "Grey"
+        },
+        "#E1DACB": {
+            "name": "Albescent White",
+            "hueName": "Yellow"
+        },
+        "#954E2C": {
+            "name": "Alert Tan",
+            "hueName": "Orange"
+        },
+        "#F0F8FF": {
+            "name": "Alice Blue",
+            "hueName": "Blue"
+        },
+        "#E32636": {
+            "name": "Alizarin",
+            "hueName": "Red"
+        },
+        "#1F6A7D": {
+            "name": "Allports",
+            "hueName": "Blue"
+        },
+        "#EED9C4": {
+            "name": "Almond",
+            "hueName": "Yellow"
+        },
+        "#9A8678": {
+            "name": "Almond Frost",
+            "hueName": "Brown"
+        },
+        "#AD8A3B": {
+            "name": "Alpine",
+            "hueName": "Yellow"
+        },
+        "#CDC6C5": {
+            "name": "Alto",
+            "hueName": "Grey"
+        },
+        "#848789": {
+            "name": "Aluminium",
+            "hueName": "Grey"
+        },
+        "#E52B50": {
+            "name": "Amaranth",
+            "hueName": "Red"
+        },
+        "#387B54": {
+            "name": "Amazon",
+            "hueName": "Green"
+        },
+        "#FFBF00": {
+            "name": "Amber",
+            "hueName": "Yellow"
+        },
+        "#8A7D72": {
+            "name": "Americano",
+            "hueName": "Brown"
+        },
+        "#9966CC": {
+            "name": "Amethyst",
+            "hueName": "Violet"
+        },
+        "#95879C": {
+            "name": "Amethyst Smoke",
+            "hueName": "Violet"
+        },
+        "#F5E6EA": {
+            "name": "Amour",
+            "hueName": "Violet"
+        },
+        "#7D9D72": {
+            "name": "Amulet",
+            "hueName": "Green"
+        },
+        "#8CCEEA": {
+            "name": "Anakiwa",
+            "hueName": "Blue"
+        },
+        "#6C461F": {
+            "name": "Antique Brass",
+            "hueName": "Orange"
+        },
+        "#FAEBD7": {
+            "name": "Antique White",
+            "hueName": "White"
+        },
+        "#C68E3F": {
+            "name": "Anzac",
+            "hueName": "Yellow"
+        },
+        "#D3A95C": {
+            "name": "Apache",
+            "hueName": "Yellow"
+        },
+        "#66B348": {
+            "name": "Apple",
+            "hueName": "Green"
+        },
+        "#A95249": {
+            "name": "Apple Blossom",
+            "hueName": "Red"
+        },
+        "#DEEADC": {
+            "name": "Apple Green",
+            "hueName": "Green"
+        },
+        "#FBCEB1": {
+            "name": "Apricot",
+            "hueName": "Orange"
+        },
+        "#F7F0DB": {
+            "name": "Apricot White",
+            "hueName": "Yellow"
+        },
+        "#00FFFF": {
+            "name": "Aqua",
+            "hueName": "Blue"
+        },
+        "#D9DDD5": {
+            "name": "Aqua Haze",
+            "hueName": "Grey"
+        },
+        "#E8F3E8": {
+            "name": "Aqua Spring",
+            "hueName": "Green"
+        },
+        "#DBE4DC": {
+            "name": "Aqua Squeeze",
+            "hueName": "Grey"
+        },
+        "#7FFFD4": {
+            "name": "Aquamarine",
+            "hueName": "Blue"
+        },
+        "#274A5D": {
+            "name": "Arapawa",
+            "hueName": "Blue"
+        },
+        "#484A46": {
+            "name": "Armadillo",
+            "hueName": "Grey"
+        },
+        "#4B5320": {
+            "name": "Army green",
+            "hueName": "Green"
+        },
+        "#827A67": {
+            "name": "Arrowtown",
+            "hueName": "Yellow"
+        },
+        "#3B444B": {
+            "name": "Arsenic",
+            "hueName": "Grey"
+        },
+        "#BEBAA7": {
+            "name": "Ash",
+            "hueName": "Green"
+        },
+        "#7BA05B": {
+            "name": "Asparagus",
+            "hueName": "Green"
+        },
+        "#EDD5A6": {
+            "name": "Astra",
+            "hueName": "Yellow"
+        },
+        "#376F89": {
+            "name": "Astral",
+            "hueName": "Blue"
+        },
+        "#445172": {
+            "name": "Astronaut",
+            "hueName": "Blue"
+        },
+        "#214559": {
+            "name": "Astronaut Blue",
+            "hueName": "Blue"
+        },
+        "#DCDDDD": {
+            "name": "Athens Grey",
+            "hueName": "Grey"
+        },
+        "#D5CBB2": {
+            "name": "Aths Special",
+            "hueName": "Yellow"
+        },
+        "#9CD03B": {
+            "name": "Atlantis",
+            "hueName": "Green"
+        },
+        "#2B797A": {
+            "name": "Atoll",
+            "hueName": "Green"
+        },
+        "#3D4B52": {
+            "name": "Atomic",
+            "hueName": "Blue"
+        },
+        "#FF9966": {
+            "name": "Atomic Tangerine",
+            "hueName": "Orange"
+        },
+        "#9E6759": {
+            "name": "Au Chico",
+            "hueName": "Brown"
+        },
+        "#372528": {
+            "name": "Aubergine",
+            "hueName": "Brown"
+        },
+        "#712F2C": {
+            "name": "Auburn",
+            "hueName": "Brown"
+        },
+        "#EFF8AA": {
+            "name": "Australian Mint",
+            "hueName": "Green"
+        },
+        "#95986B": {
+            "name": "Avocado",
+            "hueName": "Green"
+        },
+        "#63775A": {
+            "name": "Axolotl",
+            "hueName": "Green"
+        },
+        "#F9C0C4": {
+            "name": "Azalea",
+            "hueName": "Red"
+        },
+        "#293432": {
+            "name": "Aztec",
+            "hueName": "Green"
+        },
+        "#F0FFFF": {
+            "name": "Azure",
+            "hueName": "Blue"
+        },
+        "#6FFFFF": {
+            "name": "Baby Blue",
+            "hueName": "Blue"
+        },
+        "#25597F": {
+            "name": "Bahama Blue",
+            "hueName": "Blue"
+        },
+        "#A9C01C": {
+            "name": "Bahia",
+            "hueName": "Green"
+        },
+        "#5C3317": {
+            "name": "Baker's Chocolate",
+            "hueName": "Brown"
+        },
+        "#849CA9": {
+            "name": "Bali Hai",
+            "hueName": "Blue"
+        },
+        "#3C3D3E": {
+            "name": "Baltic Sea",
+            "hueName": "Grey"
+        },
+        "#FBE7B2": {
+            "name": "Banana Mania",
+            "hueName": "Yellow"
+        },
+        "#878466": {
+            "name": "Bandicoot",
+            "hueName": "Green"
+        },
+        "#D2C61F": {
+            "name": "Barberry",
+            "hueName": "Green"
+        },
+        "#B6935C": {
+            "name": "Barley Corn",
+            "hueName": "Yellow"
+        },
+        "#F7E5B7": {
+            "name": "Barley White",
+            "hueName": "Yellow"
+        },
+        "#452E39": {
+            "name": "Barossa",
+            "hueName": "Violet"
+        },
+        "#2C2C32": {
+            "name": "Bastille",
+            "hueName": "Blue"
+        },
+        "#51574F": {
+            "name": "Battleship Grey",
+            "hueName": "Grey"
+        },
+        "#7BB18D": {
+            "name": "Bay Leaf",
+            "hueName": "Green"
+        },
+        "#353E64": {
+            "name": "Bay Of Many",
+            "hueName": "Blue"
+        },
+        "#8F7777": {
+            "name": "Bazaar",
+            "hueName": "Brown"
+        },
+        "#EBB9B3": {
+            "name": "Beauty Bush",
+            "hueName": "Red"
+        },
+        "#926F5B": {
+            "name": "Beaver",
+            "hueName": "Brown"
+        },
+        "#E9D7AB": {
+            "name": "Beeswax",
+            "hueName": "Yellow"
+        },
+        "#F5F5DC": {
+            "name": "Beige",
+            "hueName": "Brown"
+        },
+        "#86D2C1": {
+            "name": "Bermuda",
+            "hueName": "Green"
+        },
+        "#6F8C9F": {
+            "name": "Bermuda Grey",
+            "hueName": "Blue"
+        },
+        "#BCBFA8": {
+            "name": "Beryl Green",
+            "hueName": "Green"
+        },
+        "#F4EFE0": {
+            "name": "Bianca",
+            "hueName": "Yellow"
+        },
+        "#334046": {
+            "name": "Big Stone",
+            "hueName": "Blue"
+        },
+        "#3E8027": {
+            "name": "Bilbao",
+            "hueName": "Green"
+        },
+        "#AE99D2": {
+            "name": "Biloba Flower",
+            "hueName": "Violet"
+        },
+        "#3F3726": {
+            "name": "Birch",
+            "hueName": "Yellow"
+        },
+        "#D0C117": {
+            "name": "Bird Flower",
+            "hueName": "Green"
+        },
+        "#2F3C53": {
+            "name": "Biscay",
+            "hueName": "Blue"
+        },
+        "#486C7A": {
+            "name": "Bismark",
+            "hueName": "Blue"
+        },
+        "#B5AC94": {
+            "name": "Bison Hide",
+            "hueName": "Yellow"
+        },
+        "#FFE4C4": {
+            "name": "Bisque",
+            "hueName": "Brown"
+        },
+        "#3D2B1F": {
+            "name": "Bistre",
+            "hueName": "Brown"
+        },
+        "#88896C": {
+            "name": "Bitter",
+            "hueName": "Green"
+        },
+        "#D2DB32": {
+            "name": "Bitter Lemon",
+            "hueName": "Green"
+        },
+        "#FE6F5E": {
+            "name": "Bittersweet",
+            "hueName": "Orange"
+        },
+        "#E7D2C8": {
+            "name": "Bizarre",
+            "hueName": "Orange"
+        },
+        "#000000": {
+            "name": "Black",
+            "hueName": "Black"
+        },
+        "#232E26": {
+            "name": "Black Bean",
+            "hueName": "Green"
+        },
+        "#2C3227": {
+            "name": "Black Forest",
+            "hueName": "Green"
+        },
+        "#E0DED7": {
+            "name": "Black Haze",
+            "hueName": "Grey"
+        },
+        "#332C22": {
+            "name": "Black Magic",
+            "hueName": "Brown"
+        },
+        "#383740": {
+            "name": "Black Marlin",
+            "hueName": "Blue"
+        },
+        "#1E272C": {
+            "name": "Black Pearl",
+            "hueName": "Blue"
+        },
+        "#2C2D3C": {
+            "name": "Black Rock",
+            "hueName": "Blue"
+        },
+        "#532934": {
+            "name": "Black Rose",
+            "hueName": "Red"
+        },
+        "#24252B": {
+            "name": "Black Russian",
+            "hueName": "Grey"
+        },
+        "#E5E6DF": {
+            "name": "Black Squeeze",
+            "hueName": "Grey"
+        },
+        "#E5E4DB": {
+            "name": "Black White",
+            "hueName": "Grey"
+        },
+        "#43182F": {
+            "name": "Blackberry",
+            "hueName": "Violet"
+        },
+        "#2E183B": {
+            "name": "Blackcurrant",
+            "hueName": "Violet"
+        },
+        "#D9D0C1": {
+            "name": "Blanc",
+            "hueName": "Yellow"
+        },
+        "#FFEBCD": {
+            "name": "Blanched Almond",
+            "hueName": "Brown"
+        },
+        "#EBE1CE": {
+            "name": "Bleach White",
+            "hueName": "Yellow"
+        },
+        "#A3E3ED": {
+            "name": "Blizzard Blue",
+            "hueName": "Blue"
+        },
+        "#DFB1B6": {
+            "name": "Blossom",
+            "hueName": "Red"
+        },
+        "#0000FF": {
+            "name": "Blue",
+            "hueName": "Blue"
+        },
+        "#62777E": {
+            "name": "Blue Bayoux",
+            "hueName": "Blue"
+        },
+        "#9999CC": {
+            "name": "Blue Bell",
+            "hueName": "Blue"
+        },
+        "#E3D6E9": {
+            "name": "Blue Chalk",
+            "hueName": "Violet"
+        },
+        "#262B2F": {
+            "name": "Blue Charcoal",
+            "hueName": "Blue"
+        },
+        "#408F90": {
+            "name": "Blue Chill",
+            "hueName": "Green"
+        },
+        "#4B2D72": {
+            "name": "Blue Diamond",
+            "hueName": "Violet"
+        },
+        "#35514F": {
+            "name": "Blue Dianne",
+            "hueName": "Green"
+        },
+        "#4B3C8E": {
+            "name": "Blue Gem",
+            "hueName": "Violet"
+        },
+        "#BDBACE": {
+            "name": "Blue Haze",
+            "hueName": "Violet"
+        },
+        "#00626F": {
+            "name": "Blue Lagoon",
+            "hueName": "Green"
+        },
+        "#6A5BB1": {
+            "name": "Blue Marguerite",
+            "hueName": "Violet"
+        },
+        "#D8F0D2": {
+            "name": "Blue Romance",
+            "hueName": "Green"
+        },
+        "#78857A": {
+            "name": "Blue Smoke",
+            "hueName": "Green"
+        },
+        "#166461": {
+            "name": "Blue Stone",
+            "hueName": "Green"
+        },
+        "#8A2BE2": {
+            "name": "Blue Violet",
+            "hueName": "Violet"
+        },
+        "#1E3442": {
+            "name": "Blue Whale",
+            "hueName": "Blue"
+        },
+        "#3C4354": {
+            "name": "Blue Zodiac",
+            "hueName": "Blue"
+        },
+        "#305C71": {
+            "name": "Blumine",
+            "hueName": "Blue"
+        },
+        "#B55067": {
+            "name": "Blush",
+            "hueName": "Red"
+        },
+        "#2A2725": {
+            "name": "Bokara Grey",
+            "hueName": "Grey"
+        },
+        "#79443B": {
+            "name": "Bole",
+            "hueName": "Brown"
+        },
+        "#AEAEAD": {
+            "name": "Bombay",
+            "hueName": "Grey"
+        },
+        "#DFD7D2": {
+            "name": "Bon Jour",
+            "hueName": "Grey"
+        },
+        "#0095B6": {
+            "name": "Bondi Blue",
+            "hueName": "Blue"
+        },
+        "#DBC2AB": {
+            "name": "Bone",
+            "hueName": "Orange"
+        },
+        "#4C1C24": {
+            "name": "Bordeaux",
+            "hueName": "Red"
+        },
+        "#4C3D4E": {
+            "name": "Bossanova",
+            "hueName": "Violet"
+        },
+        "#438EAC": {
+            "name": "Boston Blue",
+            "hueName": "Blue"
+        },
+        "#92ACB4": {
+            "name": "Botticelli",
+            "hueName": "Blue"
+        },
+        "#254636": {
+            "name": "Bottle Green",
+            "hueName": "Green"
+        },
+        "#7C817C": {
+            "name": "Boulder",
+            "hueName": "Grey"
+        },
+        "#A78199": {
+            "name": "Bouquet",
+            "hueName": "Violet"
+        },
+        "#AF6C3E": {
+            "name": "Bourbon",
+            "hueName": "Orange"
+        },
+        "#5B3D27": {
+            "name": "Bracken",
+            "hueName": "Brown"
+        },
+        "#DCB68A": {
+            "name": "Brandy",
+            "hueName": "Orange"
+        },
+        "#C07C40": {
+            "name": "Brandy Punch",
+            "hueName": "Orange"
+        },
+        "#B6857A": {
+            "name": "Brandy Rose",
+            "hueName": "Red"
+        },
+        "#B5A642": {
+            "name": "Brass",
+            "hueName": "Yellow"
+        },
+        "#517B78": {
+            "name": "Breaker Bay",
+            "hueName": "Green"
+        },
+        "#C62D42": {
+            "name": "Brick Red",
+            "hueName": "Red"
+        },
+        "#F8EBDD": {
+            "name": "Bridal Heath",
+            "hueName": "Orange"
+        },
+        "#FAE6DF": {
+            "name": "Bridesmaid",
+            "hueName": "Orange"
+        },
+        "#66FF00": {
+            "name": "Bright Green",
+            "hueName": "Green"
+        },
+        "#57595D": {
+            "name": "Bright Grey",
+            "hueName": "Grey"
+        },
+        "#922A31": {
+            "name": "Bright Red",
+            "hueName": "Red"
+        },
+        "#ECBD2C": {
+            "name": "Bright Sun",
+            "hueName": "Yellow"
+        },
+        "#08E8DE": {
+            "name": "Bright Turquoise",
+            "hueName": "Blue"
+        },
+        "#FF55A3": {
+            "name": "Brilliant Rose",
+            "hueName": "Red"
+        },
+        "#FB607F": {
+            "name": "Brink Pink",
+            "hueName": "Red"
+        },
+        "#004225": {
+            "name": "British Racing Green",
+            "hueName": "Green"
+        },
+        "#A79781": {
+            "name": "Bronco",
+            "hueName": "Brown"
+        },
+        "#CD7F32": {
+            "name": "Bronze",
+            "hueName": "Brown"
+        },
+        "#584C25": {
+            "name": "Bronze Olive",
+            "hueName": "Yellow"
+        },
+        "#434C28": {
+            "name": "Bronzetone",
+            "hueName": "Yellow"
+        },
+        "#EECC24": {
+            "name": "Broom",
+            "hueName": "Yellow"
+        },
+        "#A52A2A": {
+            "name": "Brown",
+            "hueName": "Brown"
+        },
+        "#53331E": {
+            "name": "Brown Bramble",
+            "hueName": "Brown"
+        },
+        "#594537": {
+            "name": "Brown Derby",
+            "hueName": "Brown"
+        },
+        "#3C241B": {
+            "name": "Brown Pod",
+            "hueName": "Brown"
+        },
+        "#E6F2EA": {
+            "name": "Bubbles",
+            "hueName": "Green"
+        },
+        "#6E5150": {
+            "name": "Buccaneer",
+            "hueName": "Red"
+        },
+        "#A5A88F": {
+            "name": "Bud",
+            "hueName": "Green"
+        },
+        "#BC9B1B": {
+            "name": "Buddha Gold",
+            "hueName": "Yellow"
+        },
+        "#F0DC82": {
+            "name": "Buff",
+            "hueName": "Yellow"
+        },
+        "#482427": {
+            "name": "Bulgarian Rose",
+            "hueName": "Red"
+        },
+        "#75442B": {
+            "name": "Bull Shot",
+            "hueName": "Orange"
+        },
+        "#292C2F": {
+            "name": "Bunker",
+            "hueName": "Grey"
+        },
+        "#2B3449": {
+            "name": "Bunting",
+            "hueName": "Blue"
+        },
+        "#800020": {
+            "name": "Burgundy",
+            "hueName": "Red"
+        },
+        "#DEB887": {
+            "name": "Burly Wood",
+            "hueName": "Brown"
+        },
+        "#234537": {
+            "name": "Burnham",
+            "hueName": "Green"
+        },
+        "#D08363": {
+            "name": "Burning Sand",
+            "hueName": "Orange"
+        },
+        "#582124": {
+            "name": "Burnt Crimson",
+            "hueName": "Red"
+        },
+        "#FF7034": {
+            "name": "Burnt Orange",
+            "hueName": "Orange"
+        },
+        "#E97451": {
+            "name": "Burnt Sienna",
+            "hueName": "Brown"
+        },
+        "#8A3324": {
+            "name": "Burnt Umber",
+            "hueName": "Brown"
+        },
+        "#DA9429": {
+            "name": "Buttercup",
+            "hueName": "Yellow"
+        },
+        "#9D702E": {
+            "name": "Buttered Rum",
+            "hueName": "Yellow"
+        },
+        "#68578C": {
+            "name": "Butterfly Bush",
+            "hueName": "Violet"
+        },
+        "#F6E0A4": {
+            "name": "Buttermilk",
+            "hueName": "Yellow"
+        },
+        "#F1EBDA": {
+            "name": "Buttery White",
+            "hueName": "Yellow"
+        },
+        "#4A2E32": {
+            "name": "Cab Sav",
+            "hueName": "Red"
+        },
+        "#CD526C": {
+            "name": "Cabaret",
+            "hueName": "Red"
+        },
+        "#4C5544": {
+            "name": "Cabbage Pont",
+            "hueName": "Green"
+        },
+        "#5B6F55": {
+            "name": "Cactus",
+            "hueName": "Green"
+        },
+        "#5F9EA0": {
+            "name": "Cadet Blue",
+            "hueName": "Blue"
+        },
+        "#984961": {
+            "name": "Cadillac",
+            "hueName": "Red"
+        },
+        "#6A4928": {
+            "name": "Cafe Royale",
+            "hueName": "Brown"
+        },
+        "#D5B185": {
+            "name": "Calico",
+            "hueName": "Brown"
+        },
+        "#E98C3A": {
+            "name": "California",
+            "hueName": "Orange"
+        },
+        "#3D7188": {
+            "name": "Calypso",
+            "hueName": "Blue"
+        },
+        "#206937": {
+            "name": "Camarone",
+            "hueName": "Green"
+        },
+        "#803A4B": {
+            "name": "Camelot",
+            "hueName": "Red"
+        },
+        "#CCA483": {
+            "name": "Cameo",
+            "hueName": "Brown"
+        },
+        "#4F4D32": {
+            "name": "Camouflage",
+            "hueName": "Yellow"
+        },
+        "#78866B": {
+            "name": "Camouflage Green",
+            "hueName": "Green"
+        },
+        "#D08A9B": {
+            "name": "Can Can",
+            "hueName": "Red"
+        },
+        "#FFFF99": {
+            "name": "Canary",
+            "hueName": "Yellow"
+        },
+        "#8E5164": {
+            "name": "Cannon Pink",
+            "hueName": "Red"
+        },
+        "#4E5552": {
+            "name": "Cape Cod",
+            "hueName": "Grey"
+        },
+        "#FEE0A5": {
+            "name": "Cape Honey",
+            "hueName": "Yellow"
+        },
+        "#75482F": {
+            "name": "Cape Palliser",
+            "hueName": "Orange"
+        },
+        "#AFC182": {
+            "name": "Caper",
+            "hueName": "Green"
+        },
+        "#592720": {
+            "name": "Caput Mortuum",
+            "hueName": "Brown"
+        },
+        "#FFD59A": {
+            "name": "Caramel",
+            "hueName": "Yellow"
+        },
+        "#EBE5D5": {
+            "name": "Cararra",
+            "hueName": "Green"
+        },
+        "#1B3427": {
+            "name": "Cardin Green",
+            "hueName": "Green"
+        },
+        "#C41E3A": {
+            "name": "Cardinal",
+            "hueName": "Red"
+        },
+        "#C99AA0": {
+            "name": "Careys Pink",
+            "hueName": "Red"
+        },
+        "#00CC99": {
+            "name": "Caribbean Green",
+            "hueName": "Green"
+        },
+        "#E68095": {
+            "name": "Carissma",
+            "hueName": "Red"
+        },
+        "#F5F9CB": {
+            "name": "Carla",
+            "hueName": "Green"
+        },
+        "#960018": {
+            "name": "Carmine",
+            "hueName": "Red"
+        },
+        "#5B3A24": {
+            "name": "Carnaby Tan",
+            "hueName": "Brown"
+        },
+        "#FFA6C9": {
+            "name": "Carnation Pink",
+            "hueName": "Red"
+        },
+        "#F8DBE0": {
+            "name": "Carousel Pink",
+            "hueName": "Red"
+        },
+        "#ED9121": {
+            "name": "Carrot Orange",
+            "hueName": "Orange"
+        },
+        "#F0B253": {
+            "name": "Casablanca",
+            "hueName": "Yellow"
+        },
+        "#3F545A": {
+            "name": "Casal",
+            "hueName": "Blue"
+        },
+        "#8CA8A0": {
+            "name": "Cascade",
+            "hueName": "Green"
+        },
+        "#D1B399": {
+            "name": "Cashmere",
+            "hueName": "Brown"
+        },
+        "#AAB5B8": {
+            "name": "Casper",
+            "hueName": "Blue"
+        },
+        "#44232F": {
+            "name": "Castro",
+            "hueName": "Red"
+        },
+        "#273C5A": {
+            "name": "Catalina Blue",
+            "hueName": "Blue"
+        },
+        "#E0E4DC": {
+            "name": "Catskill White",
+            "hueName": "Grey"
+        },
+        "#E0B8B1": {
+            "name": "Cavern Pink",
+            "hueName": "Red"
+        },
+        "#9271A7": {
+            "name": "Ce Soir",
+            "hueName": "Violet"
+        },
+        "#463430": {
+            "name": "Cedar",
+            "hueName": "Brown"
+        },
+        "#ACE1AF": {
+            "name": "Celadon",
+            "hueName": "Green"
+        },
+        "#B4C04C": {
+            "name": "Celery",
+            "hueName": "Green"
+        },
+        "#D2D2C0": {
+            "name": "Celeste",
+            "hueName": "Green"
+        },
+        "#3A4E5F": {
+            "name": "Cello",
+            "hueName": "Blue"
+        },
+        "#2B3F36": {
+            "name": "Celtic",
+            "hueName": "Green"
+        },
+        "#857158": {
+            "name": "Cement",
+            "hueName": "Brown"
+        },
+        "#DE3163": {
+            "name": "Cerise",
+            "hueName": "Violet"
+        },
+        "#007BA7": {
+            "name": "Cerulean",
+            "hueName": "Blue"
+        },
+        "#2A52BE": {
+            "name": "Cerulean Blue",
+            "hueName": "Blue"
+        },
+        "#FDE9E0": {
+            "name": "Chablis",
+            "hueName": "Red"
+        },
+        "#5A6E41": {
+            "name": "Chalet Green",
+            "hueName": "Green"
+        },
+        "#DFC281": {
+            "name": "Chalky",
+            "hueName": "Yellow"
+        },
+        "#475877": {
+            "name": "Chambray",
+            "hueName": "Blue"
+        },
+        "#E8CD9A": {
+            "name": "Chamois",
+            "hueName": "Yellow"
+        },
+        "#EED9B6": {
+            "name": "Champagne",
+            "hueName": "Yellow"
+        },
+        "#EDB8C7": {
+            "name": "Chantilly",
+            "hueName": "Red"
+        },
+        "#394043": {
+            "name": "Charade",
+            "hueName": "Blue"
+        },
+        "#464646": {
+            "name": "Charcoal",
+            "hueName": "Grey"
+        },
+        "#F8EADF": {
+            "name": "Chardon",
+            "hueName": "Orange"
+        },
+        "#FFC878": {
+            "name": "Chardonnay",
+            "hueName": "Yellow"
+        },
+        "#A4DCE6": {
+            "name": "Charlotte",
+            "hueName": "Blue"
+        },
+        "#D0748B": {
+            "name": "Charm",
+            "hueName": "Red"
+        },
+        "#7FFF00": {
+            "name": "Chartreuse",
+            "hueName": "Green"
+        },
+        "#DFFF00": {
+            "name": "Chartreuse Yellow",
+            "hueName": "Yellow"
+        },
+        "#419F59": {
+            "name": "Chateau Green",
+            "hueName": "Green"
+        },
+        "#B3ABB6": {
+            "name": "Chatelle",
+            "hueName": "Violet"
+        },
+        "#2C5971": {
+            "name": "Chathams Blue",
+            "hueName": "Blue"
+        },
+        "#88A95B": {
+            "name": "Chelsea Cucumber",
+            "hueName": "Green"
+        },
+        "#95532F": {
+            "name": "Chelsea Gem",
+            "hueName": "Orange"
+        },
+        "#DEC371": {
+            "name": "Chenin",
+            "hueName": "Yellow"
+        },
+        "#F5CD82": {
+            "name": "Cherokee",
+            "hueName": "Yellow"
+        },
+        "#372D52": {
+            "name": "Cherry Pie",
+            "hueName": "Violet"
+        },
+        "#F5D7DC": {
+            "name": "Cherub",
+            "hueName": "Red"
+        },
+        "#B94E48": {
+            "name": "Chestnut",
+            "hueName": "Brown"
+        },
+        "#666FB4": {
+            "name": "Chetwode Blue",
+            "hueName": "Blue"
+        },
+        "#5B5D56": {
+            "name": "Chicago",
+            "hueName": "Grey"
+        },
+        "#F0F5BB": {
+            "name": "Chiffon",
+            "hueName": "Green"
+        },
+        "#D05E34": {
+            "name": "Chilean Fire",
+            "hueName": "Orange"
+        },
+        "#F9F7DE": {
+            "name": "Chilean Heath",
+            "hueName": "Green"
+        },
+        "#FBF3D3": {
+            "name": "China Ivory",
+            "hueName": "Green"
+        },
+        "#B8AD8A": {
+            "name": "Chino",
+            "hueName": "Yellow"
+        },
+        "#9DD3A8": {
+            "name": "Chinook",
+            "hueName": "Green"
+        },
+        "#D2691E": {
+            "name": "Chocolate",
+            "hueName": "Brown"
+        },
+        "#382161": {
+            "name": "Christalle",
+            "hueName": "Violet"
+        },
+        "#71A91D": {
+            "name": "Christi",
+            "hueName": "Green"
+        },
+        "#BF652E": {
+            "name": "Christine",
+            "hueName": "Orange"
+        },
+        "#CAC7B7": {
+            "name": "Chrome White",
+            "hueName": "Green"
+        },
+        "#7D4E38": {
+            "name": "Cigar",
+            "hueName": "Brown"
+        },
+        "#242A2E": {
+            "name": "Cinder",
+            "hueName": "Grey"
+        },
+        "#FBD7CC": {
+            "name": "Cinderella",
+            "hueName": "Red"
+        },
+        "#E34234": {
+            "name": "Cinnabar",
+            "hueName": "Red"
+        },
+        "#5D3B2E": {
+            "name": "Cioccolato",
+            "hueName": "Brown"
+        },
+        "#8E9A21": {
+            "name": "Citron",
+            "hueName": "Green"
+        },
+        "#9FB70A": {
+            "name": "Citrus",
+            "hueName": "Green"
+        },
+        "#D2B3A9": {
+            "name": "Clam Shell",
+            "hueName": "Orange"
+        },
+        "#6E2233": {
+            "name": "Claret",
+            "hueName": "Red"
+        },
+        "#F4C8DB": {
+            "name": "Classic Rose",
+            "hueName": "Violet"
+        },
+        "#897E59": {
+            "name": "Clay Creek",
+            "hueName": "Yellow"
+        },
+        "#DFEFEA": {
+            "name": "Clear Day",
+            "hueName": "Green"
+        },
+        "#463623": {
+            "name": "Clinker",
+            "hueName": "Brown"
+        },
+        "#C2BCB1": {
+            "name": "Cloud",
+            "hueName": "Yellow"
+        },
+        "#353E4F": {
+            "name": "Cloud Burst",
+            "hueName": "Blue"
+        },
+        "#B0A99F": {
+            "name": "Cloudy",
+            "hueName": "Brown"
+        },
+        "#47562F": {
+            "name": "Clover",
+            "hueName": "Green"
+        },
+        "#0047AB": {
+            "name": "Cobalt",
+            "hueName": "Blue"
+        },
+        "#4F3835": {
+            "name": "Cocoa Bean",
+            "hueName": "Red"
+        },
+        "#35281E": {
+            "name": "Cocoa Brown",
+            "hueName": "Brown"
+        },
+        "#E1DABB": {
+            "name": "Coconut Cream",
+            "hueName": "Green"
+        },
+        "#2D3032": {
+            "name": "Cod Grey",
+            "hueName": "Grey"
+        },
+        "#726751": {
+            "name": "Coffee",
+            "hueName": "Yellow"
+        },
+        "#362D26": {
+            "name": "Coffee Bean",
+            "hueName": "Brown"
+        },
+        "#9A463D": {
+            "name": "Cognac",
+            "hueName": "Red"
+        },
+        "#3C2F23": {
+            "name": "Cola",
+            "hueName": "Brown"
+        },
+        "#9D8ABF": {
+            "name": "Cold Purple",
+            "hueName": "Violet"
+        },
+        "#CAB5B2": {
+            "name": "Cold Turkey",
+            "hueName": "Red"
+        },
+        "#9BDDFF": {
+            "name": "Columbia Blue",
+            "hueName": "Blue"
+        },
+        "#636373": {
+            "name": "Comet",
+            "hueName": "Blue"
+        },
+        "#4C785C": {
+            "name": "Como",
+            "hueName": "Green"
+        },
+        "#A0B1AE": {
+            "name": "Conch",
+            "hueName": "Green"
+        },
+        "#827F79": {
+            "name": "Concord",
+            "hueName": "Grey"
+        },
+        "#D2D1CD": {
+            "name": "Concrete",
+            "hueName": "Grey"
+        },
+        "#DDCB46": {
+            "name": "Confetti",
+            "hueName": "Green"
+        },
+        "#654D49": {
+            "name": "Congo Brown",
+            "hueName": "Brown"
+        },
+        "#B1DD52": {
+            "name": "Conifer",
+            "hueName": "Green"
+        },
+        "#C16F68": {
+            "name": "Contessa",
+            "hueName": "Red"
+        },
+        "#DA8A67": {
+            "name": "Copper",
+            "hueName": "Red"
+        },
+        "#77422C": {
+            "name": "Copper Canyon",
+            "hueName": "Orange"
+        },
+        "#996666": {
+            "name": "Copper Rose",
+            "hueName": "Violet"
+        },
+        "#95524C": {
+            "name": "Copper Rust",
+            "hueName": "Red"
+        },
+        "#FF7F50": {
+            "name": "Coral",
+            "hueName": "Orange"
+        },
+        "#F5D0C9": {
+            "name": "Coral Candy",
+            "hueName": "Red"
+        },
+        "#FF4040": {
+            "name": "Coral Red",
+            "hueName": "Red"
+        },
+        "#AB6E67": {
+            "name": "Coral Tree",
+            "hueName": "Red"
+        },
+        "#404D49": {
+            "name": "Corduroy",
+            "hueName": "Green"
+        },
+        "#BBB58D": {
+            "name": "Coriander",
+            "hueName": "Green"
+        },
+        "#5A4C42": {
+            "name": "Cork",
+            "hueName": "Brown"
+        },
+        "#FBEC5D": {
+            "name": "Corn",
+            "hueName": "Yellow"
+        },
+        "#F8F3C4": {
+            "name": "Corn Field",
+            "hueName": "Green"
+        },
+        "#42426F": {
+            "name": "Corn Flower Blue",
+            "hueName": "Blue"
+        },
+        "#8D702A": {
+            "name": "Corn Harvest",
+            "hueName": "Yellow"
+        },
+        "#FFF8DC": {
+            "name": "Corn Silk",
+            "hueName": "Yellow"
+        },
+        "#93CCEA": {
+            "name": "Cornflower",
+            "hueName": "Blue"
+        },
+        "#6495ED": {
+            "name": "Cornflower Blue",
+            "hueName": "Blue"
+        },
+        "#E9BA81": {
+            "name": "Corvette",
+            "hueName": "Orange"
+        },
+        "#794D60": {
+            "name": "Cosmic",
+            "hueName": "Violet"
+        },
+        "#E1F8E7": {
+            "name": "Cosmic Latte",
+            "hueName": "White"
+        },
+        "#FCD5CF": {
+            "name": "Cosmos",
+            "hueName": "Red"
+        },
+        "#625D2A": {
+            "name": "Costa Del Sol",
+            "hueName": "Green"
+        },
+        "#FFB7D5": {
+            "name": "Cotton Candy",
+            "hueName": "Red"
+        },
+        "#BFBAAF": {
+            "name": "Cotton Seed",
+            "hueName": "Yellow"
+        },
+        "#1B4B35": {
+            "name": "County Green",
+            "hueName": "Green"
+        },
+        "#443736": {
+            "name": "Cowboy",
+            "hueName": "Brown"
+        },
+        "#87382F": {
+            "name": "Crab Apple",
+            "hueName": "Red"
+        },
+        "#A65648": {
+            "name": "Crail",
+            "hueName": "Red"
+        },
+        "#DB5079": {
+            "name": "Cranberry",
+            "hueName": "Red"
+        },
+        "#4D3E3C": {
+            "name": "Crater Brown",
+            "hueName": "Brown"
+        },
+        "#FFFDD0": {
+            "name": "Cream",
+            "hueName": "White"
+        },
+        "#FFE39B": {
+            "name": "Cream Brulee",
+            "hueName": "Yellow"
+        },
+        "#EEC051": {
+            "name": "Cream Can",
+            "hueName": "Yellow"
+        },
+        "#393227": {
+            "name": "Creole",
+            "hueName": "Brown"
+        },
+        "#77712B": {
+            "name": "Crete",
+            "hueName": "Green"
+        },
+        "#DC143C": {
+            "name": "Crimson",
+            "hueName": "Red"
+        },
+        "#706950": {
+            "name": "Crocodile",
+            "hueName": "Yellow"
+        },
+        "#763C33": {
+            "name": "Crown Of Thorns",
+            "hueName": "Red"
+        },
+        "#B4E2D5": {
+            "name": "Cruise",
+            "hueName": "Green"
+        },
+        "#165B31": {
+            "name": "Crusoe",
+            "hueName": "Green"
+        },
+        "#F38653": {
+            "name": "Crusta",
+            "hueName": "Orange"
+        },
+        "#784430": {
+            "name": "Cumin",
+            "hueName": "Orange"
+        },
+        "#F5F4C1": {
+            "name": "Cumulus",
+            "hueName": "Green"
+        },
+        "#F5B2C5": {
+            "name": "Cupid",
+            "hueName": "Red"
+        },
+        "#3D85B8": {
+            "name": "Curious Blue",
+            "hueName": "Blue"
+        },
+        "#5C8173": {
+            "name": "Cutty Sark",
+            "hueName": "Green"
+        },
+        "#0F4645": {
+            "name": "Cyprus",
+            "hueName": "Green"
+        },
+        "#EDD2A4": {
+            "name": "Dairy Cream",
+            "hueName": "Yellow"
+        },
+        "#5B3E90": {
+            "name": "Daisy Bush",
+            "hueName": "Violet"
+        },
+        "#664A2D": {
+            "name": "Dallas",
+            "hueName": "Brown"
+        },
+        "#FED85D": {
+            "name": "Dandelion",
+            "hueName": "Yellow"
+        },
+        "#5B89C0": {
+            "name": "Danube",
+            "hueName": "Blue"
+        },
+        "#00008B": {
+            "name": "Dark Blue",
+            "hueName": "Blue"
+        },
+        "#654321": {
+            "name": "Dark Brown",
+            "hueName": "Brown"
+        },
+        "#08457E": {
+            "name": "Dark Cerulean",
+            "hueName": "Blue"
+        },
+        "#986960": {
+            "name": "Dark Chestnut",
+            "hueName": "Red"
+        },
+        "#CD5B45": {
+            "name": "Dark Coral",
+            "hueName": "Orange"
+        },
+        "#008B8B": {
+            "name": "Dark Cyan",
+            "hueName": "Green"
+        },
+        "#B8860B": {
+            "name": "Dark Goldenrod",
+            "hueName": "Yellow"
+        },
+        "#A9A9A9": {
+            "name": "Dark Gray",
+            "hueName": "Grey"
+        },
+        "#013220": {
+            "name": "Dark Green",
+            "hueName": "Green"
+        },
+        "#4A766E": {
+            "name": "Dark Green Copper",
+            "hueName": "Green"
+        },
+        "#BDB76B": {
+            "name": "Dark Khaki",
+            "hueName": "Yellow"
+        },
+        "#8B008B": {
+            "name": "Dark Magenta",
+            "hueName": "Violet"
+        },
+        "#556B2F": {
+            "name": "Dark Olive Green",
+            "hueName": "Green"
+        },
+        "#FF8C00": {
+            "name": "Dark Orange",
+            "hueName": "Orange"
+        },
+        "#9932CC": {
+            "name": "Dark Orchid",
+            "hueName": "Violet"
+        },
+        "#03C03C": {
+            "name": "Dark Pastel Green",
+            "hueName": "Green"
+        },
+        "#E75480": {
+            "name": "Dark Pink",
+            "hueName": "Red"
+        },
+        "#871F78": {
+            "name": "Dark Purple",
+            "hueName": "Violet"
+        },
+        "#8B0000": {
+            "name": "Dark Red",
+            "hueName": "Red"
+        },
+        "#45362B": {
+            "name": "Dark Rum",
+            "hueName": "Brown"
+        },
+        "#E9967A": {
+            "name": "Dark Salmon",
+            "hueName": "Orange"
+        },
+        "#8FBC8F": {
+            "name": "Dark Sea Green",
+            "hueName": "Green"
+        },
+        "#465352": {
+            "name": "Dark Slate",
+            "hueName": "Green"
+        },
+        "#483D8B": {
+            "name": "Dark Slate Blue",
+            "hueName": "Blue"
+        },
+        "#2F4F4F": {
+            "name": "Dark Slate Grey",
+            "hueName": "Grey"
+        },
+        "#177245": {
+            "name": "Dark Spring Green",
+            "hueName": "Green"
+        },
+        "#97694F": {
+            "name": "Dark Tan",
+            "hueName": "Brown"
+        },
+        "#FFA812": {
+            "name": "Dark Tangerine",
+            "hueName": "Orange"
+        },
+        "#00CED1": {
+            "name": "Dark Turquoise",
+            "hueName": "Blue"
+        },
+        "#9400D3": {
+            "name": "Dark Violet",
+            "hueName": "Violet"
+        },
+        "#855E42": {
+            "name": "Dark Wood",
+            "hueName": "Brown"
+        },
+        "#788878": {
+            "name": "Davy's Grey",
+            "hueName": "Grey"
+        },
+        "#9F9D91": {
+            "name": "Dawn",
+            "hueName": "Green"
+        },
+        "#E6D6CD": {
+            "name": "Dawn Pink",
+            "hueName": "Orange"
+        },
+        "#85CA87": {
+            "name": "De York",
+            "hueName": "Green"
+        },
+        "#CCCF82": {
+            "name": "Deco",
+            "hueName": "Green"
+        },
+        "#E36F8A": {
+            "name": "Deep Blush",
+            "hueName": "Red"
+        },
+        "#51412D": {
+            "name": "Deep Bronze",
+            "hueName": "Brown"
+        },
+        "#DA3287": {
+            "name": "Deep Cerise",
+            "hueName": "Violet"
+        },
+        "#193925": {
+            "name": "Deep Fir",
+            "hueName": "Green"
+        },
+        "#343467": {
+            "name": "Deep Koamaru",
+            "hueName": "Violet"
+        },
+        "#9955BB": {
+            "name": "Deep Lilac",
+            "hueName": "Violet"
+        },
+        "#CC00CC": {
+            "name": "Deep Magenta",
+            "hueName": "Violet"
+        },
+        "#FF1493": {
+            "name": "Deep Pink",
+            "hueName": "Red"
+        },
+        "#167E65": {
+            "name": "Deep Sea",
+            "hueName": "Green"
+        },
+        "#00BFFF": {
+            "name": "Deep Sky Blue",
+            "hueName": "Blue"
+        },
+        "#19443C": {
+            "name": "Deep Teal",
+            "hueName": "Green"
+        },
+        "#B5998E": {
+            "name": "Del Rio",
+            "hueName": "Brown"
+        },
+        "#486531": {
+            "name": "Dell",
+            "hueName": "Green"
+        },
+        "#999B95": {
+            "name": "Delta",
+            "hueName": "Grey"
+        },
+        "#8272A4": {
+            "name": "Deluge",
+            "hueName": "Violet"
+        },
+        "#1560BD": {
+            "name": "Denim",
+            "hueName": "Blue"
+        },
+        "#F9E4C6": {
+            "name": "Derby",
+            "hueName": "Yellow"
+        },
+        "#A15F3B": {
+            "name": "Desert",
+            "hueName": "Orange"
+        },
+        "#EDC9AF": {
+            "name": "Desert Sand",
+            "hueName": "Brown"
+        },
+        "#EDE7E0": {
+            "name": "Desert Storm",
+            "hueName": "Grey"
+        },
+        "#E7F2E9": {
+            "name": "Dew",
+            "hueName": "Green"
+        },
+        "#322C2B": {
+            "name": "Diesel",
+            "hueName": "Grey"
+        },
+        "#696969": {
+            "name": "Dim Gray",
+            "hueName": "Grey"
+        },
+        "#607C47": {
+            "name": "Dingley",
+            "hueName": "Green"
+        },
+        "#892D4F": {
+            "name": "Disco",
+            "hueName": "Red"
+        },
+        "#CD8431": {
+            "name": "Dixie",
+            "hueName": "Yellow"
+        },
+        "#1E90FF": {
+            "name": "Dodger Blue",
+            "hueName": "Blue"
+        },
+        "#F5F171": {
+            "name": "Dolly",
+            "hueName": "Green"
+        },
+        "#6A6873": {
+            "name": "Dolphin",
+            "hueName": "Violet"
+        },
+        "#6C5B4C": {
+            "name": "Domino",
+            "hueName": "Brown"
+        },
+        "#5A4F51": {
+            "name": "Don Juan",
+            "hueName": "Brown"
+        },
+        "#816E5C": {
+            "name": "Donkey Brown",
+            "hueName": "Brown"
+        },
+        "#6E5F56": {
+            "name": "Dorado",
+            "hueName": "Brown"
+        },
+        "#E4CF99": {
+            "name": "Double Colonial White",
+            "hueName": "Yellow"
+        },
+        "#E9DCBE": {
+            "name": "Double Pearl Lusta",
+            "hueName": "Yellow"
+        },
+        "#D2C3A3": {
+            "name": "Double Spanish White",
+            "hueName": "Yellow"
+        },
+        "#777672": {
+            "name": "Dove Grey",
+            "hueName": "Grey"
+        },
+        "#6FD2BE": {
+            "name": "Downy",
+            "hueName": "Green"
+        },
+        "#FBEB9B": {
+            "name": "Drover",
+            "hueName": "Yellow"
+        },
+        "#514F4A": {
+            "name": "Dune",
+            "hueName": "Grey"
+        },
+        "#E5CAC0": {
+            "name": "Dust Storm",
+            "hueName": "Orange"
+        },
+        "#AC9B9B": {
+            "name": "Dusty Grey",
+            "hueName": "Grey"
+        },
+        "#F0DFBB": {
+            "name": "Dutch White",
+            "hueName": "Yellow"
+        },
+        "#B0AC94": {
+            "name": "Eagle",
+            "hueName": "Green"
+        },
+        "#B8A722": {
+            "name": "Earls Green",
+            "hueName": "Green"
+        },
+        "#FBF2DB": {
+            "name": "Early Dawn",
+            "hueName": "Yellow"
+        },
+        "#47526E": {
+            "name": "East Bay",
+            "hueName": "Blue"
+        },
+        "#AA8CBC": {
+            "name": "East Side",
+            "hueName": "Violet"
+        },
+        "#00879F": {
+            "name": "Eastern Blue",
+            "hueName": "Blue"
+        },
+        "#E6D8D4": {
+            "name": "Ebb",
+            "hueName": "Red"
+        },
+        "#313337": {
+            "name": "Ebony",
+            "hueName": "Grey"
+        },
+        "#323438": {
+            "name": "Ebony Clay",
+            "hueName": "Grey"
+        },
+        "#A4AFCD": {
+            "name": "Echo Blue",
+            "hueName": "Blue"
+        },
+        "#3F3939": {
+            "name": "Eclipse",
+            "hueName": "Grey"
+        },
+        "#C2B280": {
+            "name": "Ecru",
+            "hueName": "Brown"
+        },
+        "#D6D1C0": {
+            "name": "Ecru White",
+            "hueName": "Green"
+        },
+        "#C96138": {
+            "name": "Ecstasy",
+            "hueName": "Orange"
+        },
+        "#266255": {
+            "name": "Eden",
+            "hueName": "Green"
+        },
+        "#C1D8C5": {
+            "name": "Edgewater",
+            "hueName": "Green"
+        },
+        "#97A49A": {
+            "name": "Edward",
+            "hueName": "Green"
+        },
+        "#F9E4C5": {
+            "name": "Egg Sour",
+            "hueName": "Yellow"
+        },
+        "#990066": {
+            "name": "Eggplant",
+            "hueName": "Violet"
+        },
+        "#1034A6": {
+            "name": "Egyptian Blue",
+            "hueName": "Blue"
+        },
+        "#39392C": {
+            "name": "El Paso",
+            "hueName": "Green"
+        },
+        "#8F4E45": {
+            "name": "El Salva",
+            "hueName": "Red"
+        },
+        "#7DF9FF": {
+            "name": "Electric Blue",
+            "hueName": "Blue"
+        },
+        "#6600FF": {
+            "name": "Electric Indigo",
+            "hueName": "Violet"
+        },
+        "#CCFF00": {
+            "name": "Electric Lime",
+            "hueName": "Green"
+        },
+        "#BF00FF": {
+            "name": "Electric Purple",
+            "hueName": "Violet"
+        },
+        "#243640": {
+            "name": "Elephant",
+            "hueName": "Blue"
+        },
+        "#1B8A6B": {
+            "name": "Elf Green",
+            "hueName": "Green"
+        },
+        "#297B76": {
+            "name": "Elm",
+            "hueName": "Green"
+        },
+        "#50C878": {
+            "name": "Emerald",
+            "hueName": "Green"
+        },
+        "#6E3974": {
+            "name": "Eminence",
+            "hueName": "Violet"
+        },
+        "#50494A": {
+            "name": "Emperor",
+            "hueName": "Grey"
+        },
+        "#7C7173": {
+            "name": "Empress",
+            "hueName": "Grey"
+        },
+        "#29598B": {
+            "name": "Endeavour",
+            "hueName": "Blue"
+        },
+        "#F5D752": {
+            "name": "Energy Yellow",
+            "hueName": "Yellow"
+        },
+        "#274234": {
+            "name": "English Holly",
+            "hueName": "Green"
+        },
+        "#8BA58F": {
+            "name": "Envy",
+            "hueName": "Green"
+        },
+        "#DAB160": {
+            "name": "Equator",
+            "hueName": "Yellow"
+        },
+        "#4E312D": {
+            "name": "Espresso",
+            "hueName": "Red"
+        },
+        "#2D2F28": {
+            "name": "Eternity",
+            "hueName": "Green"
+        },
+        "#329760": {
+            "name": "Eucalyptus",
+            "hueName": "Green"
+        },
+        "#CDA59C": {
+            "name": "Eunry",
+            "hueName": "Red"
+        },
+        "#26604F": {
+            "name": "Evening Sea",
+            "hueName": "Green"
+        },
+        "#264334": {
+            "name": "Everglade",
+            "hueName": "Green"
+        },
+        "#F3E5DC": {
+            "name": "Fair Pink",
+            "hueName": "Orange"
+        },
+        "#6E5A5B": {
+            "name": "Falcon",
+            "hueName": "Brown"
+        },
+        "#C19A6B": {
+            "name": "Fallow",
+            "hueName": "Brown"
+        },
+        "#801818": {
+            "name": "Falu Red",
+            "hueName": "Red"
+        },
+        "#F2E6DD": {
+            "name": "Fantasy",
+            "hueName": "Orange"
+        },
+        "#625665": {
+            "name": "Fedora",
+            "hueName": "Violet"
+        },
+        "#A5D785": {
+            "name": "Feijoa",
+            "hueName": "Green"
+        },
+        "#4D5D53": {
+            "name": "Feldgrau",
+            "hueName": "Grey"
+        },
+        "#D19275": {
+            "name": "Feldspar",
+            "hueName": "Red"
+        },
+        "#63B76C": {
+            "name": "Fern",
+            "hueName": "Green"
+        },
+        "#4F7942": {
+            "name": "Fern Green",
+            "hueName": "Green"
+        },
+        "#876A68": {
+            "name": "Ferra",
+            "hueName": "Brown"
+        },
+        "#EACC4A": {
+            "name": "Festival",
+            "hueName": "Yellow"
+        },
+        "#DBE0D0": {
+            "name": "Feta",
+            "hueName": "Green"
+        },
+        "#B1592F": {
+            "name": "Fiery Orange",
+            "hueName": "Orange"
+        },
+        "#636F22": {
+            "name": "Fiji Green",
+            "hueName": "Green"
+        },
+        "#75785A": {
+            "name": "Finch",
+            "hueName": "Green"
+        },
+        "#61755B": {
+            "name": "Finlandia",
+            "hueName": "Green"
+        },
+        "#694554": {
+            "name": "Finn",
+            "hueName": "Violet"
+        },
+        "#4B5A62": {
+            "name": "Fiord",
+            "hueName": "Blue"
+        },
+        "#8F3F2A": {
+            "name": "Fire",
+            "hueName": "Orange"
+        },
+        "#B22222": {
+            "name": "Fire Brick",
+            "hueName": "Red"
+        },
+        "#E09842": {
+            "name": "Fire Bush",
+            "hueName": "Yellow"
+        },
+        "#CE1620": {
+            "name": "Fire Engine Red",
+            "hueName": "Red"
+        },
+        "#314643": {
+            "name": "Firefly",
+            "hueName": "Green"
+        },
+        "#BE5C48": {
+            "name": "Flame Pea",
+            "hueName": "Orange"
+        },
+        "#86282E": {
+            "name": "Flame Red",
+            "hueName": "Red"
+        },
+        "#EA8645": {
+            "name": "Flamenco",
+            "hueName": "Orange"
+        },
+        "#E1634F": {
+            "name": "Flamingo",
+            "hueName": "Orange"
+        },
+        "#EEDC82": {
+            "name": "Flax",
+            "hueName": "Yellow"
+        },
+        "#716E61": {
+            "name": "Flint",
+            "hueName": "Green"
+        },
+        "#7A2E4D": {
+            "name": "Flirt",
+            "hueName": "Red"
+        },
+        "#FFFAF0": {
+            "name": "Floral White",
+            "hueName": "White"
+        },
+        "#D0EAE8": {
+            "name": "Foam",
+            "hueName": "Green"
+        },
+        "#D5C7E8": {
+            "name": "Fog",
+            "hueName": "Violet"
+        },
+        "#A7A69D": {
+            "name": "Foggy Grey",
+            "hueName": "Grey"
+        },
+        "#228B22": {
+            "name": "Forest Green",
+            "hueName": "Green"
+        },
+        "#FDEFDB": {
+            "name": "Forget Me Not",
+            "hueName": "Yellow"
+        },
+        "#65ADB2": {
+            "name": "Fountain Blue",
+            "hueName": "Blue"
+        },
+        "#FFD7A0": {
+            "name": "Frangipani",
+            "hueName": "Yellow"
+        },
+        "#029D74": {
+            "name": "Free Speech Aquamarine",
+            "hueName": "Green"
+        },
+        "#4156C5": {
+            "name": "Free Speech Blue",
+            "hueName": "Blue"
+        },
+        "#09F911": {
+            "name": "Free Speech Green",
+            "hueName": "Green"
+        },
+        "#E35BD8": {
+            "name": "Free Speech Magenta",
+            "hueName": "Red"
+        },
+        "#C00000": {
+            "name": "Free Speech Red",
+            "hueName": "Red"
+        },
+        "#BFBDC1": {
+            "name": "French Grey",
+            "hueName": "Grey"
+        },
+        "#DEB7D9": {
+            "name": "French Lilac",
+            "hueName": "Violet"
+        },
+        "#A4D2E0": {
+            "name": "French Pass",
+            "hueName": "Blue"
+        },
+        "#F64A8A": {
+            "name": "French Rose",
+            "hueName": "Red"
+        },
+        "#86837A": {
+            "name": "Friar Grey",
+            "hueName": "Grey"
+        },
+        "#B4E1BB": {
+            "name": "Fringy Flower",
+            "hueName": "Green"
+        },
+        "#E56D75": {
+            "name": "Froly",
+            "hueName": "Red"
+        },
+        "#E1E4C5": {
+            "name": "Frost",
+            "hueName": "Green"
+        },
+        "#E2F2E4": {
+            "name": "Frosted Mint",
+            "hueName": "Green"
+        },
+        "#DBE5D2": {
+            "name": "Frostee",
+            "hueName": "Green"
+        },
+        "#4BA351": {
+            "name": "Fruit Salad",
+            "hueName": "Green"
+        },
+        "#C154C1": {
+            "name": "Fuchsia",
+            "hueName": "Violet"
+        },
+        "#FF77FF": {
+            "name": "Fuchsia Pink",
+            "hueName": "Red"
+        },
+        "#C2D62E": {
+            "name": "Fuego",
+            "hueName": "Green"
+        },
+        "#D19033": {
+            "name": "Fuel Yellow",
+            "hueName": "Yellow"
+        },
+        "#335083": {
+            "name": "Fun Blue",
+            "hueName": "Blue"
+        },
+        "#15633D": {
+            "name": "Fun Green",
+            "hueName": "Green"
+        },
+        "#3C3B3C": {
+            "name": "Fuscous Grey",
+            "hueName": "Grey"
+        },
+        "#C45655": {
+            "name": "Fuzzy Wuzzy Brown",
+            "hueName": "Brown"
+        },
+        "#2C4641": {
+            "name": "Gable Green",
+            "hueName": "Green"
+        },
+        "#DCDCDC": {
+            "name": "Gainsboro",
+            "hueName": "White"
+        },
+        "#DCD7D1": {
+            "name": "Gallery",
+            "hueName": "Grey"
+        },
+        "#D8A723": {
+            "name": "Galliano",
+            "hueName": "Yellow"
+        },
+        "#E49B0F": {
+            "name": "Gamboge",
+            "hueName": "Yellow"
+        },
+        "#C5832E": {
+            "name": "Geebung",
+            "hueName": "Yellow"
+        },
+        "#31796D": {
+            "name": "Genoa",
+            "hueName": "Green"
+        },
+        "#E77B75": {
+            "name": "Geraldine",
+            "hueName": "Red"
+        },
+        "#CBD0CF": {
+            "name": "Geyser",
+            "hueName": "Grey"
+        },
+        "#C0BFC7": {
+            "name": "Ghost",
+            "hueName": "Blue"
+        },
+        "#F8F8FF": {
+            "name": "Ghost White",
+            "hueName": "White"
+        },
+        "#564786": {
+            "name": "Gigas",
+            "hueName": "Violet"
+        },
+        "#B9AD61": {
+            "name": "Gimblet",
+            "hueName": "Green"
+        },
+        "#D9DFCD": {
+            "name": "Gin",
+            "hueName": "Green"
+        },
+        "#F8EACA": {
+            "name": "Gin Fizz",
+            "hueName": "Yellow"
+        },
+        "#EBD4AE": {
+            "name": "Givry",
+            "hueName": "Yellow"
+        },
+        "#78B1BF": {
+            "name": "Glacier",
+            "hueName": "Blue"
+        },
+        "#5F8151": {
+            "name": "Glade Green",
+            "hueName": "Green"
+        },
+        "#786E4C": {
+            "name": "Go Ben",
+            "hueName": "Yellow"
+        },
+        "#34533D": {
+            "name": "Goblin",
+            "hueName": "Green"
+        },
+        "#FFD700": {
+            "name": "Gold",
+            "hueName": "Yellow"
+        },
+        "#D56C30": {
+            "name": "Gold Drop",
+            "hueName": "Orange"
+        },
+        "#E2B227": {
+            "name": "Gold Tips",
+            "hueName": "Yellow"
+        },
+        "#CA8136": {
+            "name": "Golden Bell",
+            "hueName": "Orange"
+        },
+        "#996515": {
+            "name": "Golden Brown",
+            "hueName": "Brown"
+        },
+        "#F1CC2B": {
+            "name": "Golden Dream",
+            "hueName": "Yellow"
+        },
+        "#EBDE31": {
+            "name": "Golden Fizz",
+            "hueName": "Green"
+        },
+        "#F9D77E": {
+            "name": "Golden Glow",
+            "hueName": "Yellow"
+        },
+        "#FCC200": {
+            "name": "Golden Poppy",
+            "hueName": "Yellow"
+        },
+        "#EACE6A": {
+            "name": "Golden Sand",
+            "hueName": "Yellow"
+        },
+        "#FFC152": {
+            "name": "Golden Tainoi",
+            "hueName": "Yellow"
+        },
+        "#FFDF00": {
+            "name": "Golden Yellow",
+            "hueName": "Yellow"
+        },
+        "#DBDB70": {
+            "name": "Goldenrod",
+            "hueName": "Yellow"
+        },
+        "#373332": {
+            "name": "Gondola",
+            "hueName": "Grey"
+        },
+        "#29332B": {
+            "name": "Gordons Green",
+            "hueName": "Green"
+        },
+        "#FDE336": {
+            "name": "Gorse",
+            "hueName": "Green"
+        },
+        "#399F86": {
+            "name": "Gossamer",
+            "hueName": "Green"
+        },
+        "#9FD385": {
+            "name": "Gossip",
+            "hueName": "Green"
+        },
+        "#698890": {
+            "name": "Gothic",
+            "hueName": "Blue"
+        },
+        "#51559B": {
+            "name": "Governor Bay",
+            "hueName": "Blue"
+        },
+        "#CAB8A2": {
+            "name": "Grain Brown",
+            "hueName": "Yellow"
+        },
+        "#FFCD73": {
+            "name": "Grandis",
+            "hueName": "Yellow"
+        },
+        "#8B8265": {
+            "name": "Granite Green",
+            "hueName": "Yellow"
+        },
+        "#C5E7CD": {
+            "name": "Granny Apple",
+            "hueName": "Green"
+        },
+        "#7B948C": {
+            "name": "Granny Smith",
+            "hueName": "Green"
+        },
+        "#9DE093": {
+            "name": "Granny Smith Apple",
+            "hueName": "Green"
+        },
+        "#413D4B": {
+            "name": "Grape",
+            "hueName": "Violet"
+        },
+        "#383428": {
+            "name": "Graphite",
+            "hueName": "Yellow"
+        },
+        "#4A4B46": {
+            "name": "Gravel",
+            "hueName": "Grey"
+        },
+        "#008000": {
+            "name": "Green",
+            "hueName": "Green"
+        },
+        "#3E6334": {
+            "name": "Green House",
+            "hueName": "Green"
+        },
+        "#393D2A": {
+            "name": "Green Kelp",
+            "hueName": "Green"
+        },
+        "#526B2D": {
+            "name": "Green Leaf",
+            "hueName": "Green"
+        },
+        "#BFC298": {
+            "name": "Green Mist",
+            "hueName": "Green"
+        },
+        "#266242": {
+            "name": "Green Pea",
+            "hueName": "Green"
+        },
+        "#9CA664": {
+            "name": "Green Smoke",
+            "hueName": "Green"
+        },
+        "#A9AF99": {
+            "name": "Green Spring",
+            "hueName": "Green"
+        },
+        "#23414E": {
+            "name": "Green Vogue",
+            "hueName": "Blue"
+        },
+        "#2C2D24": {
+            "name": "Green Waterloo",
+            "hueName": "Green"
+        },
+        "#DEDDCB": {
+            "name": "Green White",
+            "hueName": "Green"
+        },
+        "#ADFF2F": {
+            "name": "Green Yellow",
+            "hueName": "Green"
+        },
+        "#C14D36": {
+            "name": "Grenadier",
+            "hueName": "Orange"
+        },
+        "#808080": {
+            "name": "Grey",
+            "hueName": "Grey"
+        },
+        "#9FA3A7": {
+            "name": "Grey Chateau",
+            "hueName": "Grey"
+        },
+        "#BDBAAE": {
+            "name": "Grey Nickel",
+            "hueName": "Green"
+        },
+        "#D1D3CC": {
+            "name": "Grey Nurse",
+            "hueName": "Grey"
+        },
+        "#A19A7F": {
+            "name": "Grey Olive",
+            "hueName": "Yellow"
+        },
+        "#9391A0": {
+            "name": "Grey Suit",
+            "hueName": "Blue"
+        },
+        "#465945": {
+            "name": "Grey-Asparagus",
+            "hueName": "Green"
+        },
+        "#952E31": {
+            "name": "Guardsman Red",
+            "hueName": "Red"
+        },
+        "#343F5C": {
+            "name": "Gulf Blue",
+            "hueName": "Blue"
+        },
+        "#74B2A8": {
+            "name": "Gulf Stream",
+            "hueName": "Green"
+        },
+        "#A4ADB0": {
+            "name": "Gull Grey",
+            "hueName": "Grey"
+        },
+        "#ACC9B2": {
+            "name": "Gum Leaf",
+            "hueName": "Green"
+        },
+        "#718F8A": {
+            "name": "Gumbo",
+            "hueName": "Green"
+        },
+        "#484753": {
+            "name": "Gun Powder",
+            "hueName": "Violet"
+        },
+        "#2C3539": {
+            "name": "Gunmetal",
+            "hueName": "Blue"
+        },
+        "#7A7C76": {
+            "name": "Gunsmoke",
+            "hueName": "Grey"
+        },
+        "#989171": {
+            "name": "Gurkha",
+            "hueName": "Green"
+        },
+        "#9E8022": {
+            "name": "Hacienda",
+            "hueName": "Yellow"
+        },
+        "#633528": {
+            "name": "Hairy Heath",
+            "hueName": "Brown"
+        },
+        "#2C2A35": {
+            "name": "Haiti",
+            "hueName": "Violet"
+        },
+        "#EDE7C8": {
+            "name": "Half And Half",
+            "hueName": "Green"
+        },
+        "#558F93": {
+            "name": "Half Baked",
+            "hueName": "Blue"
+        },
+        "#F2E5BF": {
+            "name": "Half Colonial White",
+            "hueName": "Yellow"
+        },
+        "#FBF0D6": {
+            "name": "Half Dutch White",
+            "hueName": "Yellow"
+        },
+        "#F1EAD7": {
+            "name": "Half Pearl Lusta",
+            "hueName": "Yellow"
+        },
+        "#E6DBC7": {
+            "name": "Half Spanish White",
+            "hueName": "Yellow"
+        },
+        "#E8D4A2": {
+            "name": "Hampton",
+            "hueName": "Yellow"
+        },
+        "#5218FA": {
+            "name": "Han Purple",
+            "hueName": "Violet"
+        },
+        "#3FFF00": {
+            "name": "Harlequin",
+            "hueName": "Green"
+        },
+        "#C93413": {
+            "name": "Harley Davidson Orange",
+            "hueName": "Orange"
+        },
+        "#CBCEC0": {
+            "name": "Harp",
+            "hueName": "Green"
+        },
+        "#EAB76A": {
+            "name": "Harvest Gold",
+            "hueName": "Yellow"
+        },
+        "#3B2B2C": {
+            "name": "Havana",
+            "hueName": "Brown"
+        },
+        "#5784C1": {
+            "name": "Havelock Blue",
+            "hueName": "Blue"
+        },
+        "#99522B": {
+            "name": "Hawaiian Tan",
+            "hueName": "Orange"
+        },
+        "#D2DAED": {
+            "name": "Hawkes Blue",
+            "hueName": "Blue"
+        },
+        "#4F2A2C": {
+            "name": "Heath",
+            "hueName": "Red"
+        },
+        "#AEBBC1": {
+            "name": "Heather",
+            "hueName": "Blue"
+        },
+        "#948C7E": {
+            "name": "Heathered Grey",
+            "hueName": "Brown"
+        },
+        "#46473E": {
+            "name": "Heavy Metal",
+            "hueName": "Grey"
+        },
+        "#DF73FF": {
+            "name": "Heliotrope",
+            "hueName": "Violet"
+        },
+        "#69684B": {
+            "name": "Hemlock",
+            "hueName": "Yellow"
+        },
+        "#987D73": {
+            "name": "Hemp",
+            "hueName": "Brown"
+        },
+        "#928C3C": {
+            "name": "Highball",
+            "hueName": "Green"
+        },
+        "#7A9461": {
+            "name": "Highland",
+            "hueName": "Green"
+        },
+        "#A7A07E": {
+            "name": "Hillary",
+            "hueName": "Green"
+        },
+        "#736330": {
+            "name": "Himalaya",
+            "hueName": "Yellow"
+        },
+        "#DFF1D6": {
+            "name": "Hint Of Green",
+            "hueName": "Green"
+        },
+        "#F5EFEB": {
+            "name": "Hint Of Red",
+            "hueName": "Grey"
+        },
+        "#F6F5D7": {
+            "name": "Hint Of Yellow",
+            "hueName": "Green"
+        },
+        "#49889A": {
+            "name": "Hippie Blue",
+            "hueName": "Blue"
+        },
+        "#608A5A": {
+            "name": "Hippie Green",
+            "hueName": "Green"
+        },
+        "#AB495C": {
+            "name": "Hippie Pink",
+            "hueName": "Red"
+        },
+        "#A1A9A8": {
+            "name": "Hit Grey",
+            "hueName": "Grey"
+        },
+        "#FDA470": {
+            "name": "Hit Pink",
+            "hueName": "Orange"
+        },
+        "#BB8E34": {
+            "name": "Hokey Pokey",
+            "hueName": "Yellow"
+        },
+        "#647D86": {
+            "name": "Hoki",
+            "hueName": "Blue"
+        },
+        "#25342B": {
+            "name": "Holly",
+            "hueName": "Green"
+        },
+        "#F400A1": {
+            "name": "Hollywood Cerise",
+            "hueName": "Red"
+        },
+        "#5C3C6D": {
+            "name": "Honey Flower",
+            "hueName": "Violet"
+        },
+        "#F0FFF0": {
+            "name": "Honeydew",
+            "hueName": "White"
+        },
+        "#E8ED69": {
+            "name": "Honeysuckle",
+            "hueName": "Green"
+        },
+        "#CD6D93": {
+            "name": "Hopbush",
+            "hueName": "Violet"
+        },
+        "#648894": {
+            "name": "Horizon",
+            "hueName": "Blue"
+        },
+        "#6D562C": {
+            "name": "Horses Neck",
+            "hueName": "Yellow"
+        },
+        "#815B28": {
+            "name": "Hot Curry",
+            "hueName": "Yellow"
+        },
+        "#FF00CC": {
+            "name": "Hot Magenta",
+            "hueName": "Red"
+        },
+        "#FF69B4": {
+            "name": "Hot Pink",
+            "hueName": "Red"
+        },
+        "#4E2E53": {
+            "name": "Hot Purple",
+            "hueName": "Violet"
+        },
+        "#A7752C": {
+            "name": "Hot Toddy",
+            "hueName": "Yellow"
+        },
+        "#CEEFE4": {
+            "name": "Humming Bird",
+            "hueName": "Green"
+        },
+        "#355E3B": {
+            "name": "Hunter Green",
+            "hueName": "Green"
+        },
+        "#8B7E77": {
+            "name": "Hurricane",
+            "hueName": "Brown"
+        },
+        "#B2994B": {
+            "name": "Husk",
+            "hueName": "Yellow"
+        },
+        "#AFE3D6": {
+            "name": "Ice Cold",
+            "hueName": "Green"
+        },
+        "#CAE1D9": {
+            "name": "Iceberg",
+            "hueName": "Green"
+        },
+        "#EF95AE": {
+            "name": "Illusion",
+            "hueName": "Red"
+        },
+        "#B0E313": {
+            "name": "Inch Worm",
+            "hueName": "Green"
+        },
+        "#CD5C5C": {
+            "name": "Indian Red",
+            "hueName": "Red"
+        },
+        "#4F301F": {
+            "name": "Indian Tan",
+            "hueName": "Brown"
+        },
+        "#4B0082": {
+            "name": "Indigo",
+            "hueName": "Violet"
+        },
+        "#9C5B34": {
+            "name": "Indochine",
+            "hueName": "Orange"
+        },
+        "#002FA7": {
+            "name": "International Klein Blue",
+            "hueName": "Blue"
+        },
+        "#FF4F00": {
+            "name": "International Orange",
+            "hueName": "Orange"
+        },
+        "#03B4C8": {
+            "name": "Iris Blue",
+            "hueName": "Blue"
+        },
+        "#62422B": {
+            "name": "Irish Coffee",
+            "hueName": "Brown"
+        },
+        "#CBCDCD": {
+            "name": "Iron",
+            "hueName": "Grey"
+        },
+        "#706E66": {
+            "name": "Ironside Grey",
+            "hueName": "Grey"
+        },
+        "#865040": {
+            "name": "Ironstone",
+            "hueName": "Brown"
+        },
+        "#009900": {
+            "name": "Islamic Green",
+            "hueName": "Green"
+        },
+        "#F8EDDB": {
+            "name": "Island Spice",
+            "hueName": "Yellow"
+        },
+        "#FFFFF0": {
+            "name": "Ivory",
+            "hueName": "White"
+        },
+        "#3D325D": {
+            "name": "Jacarta",
+            "hueName": "Violet"
+        },
+        "#413628": {
+            "name": "Jacko Bean",
+            "hueName": "Brown"
+        },
+        "#3D3F7D": {
+            "name": "Jacksons Purple",
+            "hueName": "Violet"
+        },
+        "#00A86B": {
+            "name": "Jade",
+            "hueName": "Green"
+        },
+        "#E27945": {
+            "name": "Jaffa",
+            "hueName": "Orange"
+        },
+        "#CAE7E2": {
+            "name": "Jagged Ice",
+            "hueName": "Green"
+        },
+        "#3F2E4C": {
+            "name": "Jagger",
+            "hueName": "Violet"
+        },
+        "#29292F": {
+            "name": "Jaguar",
+            "hueName": "Blue"
+        },
+        "#674834": {
+            "name": "Jambalaya",
+            "hueName": "Brown"
+        },
+        "#2F7532": {
+            "name": "Japanese Laurel",
+            "hueName": "Green"
+        },
+        "#CE7259": {
+            "name": "Japonica",
+            "hueName": "Orange"
+        },
+        "#259797": {
+            "name": "Java",
+            "hueName": "Green"
+        },
+        "#5F2C2F": {
+            "name": "Jazz",
+            "hueName": "Red"
+        },
+        "#A50B5E": {
+            "name": "Jazzberry Jam",
+            "hueName": "Red"
+        },
+        "#44798E": {
+            "name": "Jelly Bean",
+            "hueName": "Blue"
+        },
+        "#BBD0C9": {
+            "name": "Jet Stream",
+            "hueName": "Green"
+        },
+        "#136843": {
+            "name": "Jewel",
+            "hueName": "Green"
+        },
+        "#463D3E": {
+            "name": "Jon",
+            "hueName": "Grey"
+        },
+        "#EEF293": {
+            "name": "Jonquil",
+            "hueName": "Green"
+        },
+        "#7AAAE0": {
+            "name": "Jordy Blue",
+            "hueName": "Blue"
+        },
+        "#5D5346": {
+            "name": "Judge Grey",
+            "hueName": "Brown"
+        },
+        "#878785": {
+            "name": "Jumbo",
+            "hueName": "Grey"
+        },
+        "#29AB87": {
+            "name": "Jungle Green",
+            "hueName": "Green"
+        },
+        "#B0C4C4": {
+            "name": "Jungle Mist",
+            "hueName": "Green"
+        },
+        "#74918E": {
+            "name": "Juniper",
+            "hueName": "Green"
+        },
+        "#DCBFAC": {
+            "name": "Just Right",
+            "hueName": "Orange"
+        },
+        "#6C5E53": {
+            "name": "Kabul",
+            "hueName": "Brown"
+        },
+        "#245336": {
+            "name": "Kaitoke Green",
+            "hueName": "Green"
+        },
+        "#C5C3B0": {
+            "name": "Kangaroo",
+            "hueName": "Green"
+        },
+        "#2D2D24": {
+            "name": "Karaka",
+            "hueName": "Green"
+        },
+        "#FEDCC1": {
+            "name": "Karry",
+            "hueName": "Orange"
+        },
+        "#576D8E": {
+            "name": "Kashmir Blue",
+            "hueName": "Blue"
+        },
+        "#4CBB17": {
+            "name": "Kelly Green",
+            "hueName": "Green"
+        },
+        "#4D503C": {
+            "name": "Kelp",
+            "hueName": "Green"
+        },
+        "#6C322E": {
+            "name": "Kenyan Copper",
+            "hueName": "Red"
+        },
+        "#5FB69C": {
+            "name": "Keppel",
+            "hueName": "Green"
+        },
+        "#F0E68C": {
+            "name": "Khaki",
+            "hueName": "Yellow"
+        },
+        "#BFC0AB": {
+            "name": "Kidnapper",
+            "hueName": "Green"
+        },
+        "#3A3532": {
+            "name": "Kilamanjaro",
+            "hueName": "Grey"
+        },
+        "#49764F": {
+            "name": "Killarney",
+            "hueName": "Green"
+        },
+        "#695D87": {
+            "name": "Kimberly",
+            "hueName": "Violet"
+        },
+        "#583580": {
+            "name": "Kingfisher Daisy",
+            "hueName": "Violet"
+        },
+        "#E093AB": {
+            "name": "Kobi",
+            "hueName": "Red"
+        },
+        "#7B785A": {
+            "name": "Kokoda",
+            "hueName": "Green"
+        },
+        "#804E2C": {
+            "name": "Korma",
+            "hueName": "Orange"
+        },
+        "#FEB552": {
+            "name": "Koromiko",
+            "hueName": "Yellow"
+        },
+        "#F9D054": {
+            "name": "Kournikova",
+            "hueName": "Yellow"
+        },
+        "#428929": {
+            "name": "La Palma",
+            "hueName": "Green"
+        },
+        "#BAC00E": {
+            "name": "La Rioja",
+            "hueName": "Green"
+        },
+        "#C6DA36": {
+            "name": "Las Palmas",
+            "hueName": "Green"
+        },
+        "#C6A95E": {
+            "name": "Laser",
+            "hueName": "Yellow"
+        },
+        "#FFFF66": {
+            "name": "Laser Lemon",
+            "hueName": "Yellow"
+        },
+        "#6E8D71": {
+            "name": "Laurel",
+            "hueName": "Green"
+        },
+        "#E6E6FA": {
+            "name": "Lavender",
+            "hueName": "Violet"
+        },
+        "#CCCCFF": {
+            "name": "Lavender Blue",
+            "hueName": "Blue"
+        },
+        "#FFF0F5": {
+            "name": "Lavender Blush",
+            "hueName": "Violet"
+        },
+        "#BDBBD7": {
+            "name": "Lavender Grey",
+            "hueName": "Grey"
+        },
+        "#FBAED2": {
+            "name": "Lavender Pink",
+            "hueName": "Red"
+        },
+        "#FBA0E3": {
+            "name": "Lavender Rose",
+            "hueName": "Red"
+        },
+        "#7CFC00": {
+            "name": "Lawn Green",
+            "hueName": "Green"
+        },
+        "#906A54": {
+            "name": "Leather",
+            "hueName": "Brown"
+        },
+        "#FDE910": {
+            "name": "Lemon",
+            "hueName": "Yellow"
+        },
+        "#FFFACD": {
+            "name": "Lemon Chiffon",
+            "hueName": "Yellow"
+        },
+        "#968428": {
+            "name": "Lemon Ginger",
+            "hueName": "Yellow"
+        },
+        "#999A86": {
+            "name": "Lemon Grass",
+            "hueName": "Green"
+        },
+        "#2E3749": {
+            "name": "Licorice",
+            "hueName": "Blue"
+        },
+        "#ADD8E6": {
+            "name": "Light Blue",
+            "hueName": "Blue"
+        },
+        "#F08080": {
+            "name": "Light Coral",
+            "hueName": "Orange"
+        },
+        "#E0FFFF": {
+            "name": "Light Cyan",
+            "hueName": "Blue"
+        },
+        "#EEDD82": {
+            "name": "Light Goldenrod",
+            "hueName": "Yellow"
+        },
+        "#FAFAD2": {
+            "name": "Light Goldenrod Yellow",
+            "hueName": "Yellow"
+        },
+        "#90EE90": {
+            "name": "Light Green",
+            "hueName": "Green"
+        },
+        "#D3D3D3": {
+            "name": "Light Grey",
+            "hueName": "Grey"
+        },
+        "#FFB6C1": {
+            "name": "Light Pink",
+            "hueName": "Red"
+        },
+        "#FFA07A": {
+            "name": "Light Salmon",
+            "hueName": "Orange"
+        },
+        "#20B2AA": {
+            "name": "Light Sea Green",
+            "hueName": "Green"
+        },
+        "#87CEFA": {
+            "name": "Light Sky Blue",
+            "hueName": "Blue"
+        },
+        "#8470FF": {
+            "name": "Light Slate Blue",
+            "hueName": "Blue"
+        },
+        "#778899": {
+            "name": "Light Slate Grey",
+            "hueName": "Grey"
+        },
+        "#B0C4DE": {
+            "name": "Light Steel Blue",
+            "hueName": "Blue"
+        },
+        "#856363": {
+            "name": "Light Wood",
+            "hueName": "Brown"
+        },
+        "#FFFFE0": {
+            "name": "Light Yellow",
+            "hueName": "Yellow"
+        },
+        "#F7A233": {
+            "name": "Lightning Yellow",
+            "hueName": "Yellow"
+        },
+        "#C8A2C8": {
+            "name": "Lilac",
+            "hueName": "Violet"
+        },
+        "#9470C4": {
+            "name": "Lilac Bush",
+            "hueName": "Violet"
+        },
+        "#C19FB3": {
+            "name": "Lily",
+            "hueName": "Violet"
+        },
+        "#E9EEEB": {
+            "name": "Lily White",
+            "hueName": "Grey"
+        },
+        "#7AAC21": {
+            "name": "Lima",
+            "hueName": "Green"
+        },
+        "#00FF00": {
+            "name": "Lime",
+            "hueName": "Green"
+        },
+        "#32CD32": {
+            "name": "Lime Green",
+            "hueName": "Green"
+        },
+        "#5F9727": {
+            "name": "Limeade",
+            "hueName": "Green"
+        },
+        "#89AC27": {
+            "name": "Limerick",
+            "hueName": "Green"
+        },
+        "#FAF0E6": {
+            "name": "Linen",
+            "hueName": "White"
+        },
+        "#C7CDD8": {
+            "name": "Link Water",
+            "hueName": "Blue"
+        },
+        "#962C54": {
+            "name": "Lipstick",
+            "hueName": "Red"
+        },
+        "#534B4F": {
+            "name": "Liver",
+            "hueName": "Brown"
+        },
+        "#312A29": {
+            "name": "Livid Brown",
+            "hueName": "Brown"
+        },
+        "#DBD9C2": {
+            "name": "Loafer",
+            "hueName": "Green"
+        },
+        "#B3BBB7": {
+            "name": "Loblolly",
+            "hueName": "Green"
+        },
+        "#489084": {
+            "name": "Lochinvar",
+            "hueName": "Green"
+        },
+        "#316EA0": {
+            "name": "Lochmara",
+            "hueName": "Blue"
+        },
+        "#A2A580": {
+            "name": "Locust",
+            "hueName": "Green"
+        },
+        "#393E2E": {
+            "name": "Log Cabin",
+            "hueName": "Green"
+        },
+        "#9D9CB4": {
+            "name": "Logan",
+            "hueName": "Blue"
+        },
+        "#B9ACBB": {
+            "name": "Lola",
+            "hueName": "Violet"
+        },
+        "#AE94AB": {
+            "name": "London Hue",
+            "hueName": "Violet"
+        },
+        "#522426": {
+            "name": "Lonestar",
+            "hueName": "Red"
+        },
+        "#8B504B": {
+            "name": "Lotus",
+            "hueName": "Brown"
+        },
+        "#4C3347": {
+            "name": "Loulou",
+            "hueName": "Violet"
+        },
+        "#AB9A1C": {
+            "name": "Lucky",
+            "hueName": "Green"
+        },
+        "#292D4F": {
+            "name": "Lucky Point",
+            "hueName": "Blue"
+        },
+        "#4E5541": {
+            "name": "Lunar Green",
+            "hueName": "Green"
+        },
+        "#782E2C": {
+            "name": "Lusty",
+            "hueName": "Red"
+        },
+        "#AB8D3F": {
+            "name": "Luxor Gold",
+            "hueName": "Yellow"
+        },
+        "#697D89": {
+            "name": "Lynch",
+            "hueName": "Blue"
+        },
+        "#CBE8E8": {
+            "name": "Mabel",
+            "hueName": "Blue"
+        },
+        "#FFB97B": {
+            "name": "Macaroni And Cheese",
+            "hueName": "Orange"
+        },
+        "#B7E3A8": {
+            "name": "Madang",
+            "hueName": "Green"
+        },
+        "#2D3C54": {
+            "name": "Madison",
+            "hueName": "Blue"
+        },
+        "#473E23": {
+            "name": "Madras",
+            "hueName": "Brown"
+        },
+        "#FF00FF": {
+            "name": "Magenta",
+            "hueName": "Violet"
+        },
+        "#AAF0D1": {
+            "name": "Magic Mint",
+            "hueName": "Green"
+        },
+        "#F8F4FF": {
+            "name": "Magnolia",
+            "hueName": "White"
+        },
+        "#CA3435": {
+            "name": "Mahogany",
+            "hueName": "Brown"
+        },
+        "#A56531": {
+            "name": "Mai Tai",
+            "hueName": "Orange"
+        },
+        "#2A2922": {
+            "name": "Maire",
+            "hueName": "Yellow"
+        },
+        "#E3B982": {
+            "name": "Maize",
+            "hueName": "Yellow"
+        },
+        "#695F50": {
+            "name": "Makara",
+            "hueName": "Brown"
+        },
+        "#505555": {
+            "name": "Mako",
+            "hueName": "Grey"
+        },
+        "#0BDA51": {
+            "name": "Malachite",
+            "hueName": "Green"
+        },
+        "#97976F": {
+            "name": "Malachite Green",
+            "hueName": "Green"
+        },
+        "#66B7E1": {
+            "name": "Malibu",
+            "hueName": "Blue"
+        },
+        "#3A4531": {
+            "name": "Mallard",
+            "hueName": "Green"
+        },
+        "#A59784": {
+            "name": "Malta",
+            "hueName": "Brown"
+        },
+        "#766D7C": {
+            "name": "Mamba",
+            "hueName": "Violet"
+        },
+        "#8D90A1": {
+            "name": "Manatee",
+            "hueName": "Blue"
+        },
+        "#B57B2E": {
+            "name": "Mandalay",
+            "hueName": "Yellow"
+        },
+        "#8E2323": {
+            "name": "Mandarian Orange",
+            "hueName": "Orange"
+        },
+        "#CD525B": {
+            "name": "Mandy",
+            "hueName": "Red"
+        },
+        "#F5B799": {
+            "name": "Mandys Pink",
+            "hueName": "Orange"
+        },
+        "#E77200": {
+            "name": "Mango Tango",
+            "hueName": "Orange"
+        },
+        "#E2AF80": {
+            "name": "Manhattan",
+            "hueName": "Orange"
+        },
+        "#7FC15C": {
+            "name": "Mantis",
+            "hueName": "Green"
+        },
+        "#96A793": {
+            "name": "Mantle",
+            "hueName": "Green"
+        },
+        "#E4DB55": {
+            "name": "Manz",
+            "hueName": "Green"
+        },
+        "#352235": {
+            "name": "Mardi Gras",
+            "hueName": "Violet"
+        },
+        "#B88A3D": {
+            "name": "Marigold",
+            "hueName": "Yellow"
+        },
+        "#42639F": {
+            "name": "Mariner",
+            "hueName": "Blue"
+        },
+        "#800000": {
+            "name": "Maroon",
+            "hueName": "Brown"
+        },
+        "#2B2E26": {
+            "name": "Marshland",
+            "hueName": "Green"
+        },
+        "#B7A8A3": {
+            "name": "Martini",
+            "hueName": "Brown"
+        },
+        "#3C3748": {
+            "name": "Martinique",
+            "hueName": "Violet"
+        },
+        "#EBC881": {
+            "name": "Marzipan",
+            "hueName": "Yellow"
+        },
+        "#57534B": {
+            "name": "Masala",
+            "hueName": "Brown"
+        },
+        "#365C7D": {
+            "name": "Matisse",
+            "hueName": "Blue"
+        },
+        "#8E4D45": {
+            "name": "Matrix",
+            "hueName": "Red"
+        },
+        "#524B4B": {
+            "name": "Matterhorn",
+            "hueName": "Grey"
+        },
+        "#E0B0FF": {
+            "name": "Mauve",
+            "hueName": "Violet"
+        },
+        "#915F6D": {
+            "name": "Mauve Taupe",
+            "hueName": "Red"
+        },
+        "#F091A9": {
+            "name": "Mauvelous",
+            "hueName": "Red"
+        },
+        "#C8B1C0": {
+            "name": "Maverick",
+            "hueName": "Violet"
+        },
+        "#73C2FB": {
+            "name": "Maya Blue",
+            "hueName": "Blue"
+        },
+        "#8C6338": {
+            "name": "McKenzie",
+            "hueName": "Orange"
+        },
+        "#66CDAA": {
+            "name": "Medium Aquamarine",
+            "hueName": "Blue"
+        },
+        "#0000CD": {
+            "name": "Medium Blue",
+            "hueName": "Blue"
+        },
+        "#AF4035": {
+            "name": "Medium Carmine",
+            "hueName": "Red"
+        },
+        "#EAEAAE": {
+            "name": "Medium Goldenrod",
+            "hueName": "Yellow"
+        },
+        "#BA55D3": {
+            "name": "Medium Orchid",
+            "hueName": "Violet"
+        },
+        "#9370DB": {
+            "name": "Medium Purple",
+            "hueName": "Violet"
+        },
+        "#3CB371": {
+            "name": "Medium Sea Green",
+            "hueName": "Green"
+        },
+        "#7B68EE": {
+            "name": "Medium Slate Blue",
+            "hueName": "Blue"
+        },
+        "#00FA9A": {
+            "name": "Medium Spring Green",
+            "hueName": "Green"
+        },
+        "#48D1CC": {
+            "name": "Medium Turquoise",
+            "hueName": "Blue"
+        },
+        "#C71585": {
+            "name": "Medium Violet Red",
+            "hueName": "Red"
+        },
+        "#A68064": {
+            "name": "Medium Wood",
+            "hueName": "Brown"
+        },
+        "#E0B7C2": {
+            "name": "Melanie",
+            "hueName": "Red"
+        },
+        "#342931": {
+            "name": "Melanzane",
+            "hueName": "Violet"
+        },
+        "#FEBAAD": {
+            "name": "Melon",
+            "hueName": "Red"
+        },
+        "#C3B9DD": {
+            "name": "Melrose",
+            "hueName": "Violet"
+        },
+        "#D5D2D1": {
+            "name": "Mercury",
+            "hueName": "Grey"
+        },
+        "#E1DBD0": {
+            "name": "Merino",
+            "hueName": "Yellow"
+        },
+        "#4F4E48": {
+            "name": "Merlin",
+            "hueName": "Grey"
+        },
+        "#73343A": {
+            "name": "Merlot",
+            "hueName": "Red"
+        },
+        "#554A3C": {
+            "name": "Metallic Bronze",
+            "hueName": "Red"
+        },
+        "#6E3D34": {
+            "name": "Metallic Copper",
+            "hueName": "Red"
+        },
+        "#D4AF37": {
+            "name": "Metallic Gold",
+            "hueName": "Yellow"
+        },
+        "#BB7431": {
+            "name": "Meteor",
+            "hueName": "Orange"
+        },
+        "#4A3B6A": {
+            "name": "Meteorite",
+            "hueName": "Violet"
+        },
+        "#9B3D3D": {
+            "name": "Mexican Red",
+            "hueName": "Red"
+        },
+        "#666A6D": {
+            "name": "Mid Grey",
+            "hueName": "Grey"
+        },
+        "#21303E": {
+            "name": "Midnight",
+            "hueName": "Blue"
+        },
+        "#191970": {
+            "name": "Midnight Blue",
+            "hueName": "Blue"
+        },
+        "#21263A": {
+            "name": "Midnight Express",
+            "hueName": "Blue"
+        },
+        "#242E28": {
+            "name": "Midnight Moss",
+            "hueName": "Green"
+        },
+        "#3F3623": {
+            "name": "Mikado",
+            "hueName": "Brown"
+        },
+        "#F6F493": {
+            "name": "Milan",
+            "hueName": "Green"
+        },
+        "#9E3332": {
+            "name": "Milano Red",
+            "hueName": "Red"
+        },
+        "#F3E5C0": {
+            "name": "Milk Punch",
+            "hueName": "Yellow"
+        },
+        "#DCD9CD": {
+            "name": "Milk White",
+            "hueName": "Grey"
+        },
+        "#595648": {
+            "name": "Millbrook",
+            "hueName": "Brown"
+        },
+        "#F5F5CC": {
+            "name": "Mimosa",
+            "hueName": "Green"
+        },
+        "#DAEA6F": {
+            "name": "Mindaro",
+            "hueName": "Green"
+        },
+        "#373E41": {
+            "name": "Mine Shaft",
+            "hueName": "Blue"
+        },
+        "#506355": {
+            "name": "Mineral Green",
+            "hueName": "Green"
+        },
+        "#407577": {
+            "name": "Ming",
+            "hueName": "Green"
+        },
+        "#3E3267": {
+            "name": "Minsk",
+            "hueName": "Violet"
+        },
+        "#F5FFFA": {
+            "name": "Mint Cream",
+            "hueName": "White"
+        },
+        "#98FF98": {
+            "name": "Mint Green",
+            "hueName": "Green"
+        },
+        "#E0D8A7": {
+            "name": "Mint Julep",
+            "hueName": "Green"
+        },
+        "#C6EADD": {
+            "name": "Mint Tulip",
+            "hueName": "Green"
+        },
+        "#373F43": {
+            "name": "Mirage",
+            "hueName": "Blue"
+        },
+        "#A5A9B2": {
+            "name": "Mischka",
+            "hueName": "Blue"
+        },
+        "#BAB9A9": {
+            "name": "Mist Grey",
+            "hueName": "Grey"
+        },
+        "#FFE4E1": {
+            "name": "Misty Rose",
+            "hueName": "Violet"
+        },
+        "#605A67": {
+            "name": "Mobster",
+            "hueName": "Violet"
+        },
+        "#582F2B": {
+            "name": "Moccaccino",
+            "hueName": "Red"
+        },
+        "#FFE4B5": {
+            "name": "Moccasin",
+            "hueName": "Yellow"
+        },
+        "#6F372D": {
+            "name": "Mocha",
+            "hueName": "Red"
+        },
+        "#97463C": {
+            "name": "Mojo",
+            "hueName": "Red"
+        },
+        "#FF9889": {
+            "name": "Mona Lisa",
+            "hueName": "Red"
+        },
+        "#6B252C": {
+            "name": "Monarch",
+            "hueName": "Red"
+        },
+        "#554D42": {
+            "name": "Mondo",
+            "hueName": "Brown"
+        },
+        "#A58B6F": {
+            "name": "Mongoose",
+            "hueName": "Brown"
+        },
+        "#7A7679": {
+            "name": "Monsoon",
+            "hueName": "Grey"
+        },
+        "#393B3C": {
+            "name": "Montana",
+            "hueName": "Grey"
+        },
+        "#7AC5B4": {
+            "name": "Monte Carlo",
+            "hueName": "Green"
+        },
+        "#8378C7": {
+            "name": "Moody Blue",
+            "hueName": "Violet"
+        },
+        "#F5F3CE": {
+            "name": "Moon Glow",
+            "hueName": "Green"
+        },
+        "#CECDB8": {
+            "name": "Moon Mist",
+            "hueName": "Green"
+        },
+        "#C0B2D7": {
+            "name": "Moon Raker",
+            "hueName": "Violet"
+        },
+        "#F0C420": {
+            "name": "Moon Yellow",
+            "hueName": "Yellow"
+        },
+        "#9ED1D3": {
+            "name": "Morning Glory",
+            "hueName": "Blue"
+        },
+        "#442D21": {
+            "name": "Morocco Brown",
+            "hueName": "Brown"
+        },
+        "#565051": {
+            "name": "Mortar",
+            "hueName": "Grey"
+        },
+        "#005F5B": {
+            "name": "Mosque",
+            "hueName": "Green"
+        },
+        "#ADDFAD": {
+            "name": "Moss Green",
+            "hueName": "Green"
+        },
+        "#1AB385": {
+            "name": "Mountain Meadow",
+            "hueName": "Green"
+        },
+        "#A09F9C": {
+            "name": "Mountain Mist",
+            "hueName": "Grey"
+        },
+        "#997A8D": {
+            "name": "Mountbatten Pink",
+            "hueName": "Violet"
+        },
+        "#A9844F": {
+            "name": "Muddy Waters",
+            "hueName": "Yellow"
+        },
+        "#9E7E53": {
+            "name": "Muesli",
+            "hueName": "Brown"
+        },
+        "#C54B8C": {
+            "name": "Mulberry",
+            "hueName": "Violet"
+        },
+        "#884F40": {
+            "name": "Mule Fawn",
+            "hueName": "Brown"
+        },
+        "#524D5B": {
+            "name": "Mulled Wine",
+            "hueName": "Violet"
+        },
+        "#FFDB58": {
+            "name": "Mustard",
+            "hueName": "Yellow"
+        },
+        "#D68B80": {
+            "name": "My Pink",
+            "hueName": "Red"
+        },
+        "#FDAE45": {
+            "name": "My Sin",
+            "hueName": "Yellow"
+        },
+        "#21421E": {
+            "name": "Myrtle",
+            "hueName": "Green"
+        },
+        "#D8DDDA": {
+            "name": "Mystic",
+            "hueName": "Grey"
+        },
+        "#4E5D4E": {
+            "name": "Nandor",
+            "hueName": "Green"
+        },
+        "#A39A87": {
+            "name": "Napa",
+            "hueName": "Yellow"
+        },
+        "#E9E6DC": {
+            "name": "Narvik",
+            "hueName": "Green"
+        },
+        "#FFDEAD": {
+            "name": "Navajo White",
+            "hueName": "Brown"
+        },
+        "#000080": {
+            "name": "Navy",
+            "hueName": "Blue"
+        },
+        "#0066CC": {
+            "name": "Navy Blue",
+            "hueName": "Blue"
+        },
+        "#B8C6BE": {
+            "name": "Nebula",
+            "hueName": "Green"
+        },
+        "#EEC7A2": {
+            "name": "Negroni",
+            "hueName": "Orange"
+        },
+        "#4D4DFF": {
+            "name": "Neon Blue",
+            "hueName": "Blue"
+        },
+        "#FF9933": {
+            "name": "Neon Carrot",
+            "hueName": "Orange"
+        },
+        "#FF6EC7": {
+            "name": "Neon Pink",
+            "hueName": "Violet"
+        },
+        "#93AAB9": {
+            "name": "Nepal",
+            "hueName": "Blue"
+        },
+        "#77A8AB": {
+            "name": "Neptune",
+            "hueName": "Green"
+        },
+        "#252525": {
+            "name": "Nero",
+            "hueName": "Grey"
+        },
+        "#AAA583": {
+            "name": "Neutral Green",
+            "hueName": "Green"
+        },
+        "#666F6F": {
+            "name": "Nevada",
+            "hueName": "Grey"
+        },
+        "#6D3B24": {
+            "name": "New Amber",
+            "hueName": "Orange"
+        },
+        "#00009C": {
+            "name": "New Midnight Blue",
+            "hueName": "Blue"
+        },
+        "#E4C385": {
+            "name": "New Orleans",
+            "hueName": "Yellow"
+        },
+        "#EBC79E": {
+            "name": "New Tan",
+            "hueName": "Brown"
+        },
+        "#DD8374": {
+            "name": "New York Pink",
+            "hueName": "Red"
+        },
+        "#29A98B": {
+            "name": "Niagara",
+            "hueName": "Green"
+        },
+        "#332E2E": {
+            "name": "Night Rider",
+            "hueName": "Grey"
+        },
+        "#A23D54": {
+            "name": "Night Shadz",
+            "hueName": "Red"
+        },
+        "#253F4E": {
+            "name": "Nile Blue",
+            "hueName": "Blue"
+        },
+        "#A99D9D": {
+            "name": "Nobel",
+            "hueName": "Grey"
+        },
+        "#A19986": {
+            "name": "Nomad",
+            "hueName": "Yellow"
+        },
+        "#1D393C": {
+            "name": "Nordic",
+            "hueName": "Blue"
+        },
+        "#A4B88F": {
+            "name": "Norway",
+            "hueName": "Green"
+        },
+        "#BC9229": {
+            "name": "Nugget",
+            "hueName": "Yellow"
+        },
+        "#7E4A3B": {
+            "name": "Nutmeg",
+            "hueName": "Brown"
+        },
+        "#FCEDC5": {
+            "name": "Oasis",
+            "hueName": "Yellow"
+        },
+        "#008F70": {
+            "name": "Observatory",
+            "hueName": "Green"
+        },
+        "#4CA973": {
+            "name": "Ocean Green",
+            "hueName": "Green"
+        },
+        "#CC7722": {
+            "name": "Ochre",
+            "hueName": "Brown"
+        },
+        "#DFF0E2": {
+            "name": "Off Green",
+            "hueName": "Green"
+        },
+        "#FAF3DC": {
+            "name": "Off Yellow",
+            "hueName": "Yellow"
+        },
+        "#313330": {
+            "name": "Oil",
+            "hueName": "Grey"
+        },
+        "#8A3335": {
+            "name": "Old Brick",
+            "hueName": "Red"
+        },
+        "#73503B": {
+            "name": "Old Copper",
+            "hueName": "Red"
+        },
+        "#CFB53B": {
+            "name": "Old Gold",
+            "hueName": "Yellow"
+        },
+        "#FDF5E6": {
+            "name": "Old Lace",
+            "hueName": "White"
+        },
+        "#796878": {
+            "name": "Old Lavender",
+            "hueName": "Violet"
+        },
+        "#C02E4C": {
+            "name": "Old Rose",
+            "hueName": "Red"
+        },
+        "#808000": {
+            "name": "Olive",
+            "hueName": "Green"
+        },
+        "#6B8E23": {
+            "name": "Olive Drab",
+            "hueName": "Green"
+        },
+        "#B5B35C": {
+            "name": "Olive Green",
+            "hueName": "Green"
+        },
+        "#888064": {
+            "name": "Olive Haze",
+            "hueName": "Yellow"
+        },
+        "#747028": {
+            "name": "Olivetone",
+            "hueName": "Green"
+        },
+        "#9AB973": {
+            "name": "Olivine",
+            "hueName": "Orange"
+        },
+        "#C2E6EC": {
+            "name": "Onahau",
+            "hueName": "Blue"
+        },
+        "#48412B": {
+            "name": "Onion",
+            "hueName": "Yellow"
+        },
+        "#A8C3BC": {
+            "name": "Opal",
+            "hueName": "Green"
+        },
+        "#987E7E": {
+            "name": "Opium",
+            "hueName": "Brown"
+        },
+        "#395555": {
+            "name": "Oracle",
+            "hueName": "Green"
+        },
+        "#FFA500": {
+            "name": "Orange",
+            "hueName": "Orange"
+        },
+        "#FFA000": {
+            "name": "Orange Peel",
+            "hueName": "Orange"
+        },
+        "#FF4500": {
+            "name": "Orange Red",
+            "hueName": "Orange"
+        },
+        "#A85335": {
+            "name": "Orange Roughy",
+            "hueName": "Orange"
+        },
+        "#EAE3CD": {
+            "name": "Orange White",
+            "hueName": "Yellow"
+        },
+        "#DA70D6": {
+            "name": "Orchid",
+            "hueName": "Violet"
+        },
+        "#F1EBD9": {
+            "name": "Orchid White",
+            "hueName": "Yellow"
+        },
+        "#255B77": {
+            "name": "Orient",
+            "hueName": "Blue"
+        },
+        "#C28E88": {
+            "name": "Oriental Pink",
+            "hueName": "Red"
+        },
+        "#D2D3B3": {
+            "name": "Orinoco",
+            "hueName": "Green"
+        },
+        "#818988": {
+            "name": "Oslo Grey",
+            "hueName": "Grey"
+        },
+        "#D3DBCB": {
+            "name": "Ottoman",
+            "hueName": "Green"
+        },
+        "#2D383A": {
+            "name": "Outer Space",
+            "hueName": "Grey"
+        },
+        "#FF6037": {
+            "name": "Outrageous Orange",
+            "hueName": "Orange"
+        },
+        "#28353A": {
+            "name": "Oxford Blue",
+            "hueName": "Blue"
+        },
+        "#6D9A78": {
+            "name": "Oxley",
+            "hueName": "Green"
+        },
+        "#D1EAEA": {
+            "name": "Oyster Bay",
+            "hueName": "Blue"
+        },
+        "#D4B5B0": {
+            "name": "Oyster Pink",
+            "hueName": "Red"
+        },
+        "#864B36": {
+            "name": "Paarl",
+            "hueName": "Orange"
+        },
+        "#7A715C": {
+            "name": "Pablo",
+            "hueName": "Yellow"
+        },
+        "#009DC4": {
+            "name": "Pacific Blue",
+            "hueName": "Blue"
+        },
+        "#4F4037": {
+            "name": "Paco",
+            "hueName": "Brown"
+        },
+        "#7EB394": {
+            "name": "Padua",
+            "hueName": "Green"
+        },
+        "#682860": {
+            "name": "Palatinate Purple",
+            "hueName": "Violet"
+        },
+        "#987654": {
+            "name": "Pale Brown",
+            "hueName": "Brown"
+        },
+        "#DDADAF": {
+            "name": "Pale Chestnut",
+            "hueName": "Red"
+        },
+        "#ABCDEF": {
+            "name": "Pale Cornflower Blue",
+            "hueName": "Blue"
+        },
+        "#EEE8AA": {
+            "name": "Pale Goldenrod",
+            "hueName": "Yellow"
+        },
+        "#98FB98": {
+            "name": "Pale Green",
+            "hueName": "Green"
+        },
+        "#BDCAA8": {
+            "name": "Pale Leaf",
+            "hueName": "Green"
+        },
+        "#F984E5": {
+            "name": "Pale Magenta",
+            "hueName": "Violet"
+        },
+        "#9C8D72": {
+            "name": "Pale Oyster",
+            "hueName": "Brown"
+        },
+        "#FADADD": {
+            "name": "Pale Pink",
+            "hueName": "Red"
+        },
+        "#F9F59F": {
+            "name": "Pale Prim",
+            "hueName": "Green"
+        },
+        "#EFD6DA": {
+            "name": "Pale Rose",
+            "hueName": "Red"
+        },
+        "#636D70": {
+            "name": "Pale Sky",
+            "hueName": "Blue"
+        },
+        "#C3BEBB": {
+            "name": "Pale Slate",
+            "hueName": "Grey"
+        },
+        "#BC987E": {
+            "name": "Pale Taupe",
+            "hueName": "Grey"
+        },
+        "#AFEEEE": {
+            "name": "Pale Turquoise",
+            "hueName": "Blue"
+        },
+        "#DB7093": {
+            "name": "Pale Violet Red",
+            "hueName": "Red"
+        },
+        "#20392C": {
+            "name": "Palm Green",
+            "hueName": "Green"
+        },
+        "#36482F": {
+            "name": "Palm Leaf",
+            "hueName": "Green"
+        },
+        "#EAE4DC": {
+            "name": "Pampas",
+            "hueName": "Grey"
+        },
+        "#EBF7E4": {
+            "name": "Panache",
+            "hueName": "Green"
+        },
+        "#DFB992": {
+            "name": "Pancho",
+            "hueName": "Orange"
+        },
+        "#544F3A": {
+            "name": "Panda",
+            "hueName": "Yellow"
+        },
+        "#FFEFD5": {
+            "name": "Papaya Whip",
+            "hueName": "Yellow"
+        },
+        "#7C2D37": {
+            "name": "Paprika",
+            "hueName": "Red"
+        },
+        "#488084": {
+            "name": "Paradiso",
+            "hueName": "Green"
+        },
+        "#D0C8B0": {
+            "name": "Parchment",
+            "hueName": "Yellow"
+        },
+        "#FBEB50": {
+            "name": "Paris Daisy",
+            "hueName": "Green"
+        },
+        "#312760": {
+            "name": "Paris M",
+            "hueName": "Violet"
+        },
+        "#BFCDC0": {
+            "name": "Paris White",
+            "hueName": "Green"
+        },
+        "#305D35": {
+            "name": "Parsley",
+            "hueName": "Green"
+        },
+        "#77DD77": {
+            "name": "Pastel Green",
+            "hueName": "Green"
+        },
+        "#639283": {
+            "name": "Patina",
+            "hueName": "Green"
+        },
+        "#D3E5EF": {
+            "name": "Pattens Blue",
+            "hueName": "Blue"
+        },
+        "#2A2551": {
+            "name": "Paua",
+            "hueName": "Violet"
+        },
+        "#BAAB87": {
+            "name": "Pavlova",
+            "hueName": "Yellow"
+        },
+        "#404048": {
+            "name": "Payne's Grey",
+            "hueName": "Grey"
+        },
+        "#FFCBA4": {
+            "name": "Peach",
+            "hueName": "Orange"
+        },
+        "#FFDAB9": {
+            "name": "Peach Puff",
+            "hueName": "Yellow"
+        },
+        "#FFCC99": {
+            "name": "Peach-Orange",
+            "hueName": "Orange"
+        },
+        "#FADFAD": {
+            "name": "Peach-Yellow",
+            "hueName": "Yellow"
+        },
+        "#7A4434": {
+            "name": "Peanut",
+            "hueName": "Brown"
+        },
+        "#D1E231": {
+            "name": "Pear",
+            "hueName": "Yellow"
+        },
+        "#DED1C6": {
+            "name": "Pearl Bush",
+            "hueName": "Orange"
+        },
+        "#EAE0C8": {
+            "name": "Pearl Lusta",
+            "hueName": "Yellow"
+        },
+        "#766D52": {
+            "name": "Peat",
+            "hueName": "Yellow"
+        },
+        "#2599B2": {
+            "name": "Pelorous",
+            "hueName": "Blue"
+        },
+        "#D7E7D0": {
+            "name": "Peppermint",
+            "hueName": "Green"
+        },
+        "#ACB9E8": {
+            "name": "Perano",
+            "hueName": "Blue"
+        },
+        "#C2A9DB": {
+            "name": "Perfume",
+            "hueName": "Violet"
+        },
+        "#ACB6B2": {
+            "name": "Periglacial Blue",
+            "hueName": "Green"
+        },
+        "#C3CDE6": {
+            "name": "Periwinkle",
+            "hueName": "Blue"
+        },
+        "#1C39BB": {
+            "name": "Persian Blue",
+            "hueName": "Blue"
+        },
+        "#00A693": {
+            "name": "Persian Green",
+            "hueName": "Green"
+        },
+        "#32127A": {
+            "name": "Persian Indigo",
+            "hueName": "Violet"
+        },
+        "#F77FBE": {
+            "name": "Persian Pink",
+            "hueName": "Red"
+        },
+        "#683332": {
+            "name": "Persian Plum",
+            "hueName": "Red"
+        },
+        "#CC3333": {
+            "name": "Persian Red",
+            "hueName": "Red"
+        },
+        "#FE28A2": {
+            "name": "Persian Rose",
+            "hueName": "Red"
+        },
+        "#EC5800": {
+            "name": "Persimmon",
+            "hueName": "Red"
+        },
+        "#CD853F": {
+            "name": "Peru",
+            "hueName": "Brown"
+        },
+        "#733D1F": {
+            "name": "Peru Tan",
+            "hueName": "Orange"
+        },
+        "#7A7229": {
+            "name": "Pesto",
+            "hueName": "Yellow"
+        },
+        "#DA9790": {
+            "name": "Petite Orchid",
+            "hueName": "Red"
+        },
+        "#91A092": {
+            "name": "Pewter",
+            "hueName": "Green"
+        },
+        "#826663": {
+            "name": "Pharlap",
+            "hueName": "Brown"
+        },
+        "#F8EA97": {
+            "name": "Picasso",
+            "hueName": "Green"
+        },
+        "#5BA0D0": {
+            "name": "Picton Blue",
+            "hueName": "Blue"
+        },
+        "#FDD7E4": {
+            "name": "Pig Pink",
+            "hueName": "Red"
+        },
+        "#00A550": {
+            "name": "Pigment Green",
+            "hueName": "Green"
+        },
+        "#756556": {
+            "name": "Pine Cone",
+            "hueName": "Brown"
+        },
+        "#BDC07E": {
+            "name": "Pine Glade",
+            "hueName": "Green"
+        },
+        "#01796F": {
+            "name": "Pine Green",
+            "hueName": "Green"
+        },
+        "#2A2F23": {
+            "name": "Pine Tree",
+            "hueName": "Green"
+        },
+        "#FFC0CB": {
+            "name": "Pink",
+            "hueName": "Red"
+        },
+        "#FF66FF": {
+            "name": "Pink Flamingo",
+            "hueName": "Red"
+        },
+        "#D8B4B6": {
+            "name": "Pink Flare",
+            "hueName": "Red"
+        },
+        "#F6CCD7": {
+            "name": "Pink Lace",
+            "hueName": "Red"
+        },
+        "#F3D7B6": {
+            "name": "Pink Lady",
+            "hueName": "Orange"
+        },
+        "#BFB3B2": {
+            "name": "Pink Swan",
+            "hueName": "Grey"
+        },
+        "#9D5432": {
+            "name": "Piper",
+            "hueName": "Orange"
+        },
+        "#F5E6C4": {
+            "name": "Pipi",
+            "hueName": "Yellow"
+        },
+        "#FCDBD2": {
+            "name": "Pippin",
+            "hueName": "Red"
+        },
+        "#BA782A": {
+            "name": "Pirate Gold",
+            "hueName": "Yellow"
+        },
+        "#BBCDA5": {
+            "name": "Pixie Green",
+            "hueName": "Green"
+        },
+        "#E57F3D": {
+            "name": "Pizazz",
+            "hueName": "Orange"
+        },
+        "#BF8D3C": {
+            "name": "Pizza",
+            "hueName": "Yellow"
+        },
+        "#3E594C": {
+            "name": "Plantation",
+            "hueName": "Green"
+        },
+        "#DDA0DD": {
+            "name": "Plum",
+            "hueName": "Violet"
+        },
+        "#651C26": {
+            "name": "Pohutukawa",
+            "hueName": "Red"
+        },
+        "#E5F2E7": {
+            "name": "Polar",
+            "hueName": "Green"
+        },
+        "#8AA7CC": {
+            "name": "Polo Blue",
+            "hueName": "Blue"
+        },
+        "#6A1F44": {
+            "name": "Pompadour",
+            "hueName": "Violet"
+        },
+        "#DDDCDB": {
+            "name": "Porcelain",
+            "hueName": "Grey"
+        },
+        "#DF9D5B": {
+            "name": "Porsche",
+            "hueName": "Orange"
+        },
+        "#3B436C": {
+            "name": "Port Gore",
+            "hueName": "Blue"
+        },
+        "#F4F09B": {
+            "name": "Portafino",
+            "hueName": "Green"
+        },
+        "#8B98D8": {
+            "name": "Portage",
+            "hueName": "Blue"
+        },
+        "#F0D555": {
+            "name": "Portica",
+            "hueName": "Yellow"
+        },
+        "#EFDCD4": {
+            "name": "Pot Pourri",
+            "hueName": "Orange"
+        },
+        "#845C40": {
+            "name": "Potters Clay",
+            "hueName": "Brown"
+        },
+        "#B0E0E6": {
+            "name": "Powder Blue",
+            "hueName": "Blue"
+        },
+        "#883C32": {
+            "name": "Prairie Sand",
+            "hueName": "Red"
+        },
+        "#CAB4D4": {
+            "name": "Prelude",
+            "hueName": "Violet"
+        },
+        "#E2CDD5": {
+            "name": "Prim",
+            "hueName": "Violet"
+        },
+        "#E4DE8E": {
+            "name": "Primrose",
+            "hueName": "Green"
+        },
+        "#F8F6DF": {
+            "name": "Promenade",
+            "hueName": "Green"
+        },
+        "#F6E3DA": {
+            "name": "Provincial Pink",
+            "hueName": "Orange"
+        },
+        "#003366": {
+            "name": "Prussian Blue",
+            "hueName": "Blue"
+        },
+        "#DD00FF": {
+            "name": "Psychedelic Purple",
+            "hueName": "Violet"
+        },
+        "#CC8899": {
+            "name": "Puce",
+            "hueName": "Red"
+        },
+        "#6E3326": {
+            "name": "Pueblo",
+            "hueName": "Orange"
+        },
+        "#59BAA3": {
+            "name": "Puerto Rico",
+            "hueName": "Green"
+        },
+        "#BAC0B4": {
+            "name": "Pumice",
+            "hueName": "Green"
+        },
+        "#FF7518": {
+            "name": "Pumpkin",
+            "hueName": "Orange"
+        },
+        "#534931": {
+            "name": "Punga",
+            "hueName": "Yellow"
+        },
+        "#800080": {
+            "name": "Purple",
+            "hueName": "Violet"
+        },
+        "#652DC1": {
+            "name": "Purple Heart",
+            "hueName": "Violet"
+        },
+        "#9678B6": {
+            "name": "Purple Mountain's Majesty",
+            "hueName": "Violet"
+        },
+        "#50404D": {
+            "name": "Purple Taupe",
+            "hueName": "Grey"
+        },
+        "#CDAE70": {
+            "name": "Putty",
+            "hueName": "Yellow"
+        },
+        "#F2EDDD": {
+            "name": "Quarter Pearl Lusta",
+            "hueName": "Green"
+        },
+        "#EBE2D2": {
+            "name": "Quarter Spanish White",
+            "hueName": "Yellow"
+        },
+        "#D9D9F3": {
+            "name": "Quartz",
+            "hueName": "White"
+        },
+        "#C3988B": {
+            "name": "Quicksand",
+            "hueName": "Brown"
+        },
+        "#CBC9C0": {
+            "name": "Quill Grey",
+            "hueName": "Grey"
+        },
+        "#6A5445": {
+            "name": "Quincy",
+            "hueName": "Brown"
+        },
+        "#232F2C": {
+            "name": "Racing Green",
+            "hueName": "Green"
+        },
+        "#FF355E": {
+            "name": "Radical Red",
+            "hueName": "Red"
+        },
+        "#DCC6A0": {
+            "name": "Raffia",
+            "hueName": "Yellow"
+        },
+        "#667028": {
+            "name": "Rain Forest",
+            "hueName": "Green"
+        },
+        "#B3C1B1": {
+            "name": "Rainee",
+            "hueName": "Green"
+        },
+        "#FCAE60": {
+            "name": "Rajah",
+            "hueName": "Orange"
+        },
+        "#2B2E25": {
+            "name": "Rangoon Green",
+            "hueName": "Green"
+        },
+        "#6F747B": {
+            "name": "Raven",
+            "hueName": "Blue"
+        },
+        "#D27D46": {
+            "name": "Raw Sienna",
+            "hueName": "Brown"
+        },
+        "#734A12": {
+            "name": "Raw Umber",
+            "hueName": "Brown"
+        },
+        "#FF33CC": {
+            "name": "Razzle Dazzle Rose",
+            "hueName": "Red"
+        },
+        "#E30B5C": {
+            "name": "Razzmatazz",
+            "hueName": "Red"
+        },
+        "#453430": {
+            "name": "Rebel",
+            "hueName": "Brown"
+        },
+        "#FF0000": {
+            "name": "Red",
+            "hueName": "Red"
+        },
+        "#701F28": {
+            "name": "Red Berry",
+            "hueName": "Red"
+        },
+        "#CB6F4A": {
+            "name": "Red Damask",
+            "hueName": "Orange"
+        },
+        "#662A2C": {
+            "name": "Red Devil",
+            "hueName": "Red"
+        },
+        "#FF3F34": {
+            "name": "Red Orange",
+            "hueName": "Orange"
+        },
+        "#5D1F1E": {
+            "name": "Red Oxide",
+            "hueName": "Red"
+        },
+        "#7D4138": {
+            "name": "Red Robin",
+            "hueName": "Red"
+        },
+        "#AD522E": {
+            "name": "Red Stage",
+            "hueName": "Orange"
+        },
+        "#BB3385": {
+            "name": "Medium Red Violet",
+            "hueName": "Violet"
+        },
+        "#5B342E": {
+            "name": "Redwood",
+            "hueName": "Red"
+        },
+        "#D1EF9F": {
+            "name": "Reef",
+            "hueName": "Green"
+        },
+        "#A98D36": {
+            "name": "Reef Gold",
+            "hueName": "Yellow"
+        },
+        "#203F58": {
+            "name": "Regal Blue",
+            "hueName": "Blue"
+        },
+        "#798488": {
+            "name": "Regent Grey",
+            "hueName": "Blue"
+        },
+        "#A0CDD9": {
+            "name": "Regent St Blue",
+            "hueName": "Blue"
+        },
+        "#F6DEDA": {
+            "name": "Remy",
+            "hueName": "Red"
+        },
+        "#B26E33": {
+            "name": "Reno Sand",
+            "hueName": "Orange"
+        },
+        "#323F75": {
+            "name": "Resolution Blue",
+            "hueName": "Blue"
+        },
+        "#37363F": {
+            "name": "Revolver",
+            "hueName": "Violet"
+        },
+        "#3D4653": {
+            "name": "Rhino",
+            "hueName": "Blue"
+        },
+        "#EFECDE": {
+            "name": "Rice Cake",
+            "hueName": "Green"
+        },
+        "#EFF5D1": {
+            "name": "Rice Flower",
+            "hueName": "Green"
+        },
+        "#5959AB": {
+            "name": "Rich Blue",
+            "hueName": "Blue"
+        },
+        "#A15226": {
+            "name": "Rich Gold",
+            "hueName": "Orange"
+        },
+        "#B7C61A": {
+            "name": "Rio Grande",
+            "hueName": "Green"
+        },
+        "#89D9C8": {
+            "name": "Riptide",
+            "hueName": "Green"
+        },
+        "#556061": {
+            "name": "River Bed",
+            "hueName": "Blue"
+        },
+        "#DDAD56": {
+            "name": "Rob Roy",
+            "hueName": "Yellow"
+        },
+        "#00CCCC": {
+            "name": "Robin's Egg Blue",
+            "hueName": "Blue"
+        },
+        "#5A4D41": {
+            "name": "Rock",
+            "hueName": "Brown"
+        },
+        "#93A2BA": {
+            "name": "Rock Blue",
+            "hueName": "Blue"
+        },
+        "#9D442D": {
+            "name": "Rock Spray",
+            "hueName": "Orange"
+        },
+        "#C7A384": {
+            "name": "Rodeo Dust",
+            "hueName": "Brown"
+        },
+        "#6D7876": {
+            "name": "Rolling Stone",
+            "hueName": "Green"
+        },
+        "#D8625B": {
+            "name": "Roman",
+            "hueName": "Red"
+        },
+        "#7D6757": {
+            "name": "Roman Coffee",
+            "hueName": "Brown"
+        },
+        "#F4F0E6": {
+            "name": "Romance",
+            "hueName": "Grey"
+        },
+        "#FFC69E": {
+            "name": "Romantic",
+            "hueName": "Orange"
+        },
+        "#EAB852": {
+            "name": "Ronchi",
+            "hueName": "Yellow"
+        },
+        "#A14743": {
+            "name": "Roof Terracotta",
+            "hueName": "Red"
+        },
+        "#8E593C": {
+            "name": "Rope",
+            "hueName": "Orange"
+        },
+        "#D3A194": {
+            "name": "Rose",
+            "hueName": "Red"
+        },
+        "#FEAB9A": {
+            "name": "Rose Bud",
+            "hueName": "Red"
+        },
+        "#8A2D52": {
+            "name": "Rose Bud Cherry",
+            "hueName": "Red"
+        },
+        "#AC512D": {
+            "name": "Rose Of Sharon",
+            "hueName": "Orange"
+        },
+        "#905D5D": {
+            "name": "Rose Taupe",
+            "hueName": "Violet"
+        },
+        "#FBEEE8": {
+            "name": "Rose White",
+            "hueName": "Red"
+        },
+        "#BC8F8F": {
+            "name": "Rosy Brown",
+            "hueName": "Brown"
+        },
+        "#B69642": {
+            "name": "Roti",
+            "hueName": "Yellow"
+        },
+        "#A94064": {
+            "name": "Rouge",
+            "hueName": "Red"
+        },
+        "#4169E1": {
+            "name": "Royal Blue",
+            "hueName": "Blue"
+        },
+        "#B54B73": {
+            "name": "Royal Heath",
+            "hueName": "Red"
+        },
+        "#6B3FA0": {
+            "name": "Royal Purple",
+            "hueName": "Violet"
+        },
+        "#E0115F": {
+            "name": "Ruby",
+            "hueName": "Red"
+        },
+        "#716675": {
+            "name": "Rum",
+            "hueName": "Violet"
+        },
+        "#F1EDD4": {
+            "name": "Rum Swizzle",
+            "hueName": "Green"
+        },
+        "#80461B": {
+            "name": "Russet",
+            "hueName": "Brown"
+        },
+        "#7D655C": {
+            "name": "Russett",
+            "hueName": "Brown"
+        },
+        "#B7410E": {
+            "name": "Rust",
+            "hueName": "Red"
+        },
+        "#3A181A": {
+            "name": "Rustic Red",
+            "hueName": "Red"
+        },
+        "#8D5F2C": {
+            "name": "Rusty Nail",
+            "hueName": "Orange"
+        },
+        "#5D4E46": {
+            "name": "Saddle",
+            "hueName": "Brown"
+        },
+        "#8B4513": {
+            "name": "Saddle Brown",
+            "hueName": "Brown"
+        },
+        "#FF6600": {
+            "name": "Safety Orange",
+            "hueName": "Orange"
+        },
+        "#F4C430": {
+            "name": "Saffron",
+            "hueName": "Yellow"
+        },
+        "#989F7A": {
+            "name": "Sage",
+            "hueName": "Green"
+        },
+        "#B79826": {
+            "name": "Sahara",
+            "hueName": "Yellow"
+        },
+        "#A5CEEC": {
+            "name": "Sail",
+            "hueName": "Blue"
+        },
+        "#177B4D": {
+            "name": "Salem",
+            "hueName": "Green"
+        },
+        "#FA8072": {
+            "name": "Salmon",
+            "hueName": "Red"
+        },
+        "#FFD67B": {
+            "name": "Salomie",
+            "hueName": "Yellow"
+        },
+        "#696268": {
+            "name": "Salt Box",
+            "hueName": "Violet"
+        },
+        "#EEF3E5": {
+            "name": "Saltpan",
+            "hueName": "Grey"
+        },
+        "#3B2E25": {
+            "name": "Sambuca",
+            "hueName": "Brown"
+        },
+        "#2C6E31": {
+            "name": "San Felix",
+            "hueName": "Green"
+        },
+        "#445761": {
+            "name": "San Juan",
+            "hueName": "Blue"
+        },
+        "#4E6C9D": {
+            "name": "San Marino",
+            "hueName": "Blue"
+        },
+        "#867665": {
+            "name": "Sand Dune",
+            "hueName": "Brown"
+        },
+        "#A3876A": {
+            "name": "Sandal",
+            "hueName": "Brown"
+        },
+        "#AF937D": {
+            "name": "Sandrift",
+            "hueName": "Brown"
+        },
+        "#786D5F": {
+            "name": "Sandstone",
+            "hueName": "Brown"
+        },
+        "#DECB81": {
+            "name": "Sandwisp",
+            "hueName": "Yellow"
+        },
+        "#FEDBB7": {
+            "name": "Sandy Beach",
+            "hueName": "Orange"
+        },
+        "#F4A460": {
+            "name": "Sandy Brown",
+            "hueName": "Brown"
+        },
+        "#92000A": {
+            "name": "Sangria",
+            "hueName": "Red"
+        },
+        "#6C3736": {
+            "name": "Sanguine Brown",
+            "hueName": "Red"
+        },
+        "#9998A7": {
+            "name": "Santas Grey",
+            "hueName": "Blue"
+        },
+        "#A96A50": {
+            "name": "Sante Fe",
+            "hueName": "Orange"
+        },
+        "#E1D5A6": {
+            "name": "Sapling",
+            "hueName": "Yellow"
+        },
+        "#082567": {
+            "name": "Sapphire",
+            "hueName": "Blue"
+        },
+        "#555B2C": {
+            "name": "Saratoga",
+            "hueName": "Green"
+        },
+        "#F4EAE4": {
+            "name": "Sauvignon",
+            "hueName": "Red"
+        },
+        "#F5DEC4": {
+            "name": "Sazerac",
+            "hueName": "Orange"
+        },
+        "#6F63A0": {
+            "name": "Scampi",
+            "hueName": "Violet"
+        },
+        "#ADD9D1": {
+            "name": "Scandal",
+            "hueName": "Green"
+        },
+        "#FF2400": {
+            "name": "Scarlet",
+            "hueName": "Red"
+        },
+        "#4A2D57": {
+            "name": "Scarlet Gum",
+            "hueName": "Violet"
+        },
+        "#7E2530": {
+            "name": "Scarlett",
+            "hueName": "Red"
+        },
+        "#6B6A6C": {
+            "name": "Scarpa Flow",
+            "hueName": "Grey"
+        },
+        "#87876F": {
+            "name": "Schist",
+            "hueName": "Green"
+        },
+        "#FFD800": {
+            "name": "School Bus Yellow",
+            "hueName": "Yellow"
+        },
+        "#8D8478": {
+            "name": "Schooner",
+            "hueName": "Brown"
+        },
+        "#308EA0": {
+            "name": "Scooter",
+            "hueName": "Blue"
+        },
+        "#6A6466": {
+            "name": "Scorpion",
+            "hueName": "Grey"
+        },
+        "#EEE7C8": {
+            "name": "Scotch Mist",
+            "hueName": "Yellow"
+        },
+        "#66FF66": {
+            "name": "Screamin' Green",
+            "hueName": "Green"
+        },
+        "#3D4031": {
+            "name": "Scrub",
+            "hueName": "Green"
+        },
+        "#EF9548": {
+            "name": "Sea Buckthorn",
+            "hueName": "Orange"
+        },
+        "#DFDDD6": {
+            "name": "Sea Fog",
+            "hueName": "Grey"
+        },
+        "#2E8B57": {
+            "name": "Sea Green",
+            "hueName": "Green"
+        },
+        "#C2D5C4": {
+            "name": "Sea Mist",
+            "hueName": "Green"
+        },
+        "#8AAEA4": {
+            "name": "Sea Nymph",
+            "hueName": "Green"
+        },
+        "#DB817E": {
+            "name": "Sea Pink",
+            "hueName": "Red"
+        },
+        "#77B7D0": {
+            "name": "Seagull",
+            "hueName": "Blue"
+        },
+        "#321414": {
+            "name": "Seal Brown",
+            "hueName": "Brown"
+        },
+        "#69326E": {
+            "name": "Seance",
+            "hueName": "Violet"
+        },
+        "#FFF5EE": {
+            "name": "Seashell",
+            "hueName": "White"
+        },
+        "#37412A": {
+            "name": "Seaweed",
+            "hueName": "Green"
+        },
+        "#E6DFE7": {
+            "name": "Selago",
+            "hueName": "Violet"
+        },
+        "#FFBA00": {
+            "name": "Selective Yellow",
+            "hueName": "Yellow"
+        },
+        "#6B4226": {
+            "name": "Semi-Sweet Chocolate",
+            "hueName": "Brown"
+        },
+        "#9E5B40": {
+            "name": "Sepia",
+            "hueName": "Brown"
+        },
+        "#FCE9D7": {
+            "name": "Serenade",
+            "hueName": "Orange"
+        },
+        "#837050": {
+            "name": "Shadow",
+            "hueName": "Green"
+        },
+        "#9AC0B6": {
+            "name": "Shadow Green",
+            "hueName": "Green"
+        },
+        "#9F9B9D": {
+            "name": "Shady Lady",
+            "hueName": "Grey"
+        },
+        "#609AB8": {
+            "name": "Shakespeare",
+            "hueName": "Blue"
+        },
+        "#F8F6A8": {
+            "name": "Shalimar",
+            "hueName": "Green"
+        },
+        "#33CC99": {
+            "name": "Shamrock",
+            "hueName": "Green"
+        },
+        "#009E60": {
+            "name": "Shamrock Green",
+            "hueName": "Green"
+        },
+        "#34363A": {
+            "name": "Shark",
+            "hueName": "Grey"
+        },
+        "#00494E": {
+            "name": "Sherpa Blue",
+            "hueName": "Green"
+        },
+        "#1B4636": {
+            "name": "Sherwood Green",
+            "hueName": "Green"
+        },
+        "#E6B2A6": {
+            "name": "Shilo",
+            "hueName": "Red"
+        },
+        "#745937": {
+            "name": "Shingle Fawn",
+            "hueName": "Brown"
+        },
+        "#7988AB": {
+            "name": "Ship Cove",
+            "hueName": "Blue"
+        },
+        "#4E4E4C": {
+            "name": "Ship Grey",
+            "hueName": "Grey"
+        },
+        "#842833": {
+            "name": "Shiraz",
+            "hueName": "Red"
+        },
+        "#E899BE": {
+            "name": "Shocking",
+            "hueName": "Violet"
+        },
+        "#FC0FC0": {
+            "name": "Shocking Pink",
+            "hueName": "Red"
+        },
+        "#61666B": {
+            "name": "Shuttle Grey",
+            "hueName": "Grey"
+        },
+        "#686B50": {
+            "name": "Siam",
+            "hueName": "Green"
+        },
+        "#E9D9A9": {
+            "name": "Sidecar",
+            "hueName": "Yellow"
+        },
+        "#A0522D": {
+            "name": "Sienna",
+            "hueName": "Brown"
+        },
+        "#BBADA1": {
+            "name": "Silk",
+            "hueName": "Brown"
+        },
+        "#C0C0C0": {
+            "name": "Silver",
+            "hueName": "Grey"
+        },
+        "#ACAEA9": {
+            "name": "Silver Chalice",
+            "hueName": "Grey"
+        },
+        "#BEBDB6": {
+            "name": "Silver Sand",
+            "hueName": "Grey"
+        },
+        "#67BE90": {
+            "name": "Silver Tree",
+            "hueName": "Green"
+        },
+        "#A6D5D0": {
+            "name": "Sinbad",
+            "hueName": "Green"
+        },
+        "#69293B": {
+            "name": "Siren",
+            "hueName": "Red"
+        },
+        "#68766E": {
+            "name": "Sirocco",
+            "hueName": "Green"
+        },
+        "#C5BAA0": {
+            "name": "Sisal",
+            "hueName": "Yellow"
+        },
+        "#9DB4AA": {
+            "name": "Skeptic",
+            "hueName": "Green"
+        },
+        "#87CEEB": {
+            "name": "Sky Blue",
+            "hueName": "Blue"
+        },
+        "#6A5ACD": {
+            "name": "Slate Blue",
+            "hueName": "Blue"
+        },
+        "#708090": {
+            "name": "Slate Grey",
+            "hueName": "Grey"
+        },
+        "#42342B": {
+            "name": "Slugger",
+            "hueName": "Brown"
+        },
+        "#003399": {
+            "name": "Smalt",
+            "hueName": "Blue"
+        },
+        "#496267": {
+            "name": "Smalt Blue",
+            "hueName": "Blue"
+        },
+        "#BB5F34": {
+            "name": "Smoke Tree",
+            "hueName": "Orange"
+        },
+        "#605D6B": {
+            "name": "Smoky",
+            "hueName": "Violet"
+        },
+        "#FFFAFA": {
+            "name": "Snow",
+            "hueName": "White"
+        },
+        "#E3E3DC": {
+            "name": "Snow Drift",
+            "hueName": "Grey"
+        },
+        "#EAF7C9": {
+            "name": "Snow Flurry",
+            "hueName": "Green"
+        },
+        "#D6F0CD": {
+            "name": "Snowy Mint",
+            "hueName": "Green"
+        },
+        "#E4D7E5": {
+            "name": "Snuff",
+            "hueName": "Violet"
+        },
+        "#ECE5DA": {
+            "name": "Soapstone",
+            "hueName": "Grey"
+        },
+        "#CFBEA5": {
+            "name": "Soft Amber",
+            "hueName": "Yellow"
+        },
+        "#EEDFDE": {
+            "name": "Soft Peach",
+            "hueName": "Red"
+        },
+        "#85494C": {
+            "name": "Solid Pink",
+            "hueName": "Red"
+        },
+        "#EADAC2": {
+            "name": "Solitaire",
+            "hueName": "Yellow"
+        },
+        "#E9ECF1": {
+            "name": "Solitude",
+            "hueName": "Blue"
+        },
+        "#DD6B38": {
+            "name": "Sorbus",
+            "hueName": "Orange"
+        },
+        "#9D7F61": {
+            "name": "Sorrell Brown",
+            "hueName": "Brown"
+        },
+        "#C9B59A": {
+            "name": "Sour Dough",
+            "hueName": "Brown"
+        },
+        "#6F634B": {
+            "name": "Soya Bean",
+            "hueName": "Brown"
+        },
+        "#4B433B": {
+            "name": "Space Shuttle",
+            "hueName": "Brown"
+        },
+        "#7B8976": {
+            "name": "Spanish Green",
+            "hueName": "Green"
+        },
+        "#DED1B7": {
+            "name": "Spanish White",
+            "hueName": "Yellow"
+        },
+        "#375D4F": {
+            "name": "Spectra",
+            "hueName": "Green"
+        },
+        "#6C4F3F": {
+            "name": "Spice",
+            "hueName": "Brown"
+        },
+        "#8B5F4D": {
+            "name": "Spicy Mix",
+            "hueName": "Brown"
+        },
+        "#FF1CAE": {
+            "name": "Spicy Pink",
+            "hueName": "Red"
+        },
+        "#B3C4D8": {
+            "name": "Spindle",
+            "hueName": "Blue"
+        },
+        "#F1D79E": {
+            "name": "Splash",
+            "hueName": "Yellow"
+        },
+        "#7ECDDD": {
+            "name": "Spray",
+            "hueName": "Blue"
+        },
+        "#A7FC00": {
+            "name": "Spring Bud",
+            "hueName": "Green"
+        },
+        "#00FF7F": {
+            "name": "Spring Green",
+            "hueName": "Green"
+        },
+        "#A3BD9C": {
+            "name": "Spring Rain",
+            "hueName": "Green"
+        },
+        "#F1F1C6": {
+            "name": "Spring Sun",
+            "hueName": "Green"
+        },
+        "#E9E1D9": {
+            "name": "Spring Wood",
+            "hueName": "Grey"
+        },
+        "#B8CA9D": {
+            "name": "Sprout",
+            "hueName": "Green"
+        },
+        "#A2A1AC": {
+            "name": "Spun Pearl",
+            "hueName": "Blue"
+        },
+        "#8F7D6B": {
+            "name": "Squirrel",
+            "hueName": "Brown"
+        },
+        "#325482": {
+            "name": "St Tropaz",
+            "hueName": "Blue"
+        },
+        "#858885": {
+            "name": "Stack",
+            "hueName": "Grey"
+        },
+        "#A0A197": {
+            "name": "Star Dust",
+            "hueName": "Grey"
+        },
+        "#D2C6B6": {
+            "name": "Stark White",
+            "hueName": "Yellow"
+        },
+        "#E3DD39": {
+            "name": "Starship",
+            "hueName": "Green"
+        },
+        "#4682B4": {
+            "name": "Steel Blue",
+            "hueName": "Blue"
+        },
+        "#43464B": {
+            "name": "Steel Grey",
+            "hueName": "Grey"
+        },
+        "#833D3E": {
+            "name": "Stiletto",
+            "hueName": "Red"
+        },
+        "#807661": {
+            "name": "Stonewall",
+            "hueName": "Yellow"
+        },
+        "#65645F": {
+            "name": "Storm Dust",
+            "hueName": "Grey"
+        },
+        "#747880": {
+            "name": "Storm Grey",
+            "hueName": "Blue"
+        },
+        "#DABE82": {
+            "name": "Straw",
+            "hueName": "Yellow"
+        },
+        "#946A81": {
+            "name": "Strikemaster",
+            "hueName": "Violet"
+        },
+        "#406356": {
+            "name": "Stromboli",
+            "hueName": "Green"
+        },
+        "#724AA1": {
+            "name": "Studio",
+            "hueName": "Violet"
+        },
+        "#8C9C9C": {
+            "name": "Submarine",
+            "hueName": "Blue"
+        },
+        "#EEEFDF": {
+            "name": "Sugar Cane",
+            "hueName": "Green"
+        },
+        "#C6EA80": {
+            "name": "Sulu",
+            "hueName": "Green"
+        },
+        "#8FB69C": {
+            "name": "Summer Green",
+            "hueName": "Green"
+        },
+        "#38B0DE": {
+            "name": "Summer Sky",
+            "hueName": "Blue"
+        },
+        "#EF8E38": {
+            "name": "Sun",
+            "hueName": "Orange"
+        },
+        "#C4AA4D": {
+            "name": "Sundance",
+            "hueName": "Yellow"
+        },
+        "#F8AFA9": {
+            "name": "Sundown",
+            "hueName": "Red"
+        },
+        "#DAC01A": {
+            "name": "Sunflower",
+            "hueName": "Yellow"
+        },
+        "#C76155": {
+            "name": "Sunglo",
+            "hueName": "Red"
+        },
+        "#FFCC33": {
+            "name": "Sunglow",
+            "hueName": "Orange"
+        },
+        "#C0514A": {
+            "name": "Sunset",
+            "hueName": "Red"
+        },
+        "#FE4C40": {
+            "name": "Sunset Orange",
+            "hueName": "Orange"
+        },
+        "#FA9D49": {
+            "name": "Sunshade",
+            "hueName": "Orange"
+        },
+        "#FFB437": {
+            "name": "Supernova",
+            "hueName": "Yellow"
+        },
+        "#B8D4BB": {
+            "name": "Surf",
+            "hueName": "Green"
+        },
+        "#C3D6BD": {
+            "name": "Surf Crest",
+            "hueName": "Green"
+        },
+        "#007B77": {
+            "name": "Surfie Green",
+            "hueName": "Green"
+        },
+        "#7C9F2F": {
+            "name": "Sushi",
+            "hueName": "Green"
+        },
+        "#8B8685": {
+            "name": "Suva Grey",
+            "hueName": "Grey"
+        },
+        "#252F2F": {
+            "name": "Swamp",
+            "hueName": "Green"
+        },
+        "#DAE6DD": {
+            "name": "Swans Down",
+            "hueName": "Grey"
+        },
+        "#F9E176": {
+            "name": "Sweet Corn",
+            "hueName": "Yellow"
+        },
+        "#EE918D": {
+            "name": "Sweet Pink",
+            "hueName": "Red"
+        },
+        "#D7CEC5": {
+            "name": "Swirl",
+            "hueName": "Grey"
+        },
+        "#DBD0CA": {
+            "name": "Swiss Coffee",
+            "hueName": "Grey"
+        },
+        "#F6AE78": {
+            "name": "Tacao",
+            "hueName": "Orange"
+        },
+        "#D2B960": {
+            "name": "Tacha",
+            "hueName": "Yellow"
+        },
+        "#DC722A": {
+            "name": "Tahiti Gold",
+            "hueName": "Orange"
+        },
+        "#D8CC9B": {
+            "name": "Tahuna Sands",
+            "hueName": "Yellow"
+        },
+        "#853534": {
+            "name": "Tall Poppy",
+            "hueName": "Red"
+        },
+        "#A39977": {
+            "name": "Tallow",
+            "hueName": "Yellow"
+        },
+        "#752B2F": {
+            "name": "Tamarillo",
+            "hueName": "Red"
+        },
+        "#D2B48C": {
+            "name": "Tan",
+            "hueName": "Brown"
+        },
+        "#B8B5A1": {
+            "name": "Tana",
+            "hueName": "Green"
+        },
+        "#1E2F3C": {
+            "name": "Tangaroa",
+            "hueName": "Blue"
+        },
+        "#F28500": {
+            "name": "Tangerine",
+            "hueName": "Orange"
+        },
+        "#FFCC00": {
+            "name": "Tangerine Yellow",
+            "hueName": "Yellow"
+        },
+        "#D46F31": {
+            "name": "Tango",
+            "hueName": "Orange"
+        },
+        "#7C7C72": {
+            "name": "Tapa",
+            "hueName": "Green"
+        },
+        "#B37084": {
+            "name": "Tapestry",
+            "hueName": "Red"
+        },
+        "#DEF1DD": {
+            "name": "Tara",
+            "hueName": "Green"
+        },
+        "#253C48": {
+            "name": "Tarawera",
+            "hueName": "Blue"
+        },
+        "#BAC0B3": {
+            "name": "Tasman",
+            "hueName": "Grey"
+        },
+        "#483C32": {
+            "name": "Taupe",
+            "hueName": "Grey"
+        },
+        "#8B8589": {
+            "name": "Taupe Grey",
+            "hueName": "Grey"
+        },
+        "#643A48": {
+            "name": "Tawny Port",
+            "hueName": "Red"
+        },
+        "#496569": {
+            "name": "Tax Break",
+            "hueName": "Blue"
+        },
+        "#2B4B40": {
+            "name": "Te Papa Green",
+            "hueName": "Green"
+        },
+        "#BFB5A2": {
+            "name": "Tea",
+            "hueName": "Yellow"
+        },
+        "#D0F0C0": {
+            "name": "Tea Green",
+            "hueName": "Green"
+        },
+        "#F883C2": {
+            "name": "Tea Rose",
+            "hueName": "Orange"
+        },
+        "#AB8953": {
+            "name": "Teak",
+            "hueName": "Yellow"
+        },
+        "#008080": {
+            "name": "Teal",
+            "hueName": "Blue"
+        },
+        "#254855": {
+            "name": "Teal Blue",
+            "hueName": "Blue"
+        },
+        "#3C2126": {
+            "name": "Temptress",
+            "hueName": "Brown"
+        },
+        "#CD5700": {
+            "name": "Tenne (Tawny)",
+            "hueName": "Orange"
+        },
+        "#F4D0A4": {
+            "name": "Tequila",
+            "hueName": "Yellow"
+        },
+        "#E2725B": {
+            "name": "Terra Cotta",
+            "hueName": "Red"
+        },
+        "#ECE67E": {
+            "name": "Texas",
+            "hueName": "Green"
+        },
+        "#FCB057": {
+            "name": "Texas Rose",
+            "hueName": "Orange"
+        },
+        "#B1948F": {
+            "name": "Thatch",
+            "hueName": "Brown"
+        },
+        "#544E31": {
+            "name": "Thatch Green",
+            "hueName": "Yellow"
+        },
+        "#D8BFD8": {
+            "name": "Thistle",
+            "hueName": "Violet"
+        },
+        "#4D4D4B": {
+            "name": "Thunder",
+            "hueName": "Grey"
+        },
+        "#923830": {
+            "name": "Thunderbird",
+            "hueName": "Red"
+        },
+        "#97422D": {
+            "name": "Tia Maria",
+            "hueName": "Orange"
+        },
+        "#B9C3BE": {
+            "name": "Tiara",
+            "hueName": "Grey"
+        },
+        "#184343": {
+            "name": "Tiber",
+            "hueName": "Green"
+        },
+        "#FC80A5": {
+            "name": "Tickle Me Pink",
+            "hueName": "Red"
+        },
+        "#F0F590": {
+            "name": "Tidal",
+            "hueName": "Green"
+        },
+        "#BEB4AB": {
+            "name": "Tide",
+            "hueName": "Brown"
+        },
+        "#324336": {
+            "name": "Timber Green",
+            "hueName": "Green"
+        },
+        "#D9D6CF": {
+            "name": "Timberwolf",
+            "hueName": "Grey"
+        },
+        "#DDD6E1": {
+            "name": "Titan White",
+            "hueName": "Violet"
+        },
+        "#9F715F": {
+            "name": "Toast",
+            "hueName": "Brown"
+        },
+        "#6D5843": {
+            "name": "Tobacco Brown",
+            "hueName": "Brown"
+        },
+        "#44362D": {
+            "name": "Tobago",
+            "hueName": "Brown"
+        },
+        "#3E2631": {
+            "name": "Toledo",
+            "hueName": "Violet"
+        },
+        "#2D2541": {
+            "name": "Tolopea",
+            "hueName": "Violet"
+        },
+        "#4F6348": {
+            "name": "Tom Thumb",
+            "hueName": "Green"
+        },
+        "#FF6347": {
+            "name": "Tomato",
+            "hueName": "Red"
+        },
+        "#E79E88": {
+            "name": "Tonys Pink",
+            "hueName": "Orange"
+        },
+        "#817C87": {
+            "name": "Topaz",
+            "hueName": "Violet"
+        },
+        "#FD0E35": {
+            "name": "Torch Red",
+            "hueName": "Red"
+        },
+        "#353D75": {
+            "name": "Torea Bay",
+            "hueName": "Blue"
+        },
+        "#374E88": {
+            "name": "Tory Blue",
+            "hueName": "Blue"
+        },
+        "#744042": {
+            "name": "Tosca",
+            "hueName": "Red"
+        },
+        "#9CACA5": {
+            "name": "Tower Grey",
+            "hueName": "Green"
+        },
+        "#6DAFA7": {
+            "name": "Tradewind",
+            "hueName": "Green"
+        },
+        "#DDEDE9": {
+            "name": "Tranquil",
+            "hueName": "Blue"
+        },
+        "#E2DDC7": {
+            "name": "Travertine",
+            "hueName": "Green"
+        },
+        "#E2813B": {
+            "name": "Tree Poppy",
+            "hueName": "Orange"
+        },
+        "#7E8424": {
+            "name": "Trendy Green",
+            "hueName": "Green"
+        },
+        "#805D80": {
+            "name": "Trendy Pink",
+            "hueName": "Violet"
+        },
+        "#C54F33": {
+            "name": "Trinidad",
+            "hueName": "Orange"
+        },
+        "#AEC9EB": {
+            "name": "Tropical Blue",
+            "hueName": "Blue"
+        },
+        "#00755E": {
+            "name": "Tropical Rain Forest",
+            "hueName": "Green"
+        },
+        "#4C5356": {
+            "name": "Trout",
+            "hueName": "Grey"
+        },
+        "#8E72C7": {
+            "name": "True V",
+            "hueName": "Violet"
+        },
+        "#454642": {
+            "name": "Tuatara",
+            "hueName": "Grey"
+        },
+        "#F9D3BE": {
+            "name": "Tuft Bush",
+            "hueName": "Orange"
+        },
+        "#E3AC3D": {
+            "name": "Tulip Tree",
+            "hueName": "Yellow"
+        },
+        "#DEA681": {
+            "name": "Tumbleweed",
+            "hueName": "Brown"
+        },
+        "#46494E": {
+            "name": "Tuna",
+            "hueName": "Grey"
+        },
+        "#585452": {
+            "name": "Tundora",
+            "hueName": "Grey"
+        },
+        "#F5CC23": {
+            "name": "Turbo",
+            "hueName": "Yellow"
+        },
+        "#A56E75": {
+            "name": "Turkish Rose",
+            "hueName": "Red"
+        },
+        "#AE9041": {
+            "name": "Turmeric",
+            "hueName": "Yellow"
+        },
+        "#40E0D0": {
+            "name": "Turquoise",
+            "hueName": "Blue"
+        },
+        "#6CDAE7": {
+            "name": "Turquoise Blue",
+            "hueName": "Blue"
+        },
+        "#363E1D": {
+            "name": "Turtle Green",
+            "hueName": "Green"
+        },
+        "#AD6242": {
+            "name": "Tuscany",
+            "hueName": "Orange"
+        },
+        "#E3E5B1": {
+            "name": "Tusk",
+            "hueName": "Green"
+        },
+        "#BF914B": {
+            "name": "Tussock",
+            "hueName": "Yellow"
+        },
+        "#F8E4E3": {
+            "name": "Tutu",
+            "hueName": "Red"
+        },
+        "#DAC0CD": {
+            "name": "Twilight",
+            "hueName": "Violet"
+        },
+        "#F4F6EC": {
+            "name": "Twilight Blue",
+            "hueName": "Grey"
+        },
+        "#C19156": {
+            "name": "Twine",
+            "hueName": "Yellow"
+        },
+        "#66023C": {
+            "name": "Tyrian Purple",
+            "hueName": "Violet"
+        },
+        "#FF6FFF": {
+            "name": "Ultra Pink",
+            "hueName": "Red"
+        },
+        "#120A8F": {
+            "name": "Ultramarine",
+            "hueName": "Blue"
+        },
+        "#D4574E": {
+            "name": "Valencia",
+            "hueName": "Red"
+        },
+        "#382C38": {
+            "name": "Valentino",
+            "hueName": "Violet"
+        },
+        "#2A2B41": {
+            "name": "Valhalla",
+            "hueName": "Violet"
+        },
+        "#523936": {
+            "name": "Van Cleef",
+            "hueName": "Brown"
+        },
+        "#CCB69B": {
+            "name": "Vanilla",
+            "hueName": "Brown"
+        },
+        "#EBD2D1": {
+            "name": "Vanilla Ice",
+            "hueName": "Red"
+        },
+        "#FDEFD3": {
+            "name": "Varden",
+            "hueName": "Yellow"
+        },
+        "#C80815": {
+            "name": "Venetian Red",
+            "hueName": "Red"
+        },
+        "#2C5778": {
+            "name": "Venice Blue",
+            "hueName": "Blue"
+        },
+        "#8B7D82": {
+            "name": "Venus",
+            "hueName": "Violet"
+        },
+        "#62603E": {
+            "name": "Verdigris",
+            "hueName": "Grey"
+        },
+        "#48531A": {
+            "name": "Verdun Green",
+            "hueName": "Green"
+        },
+        "#FF4D00": {
+            "name": "Vermilion",
+            "hueName": "Red"
+        },
+        "#5C4033": {
+            "name": "Very Dark Brown",
+            "hueName": "Brown"
+        },
+        "#CDCDCD": {
+            "name": "Very Light Grey",
+            "hueName": "Grey"
+        },
+        "#A85533": {
+            "name": "Vesuvius",
+            "hueName": "Orange"
+        },
+        "#564985": {
+            "name": "Victoria",
+            "hueName": "Violet"
+        },
+        "#5F9228": {
+            "name": "Vida Loca",
+            "hueName": "Green"
+        },
+        "#4DB1C8": {
+            "name": "Viking",
+            "hueName": "Blue"
+        },
+        "#955264": {
+            "name": "Vin Rouge",
+            "hueName": "Red"
+        },
+        "#C58F9D": {
+            "name": "Viola",
+            "hueName": "Red"
+        },
+        "#2E2249": {
+            "name": "Violent Violet",
+            "hueName": "Violet"
+        },
+        "#EE82EE": {
+            "name": "Violet",
+            "hueName": "Violet"
+        },
+        "#9F5F9F": {
+            "name": "Violet Blue",
+            "hueName": "Violet"
+        },
+        "#F7468A": {
+            "name": "Violet Red",
+            "hueName": "Red"
+        },
+        "#40826D": {
+            "name": "Viridian",
+            "hueName": "Blue"
+        },
+        "#4B5F56": {
+            "name": "Viridian Green",
+            "hueName": "Green"
+        },
+        "#F9E496": {
+            "name": "Vis Vis",
+            "hueName": "Yellow"
+        },
+        "#97D5B3": {
+            "name": "Vista Blue",
+            "hueName": "Green"
+        },
+        "#E3DFD9": {
+            "name": "Vista White",
+            "hueName": "Grey"
+        },
+        "#FF9980": {
+            "name": "Vivid Tangerine",
+            "hueName": "Orange"
+        },
+        "#803790": {
+            "name": "Vivid Violet",
+            "hueName": "Violet"
+        },
+        "#4E2728": {
+            "name": "Volcano",
+            "hueName": "Red"
+        },
+        "#443240": {
+            "name": "Voodoo",
+            "hueName": "Violet"
+        },
+        "#36383C": {
+            "name": "Vulcan",
+            "hueName": "Grey"
+        },
+        "#D4BBB1": {
+            "name": "Wafer",
+            "hueName": "Orange"
+        },
+        "#5B6E91": {
+            "name": "Waikawa Grey",
+            "hueName": "Blue"
+        },
+        "#4C4E31": {
+            "name": "Waiouru",
+            "hueName": "Green"
+        },
+        "#E4E2DC": {
+            "name": "Wan White",
+            "hueName": "Grey"
+        },
+        "#849137": {
+            "name": "Wasabi",
+            "hueName": "Green"
+        },
+        "#B6ECDE": {
+            "name": "Water Leaf",
+            "hueName": "Green"
+        },
+        "#006E4E": {
+            "name": "Watercourse",
+            "hueName": "Green"
+        },
+        "#D6CA3D": {
+            "name": "Wattle",
+            "hueName": "Green"
+        },
+        "#F2CDBB": {
+            "name": "Watusi",
+            "hueName": "Orange"
+        },
+        "#EEB39E": {
+            "name": "Wax Flower",
+            "hueName": "Orange"
+        },
+        "#FDD7D8": {
+            "name": "We Peep",
+            "hueName": "Red"
+        },
+        "#4C6B88": {
+            "name": "Wedgewood",
+            "hueName": "Blue"
+        },
+        "#8E3537": {
+            "name": "Well Read",
+            "hueName": "Red"
+        },
+        "#5C512F": {
+            "name": "West Coast",
+            "hueName": "Yellow"
+        },
+        "#E5823A": {
+            "name": "West Side",
+            "hueName": "Orange"
+        },
+        "#D4CFC5": {
+            "name": "Westar",
+            "hueName": "Grey"
+        },
+        "#F1919A": {
+            "name": "Wewak",
+            "hueName": "Red"
+        },
+        "#F5DEB3": {
+            "name": "Wheat",
+            "hueName": "Brown"
+        },
+        "#DFD7BD": {
+            "name": "Wheatfield",
+            "hueName": "Yellow"
+        },
+        "#D29062": {
+            "name": "Whiskey",
+            "hueName": "Orange"
+        },
+        "#D4915D": {
+            "name": "Whiskey Sour",
+            "hueName": "Orange"
+        },
+        "#EFE6E6": {
+            "name": "Whisper",
+            "hueName": "Grey"
+        },
+        "#FFFFFF": {
+            "name": "White",
+            "hueName": "White"
+        },
+        "#D7EEE4": {
+            "name": "White Ice",
+            "hueName": "Green"
+        },
+        "#E7E5E8": {
+            "name": "White Lilac",
+            "hueName": "Blue"
+        },
+        "#EEE7DC": {
+            "name": "White Linen",
+            "hueName": "Grey"
+        },
+        "#F8F6D8": {
+            "name": "White Nectar",
+            "hueName": "Green"
+        },
+        "#DAD6CC": {
+            "name": "White Pointer",
+            "hueName": "Grey"
+        },
+        "#D4CFB4": {
+            "name": "White Rock",
+            "hueName": "Green"
+        },
+        "#F5F5F5": {
+            "name": "White Smoke",
+            "hueName": "White"
+        },
+        "#7A89B8": {
+            "name": "Wild Blue Yonder",
+            "hueName": "Blue"
+        },
+        "#E3D474": {
+            "name": "Wild Rice",
+            "hueName": "Green"
+        },
+        "#E7E4DE": {
+            "name": "Wild Sand",
+            "hueName": "Grey"
+        },
+        "#FF3399": {
+            "name": "Wild Strawberry",
+            "hueName": "Red"
+        },
+        "#FD5B78": {
+            "name": "Wild Watermelon",
+            "hueName": "Red"
+        },
+        "#BECA60": {
+            "name": "Wild Willow",
+            "hueName": "Green"
+        },
+        "#53736F": {
+            "name": "William",
+            "hueName": "Green"
+        },
+        "#DFE6CF": {
+            "name": "Willow Brook",
+            "hueName": "Green"
+        },
+        "#69755C": {
+            "name": "Willow Grove",
+            "hueName": "Green"
+        },
+        "#462C77": {
+            "name": "Windsor",
+            "hueName": "Violet"
+        },
+        "#522C35": {
+            "name": "Wine Berry",
+            "hueName": "Red"
+        },
+        "#D0C383": {
+            "name": "Winter Hazel",
+            "hueName": "Yellow"
+        },
+        "#F9E8E2": {
+            "name": "Wisp Pink",
+            "hueName": "Red"
+        },
+        "#C9A0DC": {
+            "name": "Wisteria",
+            "hueName": "Violet"
+        },
+        "#A29ECD": {
+            "name": "Wistful",
+            "hueName": "Blue"
+        },
+        "#FBF073": {
+            "name": "Witch Haze",
+            "hueName": "Green"
+        },
+        "#302621": {
+            "name": "Wood Bark",
+            "hueName": "Brown"
+        },
+        "#463629": {
+            "name": "Woodburn",
+            "hueName": "Brown"
+        },
+        "#626746": {
+            "name": "Woodland",
+            "hueName": "Green"
+        },
+        "#45402B": {
+            "name": "Woodrush",
+            "hueName": "Yellow"
+        },
+        "#2B3230": {
+            "name": "Woodsmoke",
+            "hueName": "Grey"
+        },
+        "#554545": {
+            "name": "Woody Brown",
+            "hueName": "Brown"
+        },
+        "#75876E": {
+            "name": "Xanadu",
+            "hueName": "Green"
+        },
+        "#FFFF00": {
+            "name": "Yellow",
+            "hueName": "Yellow"
+        },
+        "#9ACD32": {
+            "name": "Yellow Green",
+            "hueName": "Green"
+        },
+        "#73633E": {
+            "name": "Yellow Metal",
+            "hueName": "Yellow"
+        },
+        "#FFAE42": {
+            "name": "Yellow Orange",
+            "hueName": "Orange"
+        },
+        "#F49F35": {
+            "name": "Yellow Sea",
+            "hueName": "Yellow"
+        },
+        "#FFC5BB": {
+            "name": "Your Pink",
+            "hueName": "Red"
+        },
+        "#826A21": {
+            "name": "Yukon Gold",
+            "hueName": "Yellow"
+        },
+        "#C7B882": {
+            "name": "Yuma",
+            "hueName": "Yellow"
+        },
+        "#6B5A5A": {
+            "name": "Zambezi",
+            "hueName": "Brown"
+        },
+        "#B2C6B1": {
+            "name": "Zanah",
+            "hueName": "Green"
+        },
+        "#C6723B": {
+            "name": "Zest",
+            "hueName": "Orange"
+        },
+        "#3B3C38": {
+            "name": "Zeus",
+            "hueName": "Grey"
+        },
+        "#81A6AA": {
+            "name": "Ziggurat",
+            "hueName": "Blue"
+        },
+        "#EBC2AF": {
+            "name": "Zinnwaldite",
+            "hueName": "Brown"
+        },
+        "#DEE3E3": {
+            "name": "Zircon",
+            "hueName": "Grey"
+        },
+        "#DDC283": {
+            "name": "Zombie",
+            "hueName": "Yellow"
+        },
+        "#A29589": {
+            "name": "Zorba",
+            "hueName": "Brown"
+        },
+        "#17462E": {
+            "name": "Zuccini",
+            "hueName": "Green"
+        },
+        "#CDD5D5": {
+            "name": "Zumthor",
+            "hueName": "Grey"
+        }
+    }
+}

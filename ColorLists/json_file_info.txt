@@ -1,0 +1,17 @@
+To add a new colour list, create a new file in the "ColorLists" folder
+where the file name must be like:
+
+Colors_myCustomName.json
+
+The new file have to contain same JSON structure of the others files,
+the JSON structure is easy to understand, following some note for hue data.
+
+The hue data are optional,
+but in all case the key "hasHueValues" inside "Info" dict have to be specified.
+
+When you have to add hue info:
+1) The key "hasHueValues" inside "Info" dict must contain the value "true"
+2) The "HueColors" dict is optional, it will be used in future versions when the ability to browse colours will be implemented
+3) Under "Colors" dict each color must have the "hueName" key with a value (this value should be contained in "HueColors" dict, if added)
+
+The new color list file will be automatically detected when the software starts.

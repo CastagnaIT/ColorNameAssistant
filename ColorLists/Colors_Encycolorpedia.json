@@ -1,0 +1,5052 @@
+{
+    "Info": {
+        "source": "Encycolorpedia",
+        "url": "https://encycolorpedia.com/named",
+        "note": "Extracted with a modified version of https://github.com/dradisavljevic/ColorfulScraper",
+        "lastUpdate": "2020/11/20",
+        "lastUpdateHue": "2020/11/20",
+        "hasHueValues": false
+    },
+  "Colors": {
+    "#000000": {
+      "name": "Black"
+    },
+    "#000080": {
+      "name": "Navy blue"
+    },
+    "#00008B": {
+      "name": "Dark blue"
+    },
+    "#00009C": {
+      "name": "Duke blue"
+    },
+    "#0000CD": {
+      "name": "Medium blue"
+    },
+    "#0000FF": {
+      "name": "Blue"
+    },
+    "#000F89": {
+      "name": "Phthalo blue"
+    },
+    "#001440": {
+      "name": "Cetacean blue"
+    },
+    "#0014A8": {
+      "name": "Zaffre"
+    },
+    "#0018A8": {
+      "name": "Blue (Pantone)"
+    },
+    "#002147": {
+      "name": "Oxford blue"
+    },
+    "#002366": {
+      "name": "Royal blue (dark)"
+    },
+    "#002387": {
+      "name": "Resolution blue"
+    },
+    "#002395": {
+      "name": "Imperial blue"
+    },
+    "#002E63": {
+      "name": "Cool black"
+    },
+    "#00308F": {
+      "name": "Air Force blue (USAF)"
+    },
+    "#003153": {
+      "name": "Prussian blue"
+    },
+    "#003171": {
+      "name": "Prussian blue color (Konj\u014d-iro)"
+    },
+    "#003366": {
+      "name": "Dark midnight blue"
+    },
+    "#003399": {
+      "name": "Dark powder blue"
+    },
+    "#0033AA": {
+      "name": "UA blue"
+    },
+    "#0038A7": {
+      "name": "Philippine blue"
+    },
+    "#0038A8": {
+      "name": "Royal azure"
+    },
+    "#003A6C": {
+      "name": "Ateneo blue"
+    },
+    "#003B6F": {
+      "name": "Tardis blue"
+    },
+    "#004040": {
+      "name": "Rich black"
+    },
+    "#0040BE": {
+      "name": "Panasonic blue"
+    },
+    "#00416A": {
+      "name": "Dark imperial blue"
+    },
+    "#004225": {
+      "name": "British racing green"
+    },
+    "#004242": {
+      "name": "Warm black"
+    },
+    "#00468C": {
+      "name": "Midnight blue"
+    },
+    "#0047AB": {
+      "name": "Cobalt blue"
+    },
+    "#0048BA": {
+      "name": "Absolute Zero"
+    },
+    "#004953": {
+      "name": "Midnight green (eagle green)"
+    },
+    "#004B49": {
+      "name": "Deep jungle green"
+    },
+    "#004F98": {
+      "name": "USAFA blue"
+    },
+    "#00563F": {
+      "name": "Castleton green"
+    },
+    "#006400": {
+      "name": "Dark green (X11)"
+    },
+    "#006442": {
+      "name": "Green bamboo color (Aotake-iro)"
+    },
+    "#006600": {
+      "name": "Pakistan green"
+    },
+    "#0067A5": {
+      "name": "Medium Persian blue"
+    },
+    "#006994": {
+      "name": "Sea blue"
+    },
+    "#006A4E": {
+      "name": "Bangladesh green"
+    },
+    "#006B3C": {
+      "name": "Cadmium green"
+    },
+    "#006C7F": {
+      "name": "\"New Bridge\" color (Shinbashi-iro)"
+    },
+    "#006DB0": {
+      "name": "Honolulu blue"
+    },
+    "#00703C": {
+      "name": "Dartmouth green"
+    },
+    "#0070B8": {
+      "name": "Spanish blue"
+    },
+    "#0070FF": {
+      "name": "Brandeis blue"
+    },
+    "#0072B1": {
+      "name": "Linkedin Blue"
+    },
+    "#0072BB": {
+      "name": "French blue"
+    },
+    "#007474": {
+      "name": "Skobeloff"
+    },
+    "#00755E": {
+      "name": "Tropical rain forest"
+    },
+    "#0077BE": {
+      "name": "Ocean boat blue"
+    },
+    "#0078D7": {
+      "name": "Microsoft Edge blue"
+    },
+    "#007AA5": {
+      "name": "CG blue"
+    },
+    "#007BA7": {
+      "name": "Celadon blue"
+    },
+    "#007BB8": {
+      "name": "Star command blue"
+    },
+    "#007F5C": {
+      "name": "Spanish viridian"
+    },
+    "#007F66": {
+      "name": "Generic viridian"
+    },
+    "#007FFF": {
+      "name": "Azure"
+    },
+    "#008000": {
+      "name": "Ao (English)"
+    },
+    "#008001": {
+      "name": "Green"
+    },
+    "#008080": {
+      "name": "Teal"
+    },
+    "#00827F": {
+      "name": "Teal green"
+    },
+    "#008543": {
+      "name": "Philippine green"
+    },
+    "#0087BD": {
+      "name": "Blue (NCS)"
+    },
+    "#0088DC": {
+      "name": "Blue cola"
+    },
+    "#008B8B": {
+      "name": "Dark cyan"
+    },
+    "#009000": {
+      "name": "Islamic green"
+    },
+    "#009150": {
+      "name": "Spanish green"
+    },
+    "#0093AF": {
+      "name": "Blue (Munsell)"
+    },
+    "#0095B6": {
+      "name": "Bondi blue"
+    },
+    "#009698": {
+      "name": "Viridian green"
+    },
+    "#009966": {
+      "name": "Green-cyan"
+    },
+    "#009B7D": {
+      "name": "Paolo Veronese green"
+    },
+    "#009E60": {
+      "name": "Shamrock green"
+    },
+    "#009F6B": {
+      "name": "Green (NCS)"
+    },
+    "#00A2ED": {
+      "name": "Microsoft blue"
+    },
+    "#00A550": {
+      "name": "Green (pigment)"
+    },
+    "#00A693": {
+      "name": "Persian green"
+    },
+    "#00A86B": {
+      "name": "Jade"
+    },
+    "#00A870": {
+      "name": "Sesame Street Green"
+    },
+    "#00A877": {
+      "name": "Green (Munsell)"
+    },
+    "#00AAEE": {
+      "name": "Vivid cerulean"
+    },
+    "#00AB66": {
+      "name": "GO green"
+    },
+    "#00AD43": {
+      "name": "Green (Pantone)"
+    },
+    "#00B7EB": {
+      "name": "Cyan (process)"
+    },
+    "#00B9FB": {
+      "name": "Blue bolt"
+    },
+    "#00BFFF": {
+      "name": "Capri"
+    },
+    "#00C3E3": {
+      "name": "Hawaii blue"
+    },
+    "#00C5CD": {
+      "name": "Turquoise Surf"
+    },
+    "#00CC33": {
+      "name": "Vivid malachite"
+    },
+    "#00CC99": {
+      "name": "Caribbean green"
+    },
+    "#00CCCC": {
+      "name": "Robin egg blue"
+    },
+    "#00CCFF": {
+      "name": "Vivid sky blue"
+    },
+    "#00CED1": {
+      "name": "Dark turquoise"
+    },
+    "#00DEA4": {
+      "name": "Asda Green (1985)"
+    },
+    "#00FA9A": {
+      "name": "Medium spring green"
+    },
+    "#00FF00": {
+      "name": "Electric green"
+    },
+    "#00FF7F": {
+      "name": "Guppie green"
+    },
+    "#00FFCD": {
+      "name": "Sea green (Crayola)"
+    },
+    "#00FFEF": {
+      "name": "Turquoise blue"
+    },
+    "#00FFFF": {
+      "name": "Aqua"
+    },
+    "#010203": {
+      "name": "Rich black (FOGRA39)"
+    },
+    "#010B13": {
+      "name": "Rich black (FOGRA29)"
+    },
+    "#013220": {
+      "name": "Dark green"
+    },
+    "#014421": {
+      "name": "Forest green (traditional)"
+    },
+    "#01796F": {
+      "name": "Pine green"
+    },
+    "#02075D": {
+      "name": "Dark Navy"
+    },
+    "#0247FE": {
+      "name": "Blue (RYB)"
+    },
+    "#035096": {
+      "name": "Medium electric blue"
+    },
+    "#03C03C": {
+      "name": "Dark pastel green"
+    },
+    "#043927": {
+      "name": "Sacramento State green"
+    },
+    "#044F67": {
+      "name": "Light blue silk (Hanada)"
+    },
+    "#046307": {
+      "name": "Emerald green"
+    },
+    "#056608": {
+      "name": "Deep green"
+    },
+    "#059033": {
+      "name": "North Texas Green"
+    },
+    "#062A78": {
+      "name": "Catalina blue"
+    },
+    "#064E40": {
+      "name": "Blue-green (color wheel)"
+    },
+    "#080808": {
+      "name": "Vampire black"
+    },
+    "#08457E": {
+      "name": "Dark cerulean"
+    },
+    "#0892D0": {
+      "name": "Rich electric blue"
+    },
+    "#08E8DE": {
+      "name": "Bright turquoise"
+    },
+    "#091F92": {
+      "name": "Indigo dye"
+    },
+    "#0A1195": {
+      "name": "Cadmium blue"
+    },
+    "#0A7E8C": {
+      "name": "Metallic Seaweed"
+    },
+    "#0ABAB5": {
+      "name": "Tiffany Blue"
+    },
+    "#0BDA51": {
+      "name": "Malachite"
+    },
+    "#0CBFE9": {
+      "name": "Blue raspberry"
+    },
+    "#0D98BA": {
+      "name": "Blue-green"
+    },
+    "#0E7A0D": {
+      "name": "Xbox Green"
+    },
+    "#0E7C61": {
+      "name": "Deep green-cyan turquoise"
+    },
+    "#0E9CA5": {
+      "name": "Boy red"
+    },
+    "#0F4D92": {
+      "name": "Yale Blue"
+    },
+    "#0F52BA": {
+      "name": "Sapphire"
+    },
+    "#0FC0FC": {
+      "name": "Spiro Disco Ball"
+    },
+    "#100C08": {
+      "name": "Smoky black"
+    },
+    "#1034A6": {
+      "name": "Egyptian blue"
+    },
+    "#1164B4": {
+      "name": "Green-blue"
+    },
+    "#12279E": {
+      "name": "Samsung blue"
+    },
+    "#123524": {
+      "name": "Phthalo green"
+    },
+    "#126180": {
+      "name": "Blue sapphire"
+    },
+    "#136207": {
+      "name": "Royal green"
+    },
+    "#138808": {
+      "name": "India green"
+    },
+    "#141414": {
+      "name": "Chinese black"
+    },
+    "#1560BD": {
+      "name": "Denim"
+    },
+    "#15F2FD": {
+      "name": "Lotion blue"
+    },
+    "#15F4EE": {
+      "name": "Fluorescent blue"
+    },
+    "#171412": {
+      "name": "Black (Kokushoku)"
+    },
+    "#17182B": {
+      "name": "Elderberry"
+    },
+    "#177245": {
+      "name": "Dark spring green"
+    },
+    "#181B26": {
+      "name": "Coarse wool color (Kachi-iro)"
+    },
+    "#18453B": {
+      "name": "MSU green"
+    },
+    "#18880D": {
+      "name": "Verse green"
+    },
+    "#188BC2": {
+      "name": "Cyan cornflower blue"
+    },
+    "#191F45": {
+      "name": "Navy blue bellflower (Konkiky\u014d)"
+    },
+    "#192236": {
+      "name": "Dark blue (Kon)"
+    },
+    "#195905": {
+      "name": "Lincoln green"
+    },
+    "#1974D2": {
+      "name": "Bright navy blue"
+    },
+    "#1A1110": {
+      "name": "Licorice"
+    },
+    "#1A2421": {
+      "name": "Dark jungle green"
+    },
+    "#1AA260": {
+      "name": "Google Chrome green"
+    },
+    "#1AC1DD": {
+      "name": "Caribbean blue"
+    },
+    "#1B03A3": {
+      "name": "Neon blue"
+    },
+    "#1B1811": {
+      "name": "Black chocolate"
+    },
+    "#1B1B1B": {
+      "name": "Eerie black"
+    },
+    "#1B294B": {
+      "name": "Dark blue lapis lazuli (Rurikon)"
+    },
+    "#1B4D3E": {
+      "name": "Brunswick green"
+    },
+    "#1C1CF0": {
+      "name": "Bluebonnet"
+    },
+    "#1C2841": {
+      "name": "Yankees blue"
+    },
+    "#1C352D": {
+      "name": "Medium jungle green"
+    },
+    "#1C39BB": {
+      "name": "Persian blue"
+    },
+    "#1CA9C9": {
+      "name": "Pacific blue"
+    },
+    "#1CAC78": {
+      "name": "Green (Crayola)"
+    },
+    "#1D2951": {
+      "name": "Space cadet"
+    },
+    "#1D697C": {
+      "name": "Light blue flower (Hanaasagi)"
+    },
+    "#1DACD6": {
+      "name": "Battery charged blue"
+    },
+    "#1E4D2B": {
+      "name": "Cal Poly Pomona green"
+    },
+    "#1E90FF": {
+      "name": "Dodger blue"
+    },
+    "#1F262A": {
+      "name": "Dark gunmetal"
+    },
+    "#1F4788": {
+      "name": "Lapis lazuli color (Ruri-iro)"
+    },
+    "#1F75FE": {
+      "name": "Blue (Crayola)"
+    },
+    "#1F8EED": {
+      "name": "Weebly Blue"
+    },
+    "#203838": {
+      "name": "Goryeo storeroom (K\u014drainando)"
+    },
+    "#20B2AA": {
+      "name": "Light sea green"
+    },
+    "#214FC6": {
+      "name": "New Car"
+    },
+    "#216BD6": {
+      "name": "Flickr Blue"
+    },
+    "#21ABCD": {
+      "name": "Ball blue"
+    },
+    "#2243B6": {
+      "name": "Denim blue"
+    },
+    "#224634": {
+      "name": "Velvet (Bir\u014ddo)"
+    },
+    "#228B22": {
+      "name": "Forest Green"
+    },
+    "#23191E": {
+      "name": "Dark red (Kurobeni)"
+    },
+    "#23297A": {
+      "name": "St. Patrick's blue"
+    },
+    "#232B2B": {
+      "name": "Charleston green"
+    },
+    "#233067": {
+      "name": "Indigo (rainbow)"
+    },
+    "#242124": {
+      "name": "Raisin black"
+    },
+    "#246BCE": {
+      "name": "Celtic blue"
+    },
+    "#2496CD": {
+      "name": "Douban Blue"
+    },
+    "#24A0ED": {
+      "name": "Button blue"
+    },
+    "#252321": {
+      "name": "Black chestnut oak (Kurotsurubami)"
+    },
+    "#253529": {
+      "name": "Black leather jacket"
+    },
+    "#26428B": {
+      "name": "Dark cornflower blue"
+    },
+    "#264348": {
+      "name": "Japanese indigo"
+    },
+    "#26619C": {
+      "name": "Lapis lazuli"
+    },
+    "#26A7DE": {
+      "name": "Twitter blue"
+    },
+    "#27221F": {
+      "name": "Ink color (Sumi-iro)"
+    },
+    "#273BE2": {
+      "name": "Palatinate blue"
+    },
+    "#28589C": {
+      "name": "Cyan cobalt blue"
+    },
+    "#2887C8": {
+      "name": "Green-blue (Crayola)"
+    },
+    "#290E05": {
+      "name": "Root beer"
+    },
+    "#296E01": {
+      "name": "Metallic green"
+    },
+    "#299617": {
+      "name": "Slimy green"
+    },
+    "#29AB87": {
+      "name": "Jungle green"
+    },
+    "#2A2F23": {
+      "name": "Pine tree"
+    },
+    "#2A3439": {
+      "name": "Gunmetal"
+    },
+    "#2A52BE": {
+      "name": "Cerulean blue"
+    },
+    "#2A603B": {
+      "name": "Green (Midori)"
+    },
+    "#2A8000": {
+      "name": "Napier green"
+    },
+    "#2B2028": {
+      "name": "Blue violet (Shikon)"
+    },
+    "#2B3733": {
+      "name": "Iron color (Tetsu-iro)"
+    },
+    "#2B3736": {
+      "name": "Iron storage (Tetsuonando)"
+    },
+    "#2C1608": {
+      "name": "Zinnwaldite brown"
+    },
+    "#2D383A": {
+      "name": "Outer space (Crayola)"
+    },
+    "#2D4436": {
+      "name": "Insect screen (Mushiao)"
+    },
+    "#2D68C4": {
+      "name": "True Blue"
+    },
+    "#2E211B": {
+      "name": "Legal dye (from when color use was regulated by class) (Kenp\u014dzome)"
+    },
+    "#2E2D88": {
+      "name": "Cosmic cobalt"
+    },
+    "#2E372E": {
+      "name": "Indigo Codium fragile seaweed brown (Aimirucha)"
+    },
+    "#2E5090": {
+      "name": "YInMn Blue"
+    },
+    "#2E5894": {
+      "name": "B'dazzled blue"
+    },
+    "#2E8B57": {
+      "name": "Sea green"
+    },
+    "#2E963D": {
+      "name": "Douban Green"
+    },
+    "#2F4F4F": {
+      "name": "Dark slate gray"
+    },
+    "#2F7532": {
+      "name": "Japanese laurel"
+    },
+    "#2F847C": {
+      "name": "Celadon green"
+    },
+    "#301934": {
+      "name": "Dark purple"
+    },
+    "#306030": {
+      "name": "Mughal green"
+    },
+    "#30B21A": {
+      "name": "Yellow-green (Color Wheel)"
+    },
+    "#30BA8F": {
+      "name": "Mountain Meadow"
+    },
+    "#30BFBF": {
+      "name": "Maximum blue green"
+    },
+    "#317589": {
+      "name": "Thousand herb color (Chigusa-iro)"
+    },
+    "#317873": {
+      "name": "Myrtle green"
+    },
+    "#318CE7": {
+      "name": "Bleu de France"
+    },
+    "#319177": {
+      "name": "Illuminating emerald"
+    },
+    "#32127A": {
+      "name": "Persian indigo"
+    },
+    "#32174D": {
+      "name": "Russian violet"
+    },
+    "#324AB2": {
+      "name": "Violet-blue"
+    },
+    "#32527B": {
+      "name": "Metallic blue"
+    },
+    "#32AD61": {
+      "name": "Asda Green (2002)"
+    },
+    "#32CD32": {
+      "name": "Lime green"
+    },
+    "#330066": {
+      "name": "Deep violet"
+    },
+    "#333333": {
+      "name": "Dark charcoal"
+    },
+    "#333366": {
+      "name": "Deep koamaru"
+    },
+    "#333399": {
+      "name": "Blue (pigment)"
+    },
+    "#3399FF": {
+      "name": "Brilliant azure"
+    },
+    "#343434": {
+      "name": "Jet"
+    },
+    "#344D56": {
+      "name": "Iron head flower color (Noshimehana-iro)"
+    },
+    "#34B233": {
+      "name": "Wageningen Green"
+    },
+    "#34B334": {
+      "name": "American green"
+    },
+    "#351E1C": {
+      "name": "Black kite (bird species) (Kurotobi)"
+    },
+    "#351F19": {
+      "name": "Scorched brown (Kogecha)"
+    },
+    "#352925": {
+      "name": "Betel nut dye (Binr\u014djizome)"
+    },
+    "#353839": {
+      "name": "Onyx"
+    },
+    "#354230": {
+      "name": "Kombu green"
+    },
+    "#354E4B": {
+      "name": "Silk crepe brown (Omeshicha)"
+    },
+    "#355E3B": {
+      "name": "Deep moss green"
+    },
+    "#35654D": {
+      "name": "Poker Green"
+    },
+    "#360CCC": {
+      "name": "Interdimensional blue"
+    },
+    "#364141": {
+      "name": "Onando color (Onando-iro)"
+    },
+    "#36454F": {
+      "name": "Charcoal"
+    },
+    "#365194": {
+      "name": "Chinese blue"
+    },
+    "#36747D": {
+      "name": "Ming"
+    },
+    "#367588": {
+      "name": "Teal blue"
+    },
+    "#374231": {
+      "name": "Thousand year old green (Sensaimidori)"
+    },
+    "#38A32A": {
+      "name": "Vine Green"
+    },
+    "#391285": {
+      "name": "Pixie Powder"
+    },
+    "#391802": {
+      "name": "American bronze"
+    },
+    "#393432": {
+      "name": "Indigo ink brown (Aisumicha)"
+    },
+    "#39569C": {
+      "name": "Facebook Blue"
+    },
+    "#39A78E": {
+      "name": "Zomp"
+    },
+    "#39FF14": {
+      "name": "Neon green"
+    },
+    "#3A243B": {
+      "name": "Deep purple (Kokimurasaki)"
+    },
+    "#3A403B": {
+      "name": "Rusty storeroom (Sabitetsuonando)"
+    },
+    "#3A6960": {
+      "name": "Blue-green (Seiheki)"
+    },
+    "#3AA8C1": {
+      "name": "Moonstone"
+    },
+    "#3AB09E": {
+      "name": "Keppel"
+    },
+    "#3B2F2F": {
+      "name": "Black coffee"
+    },
+    "#3B331C": {
+      "name": "Pullman Green"
+    },
+    "#3B3429": {
+      "name": "Thousand year old brown (Sensaicha)"
+    },
+    "#3B3B6D": {
+      "name": "American blue"
+    },
+    "#3B3C36": {
+      "name": "Black olive"
+    },
+    "#3B7A57": {
+      "name": "Amazon"
+    },
+    "#3C1321": {
+      "name": "Dark chocolate (Hershey's)"
+    },
+    "#3C1414": {
+      "name": "Dark sienna"
+    },
+    "#3C1421": {
+      "name": "Chocolate Kisses"
+    },
+    "#3C2126": {
+      "name": "Temptress"
+    },
+    "#3C3024": {
+      "name": "Cola"
+    },
+    "#3C341F": {
+      "name": "Olive Drab "
+    },
+    "#3CB371": {
+      "name": "Medium sea green"
+    },
+    "#3CD070": {
+      "name": "UFO Green"
+    },
+    "#3D0C02": {
+      "name": "Black bean"
+    },
+    "#3D2B1F": {
+      "name": "Bistre"
+    },
+    "#3D325D": {
+      "name": "Jacarta"
+    },
+    "#3D4035": {
+      "name": "Storeroom brown (Onandocha)"
+    },
+    "#3D4C51": {
+      "name": "Kimono storage (Omeshionando)"
+    },
+    "#3D5D42": {
+      "name": "Horsetail color (Tokusa-iro)"
+    },
+    "#3E8EDE": {
+      "name": "Tufts blue"
+    },
+    "#3EB489": {
+      "name": "Mint"
+    },
+    "#3F000F": {
+      "name": "Chocolate brown"
+    },
+    "#3F00FF": {
+      "name": "Electric ultramarine"
+    },
+    "#3F313A": {
+      "name": "Disappearing purple (Metsushi)"
+    },
+    "#3FFF00": {
+      "name": "Harlequin"
+    },
+    "#407A52": {
+      "name": "Patina (Rokush\u014d)"
+    },
+    "#40826D": {
+      "name": "Deep aquamarine"
+    },
+    "#40E0D0": {
+      "name": "Turquoise"
+    },
+    "#413628": {
+      "name": "Jacko bean"
+    },
+    "#414A4C": {
+      "name": "Outer space"
+    },
+    "#4166F5": {
+      "name": "Ultramarine blue"
+    },
+    "#4169E1": {
+      "name": "Royal blue (light)"
+    },
+    "#431C53": {
+      "name": "American purple"
+    },
+    "#43242A": {
+      "name": "Fake purple (Nisemurasaki)"
+    },
+    "#43302E": {
+      "name": "Old burgundy"
+    },
+    "#436B95": {
+      "name": "Queen blue"
+    },
+    "#43B3AE": {
+      "name": "Verdigris"
+    },
+    "#444C38": {
+      "name": "Rifle green"
+    },
+    "#446CCF": {
+      "name": "Han blue"
+    },
+    "#44798E": {
+      "name": "Jelly bean blue"
+    },
+    "#44D7A8": {
+      "name": "Eucalyptus"
+    },
+    "#454D32": {
+      "name": "Pine needle color (Matsuba-iro)"
+    },
+    "#455859": {
+      "name": "Rusty storage (Sabionando)"
+    },
+    "#45B1E8": {
+      "name": "Picton blue"
+    },
+    "#465945": {
+      "name": "Gray-asparagus"
+    },
+    "#4682B4": {
+      "name": "Steel blue"
+    },
+    "#4682BF": {
+      "name": "Cyan-blue azure"
+    },
+    "#46CB18": {
+      "name": "Harlequin green"
+    },
+    "#473F2D": {
+      "name": "Flirtatious indigo tea (Aikobicha)"
+    },
+    "#47ABCC": {
+      "name": "Maximum blue"
+    },
+    "#480607": {
+      "name": "Bulgarian rose"
+    },
+    "#483C32": {
+      "name": "Dark lava"
+    },
+    "#483D8B": {
+      "name": "Dark slate blue"
+    },
+    "#48929B": {
+      "name": "Light blue color (Asagi-iro)"
+    },
+    "#48BF91": {
+      "name": "Ocean green"
+    },
+    "#48D1CC": {
+      "name": "Medium turquoise"
+    },
+    "#490206": {
+      "name": "Dark chocolate"
+    },
+    "#491E3C": {
+      "name": "Rabbit-ear iris (Kakitsubata)"
+    },
+    "#49796B": {
+      "name": "Hooker's green"
+    },
+    "#4997D0": {
+      "name": "Celestial blue"
+    },
+    "#4A2C2A": {
+      "name": "Brown Coffee"
+    },
+    "#4A5D23": {
+      "name": "Dark moss green"
+    },
+    "#4A646C": {
+      "name": "Deep Space Sparkle"
+    },
+    "#4AFF00": {
+      "name": "Chlorophyll green"
+    },
+    "#4B0082": {
+      "name": "Indigo"
+    },
+    "#4B3621": {
+      "name": "Caf\u00e9 noir"
+    },
+    "#4B3C39": {
+      "name": "Brown rat grey (Dobunezumi)"
+    },
+    "#4B5320": {
+      "name": "Army green"
+    },
+    "#4BC7CF": {
+      "name": "Sea Serpent"
+    },
+    "#4C2882": {
+      "name": "Spanish violet"
+    },
+    "#4C2F27": {
+      "name": "Acajou"
+    },
+    "#4C3D30": {
+      "name": "Simmered seaweed (Mirucha)"
+    },
+    "#4C516D": {
+      "name": "Independence"
+    },
+    "#4C721D": {
+      "name": "Green Cola"
+    },
+    "#4C8BF5": {
+      "name": "Google Chrome blue"
+    },
+    "#4C9141": {
+      "name": "May green"
+    },
+    "#4CB7A5": {
+      "name": "Blue lagoon"
+    },
+    "#4CBB17": {
+      "name": "Kelly green"
+    },
+    "#4D1A7F": {
+      "name": "Blue-violet (color wheel)"
+    },
+    "#4D3B3C": {
+      "name": "Wisteria and burnt-bamboo (Fujisusutake)"
+    },
+    "#4D4B3A": {
+      "name": "Sooty willow bamboo (Yanagisusutake)"
+    },
+    "#4D5D53": {
+      "name": "Feldgrau"
+    },
+    "#4D646C": {
+      "name": "Opposite flower color (Masuhana-iro)"
+    },
+    "#4D8C57": {
+      "name": "Middle green"
+    },
+    "#4D8FAC": {
+      "name": "Sky Blue color (Sora-iro)"
+    },
+    "#4E1609": {
+      "name": "French puce"
+    },
+    "#4E5180": {
+      "name": "Purple navy"
+    },
+    "#4E82B4": {
+      "name": "Cyan azure"
+    },
+    "#4F284B": {
+      "name": "Purple (Murasaki)"
+    },
+    "#4F3A3C": {
+      "name": "Dark puce"
+    },
+    "#4F42B5": {
+      "name": "Ocean Blue"
+    },
+    "#4F4944": {
+      "name": "Dull blue (Aonibi)"
+    },
+    "#4F666A": {
+      "name": "Stormcloud"
+    },
+    "#4F7942": {
+      "name": "Fern green"
+    },
+    "#4F86F7": {
+      "name": "Blueberry"
+    },
+    "#50404D": {
+      "name": "Purple taupe"
+    },
+    "#5072A7": {
+      "name": "Blue yonder"
+    },
+    "#507D2A": {
+      "name": "Sap green"
+    },
+    "#50C878": {
+      "name": "Emerald"
+    },
+    "#512888": {
+      "name": "KSU purple"
+    },
+    "#512C31": {
+      "name": "Purple kite (Murasakitobi)"
+    },
+    "#514100": {
+      "name": "Dark bronze (Coin)"
+    },
+    "#51484F": {
+      "name": "Quartz"
+    },
+    "#5218FA": {
+      "name": "Han purple"
+    },
+    "#522D80": {
+      "name": "Regalia"
+    },
+    "#523B35": {
+      "name": "Royal brown"
+    },
+    "#524B2A": {
+      "name": "Codium fragile seaweed color (Miru-iro)"
+    },
+    "#52593B": {
+      "name": "Blue Black Crayfish (Aoni)"
+    },
+    "#534A32": {
+      "name": "Rikan brown (Rikancha)"
+    },
+    "#534B4F": {
+      "name": "Dark liver"
+    },
+    "#536872": {
+      "name": "Cadet"
+    },
+    "#536878": {
+      "name": "Dark electric blue"
+    },
+    "#536895": {
+      "name": "Ucla Blue"
+    },
+    "#542D24": {
+      "name": "Boiled red bean brown (Momoshiocha)"
+    },
+    "#543D37": {
+      "name": "Dark liver (horses)"
+    },
+    "#545A2C": {
+      "name": "Soldier Green"
+    },
+    "#545AA7": {
+      "name": "Liberty"
+    },
+    "#54626F": {
+      "name": "Black coral"
+    },
+    "#551B8C": {
+      "name": "American violet"
+    },
+    "#551F2F": {
+      "name": "Light chocolate cosmos"
+    },
+    "#553592": {
+      "name": "Blue-magenta violet"
+    },
+    "#555555": {
+      "name": "Davy's grey"
+    },
+    "#555D50": {
+      "name": "Ebony"
+    },
+    "#556B2F": {
+      "name": "Dark olive green"
+    },
+    "#560319": {
+      "name": "Dark scarlet"
+    },
+    "#563C0D": {
+      "name": "Pineapple"
+    },
+    "#563C5C": {
+      "name": "English violet"
+    },
+    "#568203": {
+      "name": "Avocado"
+    },
+    "#56887D": {
+      "name": "Wintergreen Dream"
+    },
+    "#56A0D3": {
+      "name": "Carolina blue"
+    },
+    "#58111A": {
+      "name": "Chocolate cosmos"
+    },
+    "#58427C": {
+      "name": "Cyber grape"
+    },
+    "#59260B": {
+      "name": "Seal brown"
+    },
+    "#592720": {
+      "name": "Caput mortuum"
+    },
+    "#59292C": {
+      "name": "Mulberry dye (Kuwazome)"
+    },
+    "#592B1F": {
+      "name": "Sumac-dyed (K\u014drozen)"
+    },
+    "#593A27": {
+      "name": "Weathered bamboo (lit. \"sooty\") (Susutake-iro)"
+    },
+    "#5946B2": {
+      "name": "Plump Purple"
+    },
+    "#5A4F74": {
+      "name": "Safflower color (Benikakehana-iro)"
+    },
+    "#5A4FCF": {
+      "name": "Iris"
+    },
+    "#5A6457": {
+      "name": "Aloeswood brown (Tonocha)"
+    },
+    "#5B0A91": {
+      "name": "Metallic violet"
+    },
+    "#5B3256": {
+      "name": "Japanese violet"
+    },
+    "#5B8930": {
+      "name": "Fresh onion (Moegi)"
+    },
+    "#5B92E5": {
+      "name": "United Nations blue"
+    },
+    "#5C4827": {
+      "name": "Nightingale-brown (greenish brown) (Uguisucha)"
+    },
+    "#5C544E": {
+      "name": "Mousy indigo (Ainezumi)"
+    },
+    "#5CFF67": {
+      "name": "Lemon lime"
+    },
+    "#5D1916": {
+      "name": "Philippine brown"
+    },
+    "#5D3954": {
+      "name": "Dark byzantium"
+    },
+    "#5D3A1A": {
+      "name": "Earthtone"
+    },
+    "#5D3F6A": {
+      "name": "Bellflower color (Kiky\u014d-iro)"
+    },
+    "#5D89BA": {
+      "name": "Silver Lake blue"
+    },
+    "#5D8AA8": {
+      "name": "Air Force blue (RAF)"
+    },
+    "#5D8CAE": {
+      "name": "Ultramarine color (Gunj\u014d-iro)"
+    },
+    "#5DA493": {
+      "name": "Polished Pine"
+    },
+    "#5DADEC": {
+      "name": "Blue jeans"
+    },
+    "#5E2824": {
+      "name": "Maroon (Shrimp brown) (Ebicha)"
+    },
+    "#5E5545": {
+      "name": "Iwai brown (Iwaicha)"
+    },
+    "#5E644F": {
+      "name": "Old bamboo color (Oitake-iro)"
+    },
+    "#5E8C31": {
+      "name": "Maximum green"
+    },
+    "#5F1933": {
+      "name": "Brown Chocolate"
+    },
+    "#5F8A8B": {
+      "name": "Steel Teal"
+    },
+    "#5F9EA0": {
+      "name": "Cadet blue"
+    },
+    "#5FA777": {
+      "name": "Forest green (Crayola)"
+    },
+    "#5FA778": {
+      "name": "Shiny Shamrock"
+    },
+    "#5FC9BF": {
+      "name": "Bayside"
+    },
+    "#60281E": {
+      "name": "Chestnut-leather brown (Kurikawacha)"
+    },
+    "#602F6B": {
+      "name": "Imperial"
+    },
+    "#6050DC": {
+      "name": "Majorelle blue"
+    },
+    "#6082B6": {
+      "name": "Glaucous"
+    },
+    "#614051": {
+      "name": "Eggplant"
+    },
+    "#614E6E": {
+      "name": "Dark indigo (Futaai)"
+    },
+    "#630F0F": {
+      "name": "Blood (organ)"
+    },
+    "#63424B": {
+      "name": "Grape mouse (Bud\u014dnezumi)"
+    },
+    "#635147": {
+      "name": "Umber"
+    },
+    "#635A52": {
+      "name": "Italian leather"
+    },
+    "#63775B": {
+      "name": "Axolotl"
+    },
+    "#644117": {
+      "name": "Pullman Brown (UPS Brown)"
+    },
+    "#645452": {
+      "name": "Wenge"
+    },
+    "#6495ED": {
+      "name": "Cornflower blue"
+    },
+    "#64E986": {
+      "name": "Very light malachite green"
+    },
+    "#65000B": {
+      "name": "Rosewood"
+    },
+    "#654321": {
+      "name": "Dark brown"
+    },
+    "#656255": {
+      "name": "Greyish dark green (Riky\u016bnezumi)"
+    },
+    "#65FF00": {
+      "name": "Green slime"
+    },
+    "#660000": {
+      "name": "Blood red"
+    },
+    "#66023C": {
+      "name": "Imperial purple"
+    },
+    "#66033C": {
+      "name": "Spanish purple"
+    },
+    "#660C21": {
+      "name": "Pomegranate"
+    },
+    "#663399": {
+      "name": "Rebecca Purple"
+    },
+    "#663854": {
+      "name": "Halay\u00e0 \u00fabe"
+    },
+    "#664228": {
+      "name": "Van Dyke brown"
+    },
+    "#66424D": {
+      "name": "Deep Tuscan red"
+    },
+    "#665343": {
+      "name": "Contemplation in a tea garden (Rok\u014dcha)"
+    },
+    "#665D1E": {
+      "name": "Antique bronze"
+    },
+    "#666699": {
+      "name": "Dark blue-gray"
+    },
+    "#6666FF": {
+      "name": "Very light blue"
+    },
+    "#669999": {
+      "name": "Desaturated cyan"
+    },
+    "#6699CC": {
+      "name": "Blue-gray"
+    },
+    "#66B032": {
+      "name": "Green (RYB)"
+    },
+    "#66B447": {
+      "name": "Apple"
+    },
+    "#66C992": {
+      "name": "Asda Green (1999)"
+    },
+    "#66DDAA": {
+      "name": "Medium aquamarine"
+    },
+    "#66FF00": {
+      "name": "Bright green"
+    },
+    "#66FF66": {
+      "name": "Screamin' Green"
+    },
+    "#672422": {
+      "name": "Red bean color (Azuki-iro)"
+    },
+    "#673147": {
+      "name": "Old mauve"
+    },
+    "#674403": {
+      "name": "Violin Brown"
+    },
+    "#674846": {
+      "name": "Rose ebony"
+    },
+    "#674C47": {
+      "name": "Liver"
+    },
+    "#676767": {
+      "name": "Granite gray"
+    },
+    "#679267": {
+      "name": "Russian green"
+    },
+    "#682860": {
+      "name": "Palatinate purple"
+    },
+    "#68A0B0": {
+      "name": "Crystal blue"
+    },
+    "#69359C": {
+      "name": "Purple Heart"
+    },
+    "#696969": {
+      "name": "Dim gray"
+    },
+    "#6A0DAD": {
+      "name": "Purple"
+    },
+    "#6A432D": {
+      "name": "Aloewood-color (Kyara-iro)"
+    },
+    "#6A5445": {
+      "name": "Quincy"
+    },
+    "#6A5ACD": {
+      "name": "Slate blue"
+    },
+    "#6A7F7A": {
+      "name": "Rusted light-blue (Sabiasagi)"
+    },
+    "#6AB2CA": {
+      "name": "Delicate girl blue"
+    },
+    "#6B4423": {
+      "name": "Brown-nose"
+    },
+    "#6B4947": {
+      "name": "Painite"
+    },
+    "#6B9362": {
+      "name": "Young bamboo color (Wakatake-iro)"
+    },
+    "#6C2E1F": {
+      "name": "Liver (organ)"
+    },
+    "#6C3082": {
+      "name": "Eminence"
+    },
+    "#6C541E": {
+      "name": "Field drab"
+    },
+    "#6CA0DC": {
+      "name": "Little boy blue"
+    },
+    "#6D2B50": {
+      "name": "Vine grape (Ebizome)"
+    },
+    "#6D9A79": {
+      "name": "Oxley"
+    },
+    "#6D9BC3": {
+      "name": "Cerulean frost"
+    },
+    "#6E3A07": {
+      "name": "Philippine bronze"
+    },
+    "#6E5F57": {
+      "name": "Plain mouse (Sunezumi)"
+    },
+    "#6E6E30": {
+      "name": "Mustard green"
+    },
+    "#6E7F80": {
+      "name": "AuroMetalSaurus"
+    },
+    "#6EAEA1": {
+      "name": "Green Sheen"
+    },
+    "#6F00FF": {
+      "name": "Electric indigo"
+    },
+    "#6F2DA8": {
+      "name": "Grape"
+    },
+    "#6F3028": {
+      "name": "Cypress bark red (Benihibata)"
+    },
+    "#6F4E37": {
+      "name": "Coffee"
+    },
+    "#6F9940": {
+      "name": "Palm Leaf"
+    },
+    "#701C1C": {
+      "name": "Persian plum"
+    },
+    "#702670": {
+      "name": "Midnight"
+    },
+    "#702963": {
+      "name": "Byzantium"
+    },
+    "#703642": {
+      "name": "Catawba"
+    },
+    "#704214": {
+      "name": "Sepia"
+    },
+    "#704241": {
+      "name": "Deep coffee"
+    },
+    "#70543E": {
+      "name": "Mud"
+    },
+    "#708090": {
+      "name": "Slate gray"
+    },
+    "#716675": {
+      "name": "Rum"
+    },
+    "#71706E": {
+      "name": "Dark silver"
+    },
+    "#71A6D2": {
+      "name": "Iceberg"
+    },
+    "#71BC78": {
+      "name": "Iguana green"
+    },
+    "#720B98": {
+      "name": "Chinese purple"
+    },
+    "#722F37": {
+      "name": "Puce red"
+    },
+    "#727472": {
+      "name": "Nickel"
+    },
+    "#72A0C1": {
+      "name": "Air superiority blue"
+    },
+    "#733380": {
+      "name": "Maximum purple"
+    },
+    "#733635": {
+      "name": "Garnet"
+    },
+    "#734F96": {
+      "name": "Dark lavender"
+    },
+    "#7366BD": {
+      "name": "Blue-violet (Crayola)"
+    },
+    "#737000": {
+      "name": "Bronze yellow"
+    },
+    "#738276": {
+      "name": "Smoke"
+    },
+    "#738678": {
+      "name": "Xanadu"
+    },
+    "#73A9C2": {
+      "name": "Moonstone blue"
+    },
+    "#73C2FB": {
+      "name": "Maya blue"
+    },
+    "#746CC0": {
+      "name": "Toolbox"
+    },
+    "#749F8D": {
+      "name": "Pale green onion (Mizuasagi)"
+    },
+    "#74BBFB": {
+      "name": "Very light azure"
+    },
+    "#74C365": {
+      "name": "Mantis"
+    },
+    "#752E23": {
+      "name": "Cypress bark color (Hihada-iro)"
+    },
+    "#755D5B": {
+      "name": "Dove feather grey (Hatobanezumi)"
+    },
+    "#757575": {
+      "name": "Sonic silver"
+    },
+    "#757D75": {
+      "name": "Harbor rat (Minatonezumi)"
+    },
+    "#763568": {
+      "name": "Iris color (Ayame-iro)"
+    },
+    "#766980": {
+      "name": "Mousy wisteria (Fujinezumi)"
+    },
+    "#766EC8": {
+      "name": "Violet-blue (Crayola)"
+    },
+    "#76D7EA": {
+      "name": "Sky blue (Crayola)"
+    },
+    "#777696": {
+      "name": "Rhythm"
+    },
+    "#778899": {
+      "name": "Light slate gray"
+    },
+    "#778BA5": {
+      "name": "Shadow blue"
+    },
+    "#779ECB": {
+      "name": "Dark pastel blue"
+    },
+    "#77B5FE": {
+      "name": "French sky blue"
+    },
+    "#77DD77": {
+      "name": "Pastel green"
+    },
+    "#78184A": {
+      "name": "Pansy purple"
+    },
+    "#7851A9": {
+      "name": "Royal purple"
+    },
+    "#785E49": {
+      "name": "The color of an undried wall (Namakabe-iro)"
+    },
+    "#78779B": {
+      "name": "Stained red (Benimidori)"
+    },
+    "#78866B": {
+      "name": "Camouflage green"
+    },
+    "#79443B": {
+      "name": "Bole"
+    },
+    "#796878": {
+      "name": "Old lavender"
+    },
+    "#7A942E": {
+      "name": "Siskin sprout yellow (Hiwamoegi)"
+    },
+    "#7B1113": {
+      "name": "UP maroon"
+    },
+    "#7B3B3A": {
+      "name": "Deep scarlet (Kokiake)"
+    },
+    "#7B3F00": {
+      "name": "Chocolate (traditional)"
+    },
+    "#7B68EE": {
+      "name": "Medium slate blue"
+    },
+    "#7BB661": {
+      "name": "Bud green"
+    },
+    "#7C0A02": {
+      "name": "Barn red"
+    },
+    "#7C1C05": {
+      "name": "Kenyan copper"
+    },
+    "#7C4848": {
+      "name": "Tuscan red"
+    },
+    "#7C98AB": {
+      "name": "Weldon Blue"
+    },
+    "#7C9ED9": {
+      "name": "Vista blue"
+    },
+    "#7CB9E8": {
+      "name": "Aero"
+    },
+    "#7CFC00": {
+      "name": "Lawn green"
+    },
+    "#7D4E2D": {
+      "name": "Golden-grey bamboo (dried and weathered) (Kinsusutake)"
+    },
+    "#7DB700": {
+      "name": "Microsoft green"
+    },
+    "#7DC242": {
+      "name": "Asda Green"
+    },
+    "#7DF9FF": {
+      "name": "Electric blue"
+    },
+    "#7E2639": {
+      "name": "Sappanwood (Su\u014d)"
+    },
+    "#7E5E60": {
+      "name": "Deep taupe"
+    },
+    "#7EB6FF": {
+      "name": "Parakeet Blue"
+    },
+    "#7ED4E6": {
+      "name": "Middle blue"
+    },
+    "#7F00FF": {
+      "name": "Violet (color wheel)"
+    },
+    "#7F1734": {
+      "name": "Claret"
+    },
+    "#7F3E98": {
+      "name": "Cadmium violet"
+    },
+    "#7F5D3B": {
+      "name": "Japanese iris and sooty bamboo (Higosusutake)"
+    },
+    "#7F6B5D": {
+      "name": "Lye-colored (Aku-iro)"
+    },
+    "#7FFFD4": {
+      "name": "Aquamarine"
+    },
+    "#800020": {
+      "name": "Burgundy"
+    },
+    "#800080": {
+      "name": "Patriarch"
+    },
+    "#801818": {
+      "name": "Falu red"
+    },
+    "#804040": {
+      "name": "American brown"
+    },
+    "#80461B": {
+      "name": "Russet"
+    },
+    "#804A00": {
+      "name": "Dark bronze"
+    },
+    "#807532": {
+      "name": "Spanish bistre"
+    },
+    "#808000": {
+      "name": "Heart gold"
+    },
+    "#808080": {
+      "name": "Trolley grey"
+    },
+    "#80C197": {
+      "name": "Asda Green (1994)"
+    },
+    "#80DAEB": {
+      "name": "Medium sky blue"
+    },
+    "#81007F": {
+      "name": "Philippine violet"
+    },
+    "#811453": {
+      "name": "French plum"
+    },
+    "#81613C": {
+      "name": "Coyote brown"
+    },
+    "#817B69": {
+      "name": "Willow grey (Yanaginezumi)"
+    },
+    "#819C8B": {
+      "name": "Celadon color (Seiji-iro)"
+    },
+    "#820000": {
+      "name": "Deep maroon"
+    },
+    "#824B35": {
+      "name": "Green tea-colored (Sencha-iro)"
+    },
+    "#826644": {
+      "name": "Raw umber"
+    },
+    "#826B58": {
+      "name": "Sen no Rikyu's tea (Riky\u016bcha)"
+    },
+    "#828E84": {
+      "name": "Dolphin gray"
+    },
+    "#832A0D": {
+      "name": "Smokey Topaz"
+    },
+    "#8366F4": {
+      "name": "Violets Are Blue"
+    },
+    "#836953": {
+      "name": "Pastel brown"
+    },
+    "#838996": {
+      "name": "Roman silver"
+    },
+    "#841617": {
+      "name": "OU Crimson red"
+    },
+    "#841B2D": {
+      "name": "Antique ruby"
+    },
+    "#843F5B": {
+      "name": "Deep ruby"
+    },
+    "#84563C": {
+      "name": "Milk chocolate"
+    },
+    "#848482": {
+      "name": "Battleship grey"
+    },
+    "#850101": {
+      "name": "Deep red"
+    },
+    "#856088": {
+      "name": "Chinese violet"
+    },
+    "#856D4D": {
+      "name": "French bistre"
+    },
+    "#85754E": {
+      "name": "Gold Fusion"
+    },
+    "#857C55": {
+      "name": "Baiko brown (Baik\u014dcha)"
+    },
+    "#85BB65": {
+      "name": "Dollar bill"
+    },
+    "#860111": {
+      "name": "Red devil"
+    },
+    "#8601AF": {
+      "name": "Violet (RYB)"
+    },
+    "#86608E": {
+      "name": "French lilac"
+    },
+    "#867E36": {
+      "name": "Old moss green"
+    },
+    "#86ABA5": {
+      "name": "Aqua Blue color (Mizu-iro)"
+    },
+    "#872657": {
+      "name": "Dark raspberry"
+    },
+    "#873260": {
+      "name": "Boysenberry"
+    },
+    "#87413F": {
+      "name": "Brandy"
+    },
+    "#875F9A": {
+      "name": "Wisteria purple (Fujimurasaki)"
+    },
+    "#878681": {
+      "name": "Titanium"
+    },
+    "#87A96B": {
+      "name": "Asparagus"
+    },
+    "#87CEEB": {
+      "name": "Sky blue"
+    },
+    "#87CEFA": {
+      "name": "Light sky blue"
+    },
+    "#87D3F8": {
+      "name": "Pale Cyan"
+    },
+    "#87FF2A": {
+      "name": "Spring Frost"
+    },
+    "#880085": {
+      "name": "Mardi Gras"
+    },
+    "#8806CE": {
+      "name": "French violet"
+    },
+    "#882D17": {
+      "name": "Kobe"
+    },
+    "#88540B": {
+      "name": "Bronze"
+    },
+    "#88654E": {
+      "name": "Dark brown-tangelo"
+    },
+    "#8878C3": {
+      "name": "Ube"
+    },
+    "#88ACE0": {
+      "name": "Light cobalt blue"
+    },
+    "#88D8C0": {
+      "name": "Pearl Aqua"
+    },
+    "#891446": {
+      "name": "Violet-red"
+    },
+    "#893843": {
+      "name": "Solid pink"
+    },
+    "#893F45": {
+      "name": "Cordovan"
+    },
+    "#896C39": {
+      "name": "Yellow Sea pine-brown (Kimirucha)"
+    },
+    "#89729E": {
+      "name": "Wisteria color (Fuji-iro)"
+    },
+    "#898A74": {
+      "name": "Rusty celadon (Sabiseiji)"
+    },
+    "#89CFF0": {
+      "name": "Baby blue"
+    },
+    "#8A0303": {
+      "name": "Blood"
+    },
+    "#8A2BE2": {
+      "name": "Blue-violet"
+    },
+    "#8A3324": {
+      "name": "Burnt umber"
+    },
+    "#8A496B": {
+      "name": "Twilight lavender"
+    },
+    "#8A795D": {
+      "name": "Shadow"
+    },
+    "#8A7F80": {
+      "name": "Rocket metallic"
+    },
+    "#8A9A5B": {
+      "name": "Moss green"
+    },
+    "#8AB9F1": {
+      "name": "Jordy blue"
+    },
+    "#8B0000": {
+      "name": "Dark red"
+    },
+    "#8B008B": {
+      "name": "Dark magenta"
+    },
+    "#8B171A": {
+      "name": "Strawberry Jam"
+    },
+    "#8B352D": {
+      "name": "Red-brown (lit. chestnut-plum) (Kiriume)"
+    },
+    "#8B4513": {
+      "name": "Saddle brown"
+    },
+    "#8B5F4D": {
+      "name": "Spicy mix"
+    },
+    "#8B72BE": {
+      "name": "Middle blue purple"
+    },
+    "#8B7D3A": {
+      "name": "Moss color (Koke-iro)"
+    },
+    "#8B8589": {
+      "name": "Taupe gray"
+    },
+    "#8B8680": {
+      "name": "Middle grey"
+    },
+    "#8BA8B7": {
+      "name": "Pewter Blue"
+    },
+    "#8BBE1B": {
+      "name": "Dark lemon lime"
+    },
+    "#8C4736": {
+      "name": "Sparrow-brown (Suzumecha)"
+    },
+    "#8C5939": {
+      "name": "Brushwood-dyed (Fushizome)"
+    },
+    "#8C8C8C": {
+      "name": "Philippine gray"
+    },
+    "#8C92AC": {
+      "name": "Cool grey"
+    },
+    "#8C9C76": {
+      "name": "Pale blue (Usuao)"
+    },
+    "#8C9E5E": {
+      "name": "Willow dye (Yanagizome)"
+    },
+    "#8CBED6": {
+      "name": "Dark sky blue"
+    },
+    "#8D4E85": {
+      "name": "Razzmic Berry"
+    },
+    "#8D608C": {
+      "name": "Half color (Hashita-iro)"
+    },
+    "#8DA399": {
+      "name": "Morning blue"
+    },
+    "#8DB255": {
+      "name": "Pale young green onion (Usumoegi)"
+    },
+    "#8DB600": {
+      "name": "Apple green"
+    },
+    "#8DD9CC": {
+      "name": "Middle blue green"
+    },
+    "#8E3A59": {
+      "name": "Quinacridone magenta"
+    },
+    "#8E4585": {
+      "name": "Plum"
+    },
+    "#8EE53F": {
+      "name": "Kiwi"
+    },
+    "#8F00FF": {
+      "name": "Electric violet"
+    },
+    "#8F1D21": {
+      "name": "True red (Shinshu)"
+    },
+    "#8F4155": {
+      "name": "Plum purple (Umemurasaki)"
+    },
+    "#8F583C": {
+      "name": "Clove-brown (Ch\u014djicha)"
+    },
+    "#8F9779": {
+      "name": "Artichoke"
+    },
+    "#8FBC8F": {
+      "name": "Dark sea green"
+    },
+    "#8FD400": {
+      "name": "Sheen green"
+    },
+    "#905D5D": {
+      "name": "Rose taupe"
+    },
+    "#906652": {
+      "name": "Italian roast"
+    },
+    "#90EE90": {
+      "name": "Light green"
+    },
+    "#913225": {
+      "name": "Dyestalk red (lit. the color from dying with the stalk of the beni plant) (Bengara-iro)"
+    },
+    "#913228": {
+      "name": "Red kite (bird species) (Benitobi)"
+    },
+    "#914E75": {
+      "name": "Sugar Plum"
+    },
+    "#915C83": {
+      "name": "Antique fuchsia"
+    },
+    "#915F6D": {
+      "name": "Mauve taupe"
+    },
+    "#918151": {
+      "name": "Dark tan"
+    },
+    "#91A3B0": {
+      "name": "Cadet grey"
+    },
+    "#92000A": {
+      "name": "Sangria"
+    },
+    "#922724": {
+      "name": "Vivid auburn"
+    },
+    "#922B3E": {
+      "name": "Red-violet (Color wheel)"
+    },
+    "#923C01": {
+      "name": "Iced tea"
+    },
+    "#92A1CF": {
+      "name": "Ceil"
+    },
+    "#933709": {
+      "name": "Citrine Brown"
+    },
+    "#933D41": {
+      "name": "Smoky Topaz"
+    },
+    "#934337": {
+      "name": "Persimmon-juice color (Kakishibu-iro)"
+    },
+    "#936900": {
+      "name": "Porcupine"
+    },
+    "#9370DB": {
+      "name": "Medium purple"
+    },
+    "#93C572": {
+      "name": "Pistachio"
+    },
+    "#93CCEA": {
+      "name": "Cornflower"
+    },
+    "#9400D3": {
+      "name": "Dark violet"
+    },
+    "#9457EB": {
+      "name": "Lavender indigo"
+    },
+    "#954535": {
+      "name": "Chestnut"
+    },
+    "#957B38": {
+      "name": "Finch-brown (Cardueline finch) (Hiwacha)"
+    },
+    "#960018": {
+      "name": "Carmine"
+    },
+    "#960145": {
+      "name": "Rose garnet"
+    },
+    "#963D7F": {
+      "name": "Violet (crayola)"
+    },
+    "#964B00": {
+      "name": "Brown (traditional)"
+    },
+    "#965A3E": {
+      "name": "Coconut"
+    },
+    "#966FD6": {
+      "name": "Dark pastel purple"
+    },
+    "#967117": {
+      "name": "Bistre brown"
+    },
+    "#9678B6": {
+      "name": "Purple mountain majesty"
+    },
+    "#967BB6": {
+      "name": "Lavender purple"
+    },
+    "#96A53C": {
+      "name": "Pomelo"
+    },
+    "#96C8A2": {
+      "name": "Eton blue"
+    },
+    "#96DED1": {
+      "name": "Pale robin egg blue"
+    },
+    "#96FF00": {
+      "name": "Mango green"
+    },
+    "#97645A": {
+      "name": "Plum-blossom mouse (Umenezumi)"
+    },
+    "#976E9A": {
+      "name": "Tatarian aster color (Shion-iro)"
+    },
+    "#97867C": {
+      "name": "Silver-grey (Ginnezumi)"
+    },
+    "#979AAA": {
+      "name": "Manatee"
+    },
+    "#980036": {
+      "name": "Pink raspberry"
+    },
+    "#985538": {
+      "name": "Polished brown (Tonocha)"
+    },
+    "#985629": {
+      "name": "Fox-color (Kitsune-iro)"
+    },
+    "#986960": {
+      "name": "Dark chestnut"
+    },
+    "#987456": {
+      "name": "Liver chestnut"
+    },
+    "#987654": {
+      "name": "Pale Brown"
+    },
+    "#98777B": {
+      "name": "Bazaar"
+    },
+    "#98817B": {
+      "name": "Cinereous"
+    },
+    "#989898": {
+      "name": "Spanish gray"
+    },
+    "#98FB98": {
+      "name": "Pale Green"
+    },
+    "#98FF98": {
+      "name": "Mint green"
+    },
+    "#990000": {
+      "name": "Crimson red"
+    },
+    "#9932CC": {
+      "name": "Dark orchid"
+    },
+    "#993300": {
+      "name": "Brown"
+    },
+    "#9955BB": {
+      "name": "Deep lilac"
+    },
+    "#996515": {
+      "name": "Golden brown"
+    },
+    "#996600": {
+      "name": "Gamboge orange (brown)"
+    },
+    "#996666": {
+      "name": "Copper rose"
+    },
+    "#9966CC": {
+      "name": "Amethyst"
+    },
+    "#997A8D": {
+      "name": "Mountbatten pink"
+    },
+    "#99E6B3": {
+      "name": "Teal deer"
+    },
+    "#9A4EAE": {
+      "name": "Purpureus"
+    },
+    "#9AB973": {
+      "name": "Olivine"
+    },
+    "#9ACD32": {
+      "name": "Yellow-green"
+    },
+    "#9B111E": {
+      "name": "Ruby red"
+    },
+    "#9B1C31": {
+      "name": "Royal red"
+    },
+    "#9B351B": {
+      "name": "Deep dumpling"
+    },
+    "#9B533F": {
+      "name": "Faded spicy red-brown (S\u014ddenkaracha)"
+    },
+    "#9B7653": {
+      "name": "Dirt"
+    },
+    "#9B870C": {
+      "name": "Dark yellow"
+    },
+    "#9BC4E2": {
+      "name": "Pale cerulean"
+    },
+    "#9C2542": {
+      "name": "Big dip o\u2019ruby"
+    },
+    "#9C51B6": {
+      "name": "Purple Plum"
+    },
+    "#9C7C38": {
+      "name": "Metallic Sunburst"
+    },
+    "#9C8A4D": {
+      "name": "Willow tea (Yanagicha)"
+    },
+    "#9C8AA4": {
+      "name": "Deep amethyst"
+    },
+    "#9D2933": {
+      "name": "Japanese carmine"
+    },
+    "#9D2B22": {
+      "name": "Red birch (Benikaba)"
+    },
+    "#9DC209": {
+      "name": "Limerick"
+    },
+    "#9E1316": {
+      "name": "Spartan Crimson"
+    },
+    "#9E5E6F": {
+      "name": "Rose Dust"
+    },
+    "#9EFD38": {
+      "name": "French lime"
+    },
+    "#9F00C5": {
+      "name": "Purple (Munsell)"
+    },
+    "#9F00FF": {
+      "name": "Vivid violet"
+    },
+    "#9F1D35": {
+      "name": "Vivid burgundy"
+    },
+    "#9F2B68": {
+      "name": "Amaranth deep purple"
+    },
+    "#9F4576": {
+      "name": "Magenta haze"
+    },
+    "#9F5233": {
+      "name": "Red ochre color (Taisha-iro)"
+    },
+    "#9F7462": {
+      "name": "Walnut-dyed (Kurumizome)"
+    },
+    "#9F8170": {
+      "name": "Beaver"
+    },
+    "#9FA91F": {
+      "name": "Citron"
+    },
+    "#9FE2BF": {
+      "name": "Sea Foam Green"
+    },
+    "#A020F0": {
+      "name": "Purple (X11)"
+    },
+    "#A0785A": {
+      "name": "Chamoisee"
+    },
+    "#A09484": {
+      "name": "Stone Terrace"
+    },
+    "#A0D6B4": {
+      "name": "Turquoise green"
+    },
+    "#A0E6FF": {
+      "name": "Winter Wizard"
+    },
+    "#A13D2D": {
+      "name": "Red-brown (Edo brown) (Edocha)"
+    },
+    "#A17917": {
+      "name": "Rapeseed oil-colored (Nataneyu-iro)"
+    },
+    "#A17A74": {
+      "name": "Burnished brown"
+    },
+    "#A19D94": {
+      "name": "Iron"
+    },
+    "#A1CAF1": {
+      "name": "Baby blue eyes"
+    },
+    "#A2006D": {
+      "name": "Flirt"
+    },
+    "#A24F46": {
+      "name": "Sappanwood incense (Su\u014dk\u014d)"
+    },
+    "#A2A2D0": {
+      "name": "Blue bell"
+    },
+    "#A2ADD0": {
+      "name": "Wild blue yonder"
+    },
+    "#A3C1AD": {
+      "name": "Cambridge blue"
+    },
+    "#A40000": {
+      "name": "Dark candy apple red"
+    },
+    "#A41313": {
+      "name": "Blood (Animal)"
+    },
+    "#A4345D": {
+      "name": "Tree peony (B\u014dtan)"
+    },
+    "#A45A52": {
+      "name": "Redwood"
+    },
+    "#A4DDED": {
+      "name": "Non-photo blue"
+    },
+    "#A4F4F9": {
+      "name": "Waterspout"
+    },
+    "#A50B5E": {
+      "name": "Jazzberry jam"
+    },
+    "#A52A2A": {
+      "name": "Auburn"
+    },
+    "#A55353": {
+      "name": "Middle red purple"
+    },
+    "#A57164": {
+      "name": "Blast-off bronze"
+    },
+    "#A57C00": {
+      "name": "Gold"
+    },
+    "#A5BA93": {
+      "name": "Whitish green (Byakuroku)"
+    },
+    "#A62C2B": {
+      "name": "Metallic red"
+    },
+    "#A63A79": {
+      "name": "Maximum red purple"
+    },
+    "#A67B5B": {
+      "name": "Caf\u00e9 au lait"
+    },
+    "#A6A6A6": {
+      "name": "Quick Silver"
+    },
+    "#A6D608": {
+      "name": "Vivid lime green"
+    },
+    "#A6E7FF": {
+      "name": "Fresh Air"
+    },
+    "#A72127": {
+      "name": "Rambutan Red"
+    },
+    "#A75502": {
+      "name": "Windsor tan"
+    },
+    "#A76BCF": {
+      "name": "Rich lavender"
+    },
+    "#A7D8DE": {
+      "name": "Crystal"
+    },
+    "#A7F432": {
+      "name": "Green Lizard"
+    },
+    "#A7FC00": {
+      "name": "Spring bud"
+    },
+    "#A81C07": {
+      "name": "Rufous"
+    },
+    "#A83731": {
+      "name": "Sweet Brown"
+    },
+    "#A8516E": {
+      "name": "China rose"
+    },
+    "#A87CA0": {
+      "name": "Thin color (Usu-iro)"
+    },
+    "#A8A9AD": {
+      "name": "Chrome aluminum"
+    },
+    "#A8C3BC": {
+      "name": "Opal"
+    },
+    "#A8E4A0": {
+      "name": "Granny Smith apple"
+    },
+    "#A9203E": {
+      "name": "Deep carmine"
+    },
+    "#A95C68": {
+      "name": "Deep puce"
+    },
+    "#A96232": {
+      "name": "Clove-dyed (Ch\u014djizome)"
+    },
+    "#A97142": {
+      "name": "Metallic bronze"
+    },
+    "#A99A86": {
+      "name": "Grullo"
+    },
+    "#A9A9A9": {
+      "name": "Dark gray (X11)"
+    },
+    "#A9B2C3": {
+      "name": "Cadet blue (Crayola)"
+    },
+    "#A9BA9D": {
+      "name": "Laurel green"
+    },
+    "#AA00BB": {
+      "name": "Heliotrope magenta"
+    },
+    "#AA4069": {
+      "name": "Medium ruby"
+    },
+    "#AA6C39": {
+      "name": "Dark gold"
+    },
+    "#AA8736": {
+      "name": "Pale fallen leaves (Aokuchiba)"
+    },
+    "#AA98A9": {
+      "name": "Heliotrope gray"
+    },
+    "#AAA9AD": {
+      "name": "Silver (Metallic)"
+    },
+    "#AAF0D1": {
+      "name": "Magic mint"
+    },
+    "#AB274F": {
+      "name": "Amaranth purple"
+    },
+    "#AB381F": {
+      "name": "Chinese brown"
+    },
+    "#AB4B52": {
+      "name": "English red"
+    },
+    "#AB4C3D": {
+      "name": "Wilted brown (lit. wilted lawn-clippings) (Shikancha)"
+    },
+    "#AB4E52": {
+      "name": "Rose vale"
+    },
+    "#AB6134": {
+      "name": "Loquat (tree) brown (Biwacha)"
+    },
+    "#AB92B3": {
+      "name": "Glossy grape"
+    },
+    "#ABCDEF": {
+      "name": "Pale Cornflower Blue"
+    },
+    "#AC1E44": {
+      "name": "French wine"
+    },
+    "#AC4313": {
+      "name": "Metallic brown"
+    },
+    "#AC8181": {
+      "name": "Cherry blossom mouse (Sakuranezumi)"
+    },
+    "#ACACAC": {
+      "name": "Silver chalice"
+    },
+    "#ACACE6": {
+      "name": "Maximum blue purple"
+    },
+    "#ACBF60": {
+      "name": "Middle green yellow"
+    },
+    "#ACE1AF": {
+      "name": "Celadon"
+    },
+    "#ACE5EE": {
+      "name": "Blizzard blue"
+    },
+    "#AD4379": {
+      "name": "Mystic maroon"
+    },
+    "#AD6F69": {
+      "name": "Copper penny"
+    },
+    "#ADD8E6": {
+      "name": "Light blue"
+    },
+    "#ADDFAD": {
+      "name": "Light moss green"
+    },
+    "#ADFF2F": {
+      "name": "Green-yellow"
+    },
+    "#AE0C00": {
+      "name": "Mordant red 19"
+    },
+    "#AE2029": {
+      "name": "Upsdell red"
+    },
+    "#AE98AA": {
+      "name": "Lilac Luster"
+    },
+    "#AEC6CF": {
+      "name": "Pastel blue"
+    },
+    "#AF002A": {
+      "name": "Alabama crimson"
+    },
+    "#AF4035": {
+      "name": "Medium carmine"
+    },
+    "#AF593E": {
+      "name": "Brown (Crayola)"
+    },
+    "#AF6E4D": {
+      "name": "Brown sugar"
+    },
+    "#AFB1AE": {
+      "name": "Silver foil"
+    },
+    "#AFEEEE": {
+      "name": "Pale Blue / Pale Turquoise"
+    },
+    "#B03060": {
+      "name": "Maroon (X11)"
+    },
+    "#B05C52": {
+      "name": "Giant's Club"
+    },
+    "#B07939": {
+      "name": "Durian"
+    },
+    "#B08D57": {
+      "name": "Bronze (metallic)"
+    },
+    "#B0927A": {
+      "name": "Faded Sen no Rikyu's tea (Riky\u016bshiracha)"
+    },
+    "#B0BF1A": {
+      "name": "Acid green"
+    },
+    "#B0C24A": {
+      "name": "Margarita"
+    },
+    "#B0C4DE": {
+      "name": "Light steel blue"
+    },
+    "#B0E0E6": {
+      "name": "Powder blue"
+    },
+    "#B11226": {
+      "name": "Wine red"
+    },
+    "#B14A30": {
+      "name": "Birch brown (Kabacha)"
+    },
+    "#B17304": {
+      "name": "Philippine gold"
+    },
+    "#B19CD9": {
+      "name": "Light pastel purple"
+    },
+    "#B2071D": {
+      "name": "Youtube red"
+    },
+    "#B21807": {
+      "name": "Tomato sauce"
+    },
+    "#B22222": {
+      "name": "Firebrick"
+    },
+    "#B284BE": {
+      "name": "African violet"
+    },
+    "#B29700": {
+      "name": "Light gold"
+    },
+    "#B2BEB5": {
+      "name": "Ash gray"
+    },
+    "#B2EC5D": {
+      "name": "Inchworm"
+    },
+    "#B2FFFF": {
+      "name": "Celeste"
+    },
+    "#B31B1B": {
+      "name": "Carnelian"
+    },
+    "#B32134": {
+      "name": "American red"
+    },
+    "#B3446C": {
+      "name": "Irresistible"
+    },
+    "#B35C44": {
+      "name": "Spicy red-brown (Chinese tea brown) (Karacha)"
+    },
+    "#B38B6D": {
+      "name": "Light taupe"
+    },
+    "#B39EB5": {
+      "name": "Pastel purple"
+    },
+    "#B3B3B3": {
+      "name": "Philippine silver"
+    },
+    "#B48395": {
+      "name": "English lavender"
+    },
+    "#B53389": {
+      "name": "Fandango"
+    },
+    "#B56257": {
+      "name": "Electric brown"
+    },
+    "#B5651D": {
+      "name": "Light brown"
+    },
+    "#B5651E": {
+      "name": "Dirty brown"
+    },
+    "#B56C60": {
+      "name": "Water persimmon (Mizugaki)"
+    },
+    "#B57281": {
+      "name": "Turkish rose"
+    },
+    "#B57EDC": {
+      "name": "Lavender (floral)"
+    },
+    "#B5A642": {
+      "name": "Brass"
+    },
+    "#B5B35C": {
+      "name": "Olive green"
+    },
+    "#B60C26": {
+      "name": "Cadmium purple"
+    },
+    "#B62020": {
+      "name": "Red cola"
+    },
+    "#B64925": {
+      "name": "Cattail color (the plant) (Kaba-iro)"
+    },
+    "#B666D2": {
+      "name": "Rich lilac"
+    },
+    "#B7410E": {
+      "name": "Rust"
+    },
+    "#B768A2": {
+      "name": "Pearly purple"
+    },
+    "#B76E79": {
+      "name": "Rose gold"
+    },
+    "#B7702D": {
+      "name": "Chinese yellow tea-colored (Kigaracha)"
+    },
+    "#B784A7": {
+      "name": "Opera mauve"
+    },
+    "#B78727": {
+      "name": "University Of California Gold"
+    },
+    "#B80CE3": {
+      "name": "Vivid mulberry"
+    },
+    "#B86D29": {
+      "name": "Liver (dogs)"
+    },
+    "#B87333": {
+      "name": "Copper"
+    },
+    "#B8860B": {
+      "name": "Dark goldenrod"
+    },
+    "#B94E48": {
+      "name": "Deep chestnut"
+    },
+    "#B95754": {
+      "name": "Long spring (season) color (Ch\u014dshun-iro)"
+    },
+    "#B9A193": {
+      "name": "White mouse (Shironezumi)"
+    },
+    "#B9F2FF": {
+      "name": "Diamond"
+    },
+    "#BA0001": {
+      "name": "UE red"
+    },
+    "#BA160C": {
+      "name": "International orange (engineering)"
+    },
+    "#BA55D3": {
+      "name": "Medium orchid"
+    },
+    "#BA8759": {
+      "name": "Deer"
+    },
+    "#BA93D8": {
+      "name": "Lenurple"
+    },
+    "#BB3385": {
+      "name": "Medium red-violet"
+    },
+    "#BB6528": {
+      "name": "Ruddy brown"
+    },
+    "#BB7796": {
+      "name": "Red wisteria (Benifuji)"
+    },
+    "#BB8141": {
+      "name": "Golden oak (Kitsurubami)"
+    },
+    "#BB9351": {
+      "name": "Maple syrup"
+    },
+    "#BBA46D": {
+      "name": "Pale oak (Aoshirotsurubami)"
+    },
+    "#BBB477": {
+      "name": "Misty moss"
+    },
+    "#BBD0C9": {
+      "name": "Jet stream"
+    },
+    "#BC2D29": {
+      "name": "Greyed red (lit. silvered red) (Ginshu)"
+    },
+    "#BC8F8F": {
+      "name": "Rosy brown"
+    },
+    "#BC987E": {
+      "name": "Pale taupe"
+    },
+    "#BCB58C": {
+      "name": "Underside of willow leaves (Urahayanagi)"
+    },
+    "#BCB88A": {
+      "name": "Sage"
+    },
+    "#BCD4E6": {
+      "name": "Beau blue"
+    },
+    "#BD3000": {
+      "name": "Lemon iced tea"
+    },
+    "#BD33A4": {
+      "name": "Byzantine"
+    },
+    "#BD559C": {
+      "name": "Rose quartz pink"
+    },
+    "#BD9B16": {
+      "name": "Gold foil"
+    },
+    "#BDA928": {
+      "name": "Greenfinch color (Hiwa-iro)"
+    },
+    "#BDB76B": {
+      "name": "Dark khaki"
+    },
+    "#BDDA57": {
+      "name": "June bud"
+    },
+    "#BE0032": {
+      "name": "Crimson glory"
+    },
+    "#BE4F62": {
+      "name": "Popstar"
+    },
+    "#BE7F51": {
+      "name": "Ochre (lit. earthen yellow) (\u014cdo-iro)"
+    },
+    "#BEA493": {
+      "name": "Mocha"
+    },
+    "#BEBEBE": {
+      "name": "Gray (X11 gray)"
+    },
+    "#BF00FF": {
+      "name": "Electric purple"
+    },
+    "#BF4F51": {
+      "name": "Bittersweet shimmer"
+    },
+    "#BF94E4": {
+      "name": "Bright lavender"
+    },
+    "#BFAFB2": {
+      "name": "Black Shadows"
+    },
+    "#BFBD70": {
+      "name": "Pomelo Olive"
+    },
+    "#BFC0EE": {
+      "name": "Vodka"
+    },
+    "#BFC1C2": {
+      "name": "Silver sand"
+    },
+    "#BFFF00": {
+      "name": "Bitter lime"
+    },
+    "#C0362C": {
+      "name": "International orange (Golden Gate Bridge)"
+    },
+    "#C04000": {
+      "name": "Mahogany"
+    },
+    "#C0448F": {
+      "name": "Red-violet (Crayola)"
+    },
+    "#C08081": {
+      "name": "Old rose"
+    },
+    "#C09999": {
+      "name": "Tuscany"
+    },
+    "#C0C0C0": {
+      "name": "Argent"
+    },
+    "#C154C1": {
+      "name": "Deep fuchsia"
+    },
+    "#C19A6B": {
+      "name": "Camel"
+    },
+    "#C1F9A2": {
+      "name": "Menthol"
+    },
+    "#C21E56": {
+      "name": "Rose red"
+    },
+    "#C23B22": {
+      "name": "Dark pastel red"
+    },
+    "#C2B280": {
+      "name": "Ecru"
+    },
+    "#C30B4E": {
+      "name": "Pictorial carmine"
+    },
+    "#C32148": {
+      "name": "Bright maroon"
+    },
+    "#C3272B": {
+      "name": "Pure crimson (dye) (Akabeni)"
+    },
+    "#C3CDE6": {
+      "name": "Periwinkle (Crayola)"
+    },
+    "#C40233": {
+      "name": "Red (NCS)"
+    },
+    "#C41E3A": {
+      "name": "Cardinal"
+    },
+    "#C46210": {
+      "name": "Alloy orange"
+    },
+    "#C48E69": {
+      "name": "White tea-colored (Shiracha)"
+    },
+    "#C4AEAD": {
+      "name": "Silver pink"
+    },
+    "#C4C3D0": {
+      "name": "Lavender gray"
+    },
+    "#C4D8E2": {
+      "name": "Columbia Blue"
+    },
+    "#C53151": {
+      "name": "Dingy Dungeon"
+    },
+    "#C54B8C": {
+      "name": "Mulberry"
+    },
+    "#C57F2E": {
+      "name": "Mulberry-dyed (Kuwazome)"
+    },
+    "#C5B358": {
+      "name": "Vegas gold"
+    },
+    "#C5CBE1": {
+      "name": "Light periwinkle"
+    },
+    "#C5E384": {
+      "name": "Yellow-green (Crayola)"
+    },
+    "#C66B27": {
+      "name": "Golden brown (Kincha)"
+    },
+    "#C6C2B6": {
+      "name": "Inside of a bottle (Kamenozoki)"
+    },
+    "#C71232": {
+      "name": "Rambutan"
+    },
+    "#C71585": {
+      "name": "Medium violet-red"
+    },
+    "#C72C48": {
+      "name": "French raspberry"
+    },
+    "#C74375": {
+      "name": "Fuchsia rose"
+    },
+    "#C80815": {
+      "name": "Venetian red"
+    },
+    "#C83F49": {
+      "name": "Strawberry red"
+    },
+    "#C84186": {
+      "name": "Smitten"
+    },
+    "#C8509B": {
+      "name": "Mulberry (Crayola)"
+    },
+    "#C86500": {
+      "name": "Asda Orange"
+    },
+    "#C8A2C8": {
+      "name": "Lilac"
+    },
+    "#C8AD7F": {
+      "name": "Light French beige"
+    },
+    "#C91F37": {
+      "name": "Foreign crimson (Karakurenai)"
+    },
+    "#C93756": {
+      "name": "Medium crimson (dye) (Nakabeni)"
+    },
+    "#C95A49": {
+      "name": "Cedar Chest"
+    },
+    "#C9A0DC": {
+      "name": "Wisteria"
+    },
+    "#C9C0BB": {
+      "name": "Pale silver"
+    },
+    "#C9DC87": {
+      "name": "Medium spring bud"
+    },
+    "#C9FFE5": {
+      "name": "Aero blue"
+    },
+    "#CA1F7B": {
+      "name": "Magenta (dye)"
+    },
+    "#CA2C92": {
+      "name": "Royal fuchsia"
+    },
+    "#CA6924": {
+      "name": "Amber (Kohaku-iro)"
+    },
+    "#CA7309": {
+      "name": "Asda Orange (1968)"
+    },
+    "#CAE00D": {
+      "name": "Bitter lemon"
+    },
+    "#CB410B": {
+      "name": "Sinopia"
+    },
+    "#CB4154": {
+      "name": "Brick red"
+    },
+    "#CB6649": {
+      "name": "Muddy brown (lit. the brown of a distant river) (Ensh\u016bcha)"
+    },
+    "#CB6D51": {
+      "name": "Copper red"
+    },
+    "#CB7E1F": {
+      "name": "Gold-brown (Yamabukicha)"
+    },
+    "#CB99C9": {
+      "name": "Pastel violet"
+    },
+    "#CBA135": {
+      "name": "Satin sheen gold"
+    },
+    "#CC0033": {
+      "name": "Vivid crimson"
+    },
+    "#CC00CC": {
+      "name": "Deep magenta"
+    },
+    "#CC00FF": {
+      "name": "Vivid orchid"
+    },
+    "#CC3333": {
+      "name": "Persian red"
+    },
+    "#CC3336": {
+      "name": "Madder Lake"
+    },
+    "#CC338B": {
+      "name": "Magenta-pink"
+    },
+    "#CC33CC": {
+      "name": "Steel pink"
+    },
+    "#CC397B": {
+      "name": "Fuchsia purple"
+    },
+    "#CC474B": {
+      "name": "English vermillion"
+    },
+    "#CC4E5C": {
+      "name": "Dark terra cotta"
+    },
+    "#CC5500": {
+      "name": "Burnt orange"
+    },
+    "#CC6666": {
+      "name": "Fuzzy Wuzzy"
+    },
+    "#CC7722": {
+      "name": "Ochre"
+    },
+    "#CC8899": {
+      "name": "Puce"
+    },
+    "#CC9900": {
+      "name": "Chinese gold"
+    },
+    "#CC9966": {
+      "name": "Brown Yellow"
+    },
+    "#CC99CC": {
+      "name": "Light grayish magenta"
+    },
+    "#CC99FF": {
+      "name": "Pale Violet"
+    },
+    "#CCA01D": {
+      "name": "Lemon curry"
+    },
+    "#CCCCCC": {
+      "name": "Chinese silver"
+    },
+    "#CCCCFF": {
+      "name": "Lavender blue"
+    },
+    "#CCFF00": {
+      "name": "Electric lime"
+    },
+    "#CD040B": {
+      "name": "Verizon Red"
+    },
+    "#CD071E": {
+      "name": "Chinese red"
+    },
+    "#CD5700": {
+      "name": "Tenn\u00e9 (tawny)"
+    },
+    "#CD5B45": {
+      "name": "Dark coral"
+    },
+    "#CD5C5C": {
+      "name": "Indian red"
+    },
+    "#CD607E": {
+      "name": "Cinnamon Satin"
+    },
+    "#CD7A00": {
+      "name": "Mustard brown"
+    },
+    "#CD8032": {
+      "name": "Chinese bronze"
+    },
+    "#CD853F": {
+      "name": "Peru"
+    },
+    "#CD9575": {
+      "name": "Antique brass"
+    },
+    "#CDA4DE": {
+      "name": "Tropical violet"
+    },
+    "#CE1127": {
+      "name": "Philippine red"
+    },
+    "#CE2029": {
+      "name": "Fire engine red"
+    },
+    "#CE4676": {
+      "name": "Ruber"
+    },
+    "#CE9F6F": {
+      "name": "White oak (Shirotsurubami)"
+    },
+    "#CEC8EF": {
+      "name": "Soap"
+    },
+    "#CEFF00": {
+      "name": "Volt"
+    },
+    "#CF0A2C": {
+      "name": "Huawei Red"
+    },
+    "#CF1020": {
+      "name": "Lava"
+    },
+    "#CF142B": {
+      "name": "Stop red"
+    },
+    "#CF3476": {
+      "name": "Telemagenta"
+    },
+    "#CF3A24": {
+      "name": "Scarlet (blood) (Ake)"
+    },
+    "#CF6BA9": {
+      "name": "Super pink"
+    },
+    "#CF71AF": {
+      "name": "Sky magenta"
+    },
+    "#CFB53B": {
+      "name": "Old gold"
+    },
+    "#CFCFC4": {
+      "name": "Pastel gray"
+    },
+    "#CFCFCF": {
+      "name": "American silver"
+    },
+    "#D0417E": {
+      "name": "Magenta (Pantone)"
+    },
+    "#D0748B": {
+      "name": "Charm"
+    },
+    "#D0DB61": {
+      "name": "Chinese green"
+    },
+    "#D0F0C0": {
+      "name": "Tea green"
+    },
+    "#D0FF14": {
+      "name": "Arctic lime"
+    },
+    "#D1001C": {
+      "name": "Blood orange"
+    },
+    "#D10047": {
+      "name": "Spanish carmine"
+    },
+    "#D10056": {
+      "name": "Rubine red"
+    },
+    "#D19FE8": {
+      "name": "Bright ube"
+    },
+    "#D1BEA8": {
+      "name": "Dark vanilla"
+    },
+    "#D1E189": {
+      "name": "Lime pulp"
+    },
+    "#D1E231": {
+      "name": "Pear"
+    },
+    "#D2691E": {
+      "name": "Cinnamon"
+    },
+    "#D2B48C": {
+      "name": "Tan"
+    },
+    "#D2D9DB": {
+      "name": "Aluminum foil"
+    },
+    "#D3003F": {
+      "name": "Utah Crimson"
+    },
+    "#D3212D": {
+      "name": "Amaranth red"
+    },
+    "#D3419D": {
+      "name": "Barbie Pink (1975-1990)"
+    },
+    "#D34E36": {
+      "name": "Glazed persimmon (Terigaki)"
+    },
+    "#D39BCB": {
+      "name": "Light medium orchid"
+    },
+    "#D3AF37": {
+      "name": "American gold"
+    },
+    "#D3B17D": {
+      "name": "Steamed chestnut color (Mushikuri-iro)"
+    },
+    "#D3D3D3": {
+      "name": "Light gray"
+    },
+    "#D40000": {
+      "name": "Rosso corsa"
+    },
+    "#D470A2": {
+      "name": "Wild orchid"
+    },
+    "#D473D4": {
+      "name": "Deep mauve"
+    },
+    "#D4AF37": {
+      "name": "Gold (metallic)"
+    },
+    "#D4F1F9": {
+      "name": "Water"
+    },
+    "#D57835": {
+      "name": "Decaying leaves color (Kuchiba-iro)"
+    },
+    "#D65282": {
+      "name": "Mystic"
+    },
+    "#D68A59": {
+      "name": "Raw Sienna"
+    },
+    "#D6CADD": {
+      "name": "Languid lavender"
+    },
+    "#D6D6D6": {
+      "name": "Aluminum"
+    },
+    "#D70040": {
+      "name": "Carmine (M&P)"
+    },
+    "#D70A53": {
+      "name": "Debian red"
+    },
+    "#D71868": {
+      "name": "Dogwood rose"
+    },
+    "#D73B3E": {
+      "name": "Jasper"
+    },
+    "#D74894": {
+      "name": "Pink (Pantone)"
+    },
+    "#D7837F": {
+      "name": "New York pink"
+    },
+    "#D891EF": {
+      "name": "Bright lilac"
+    },
+    "#D8B2D1": {
+      "name": "Pink lavender"
+    },
+    "#D8BFD8": {
+      "name": "Thistle"
+    },
+    "#D8D8D8": {
+      "name": "Light silver"
+    },
+    "#D8E4BC": {
+      "name": "Gin"
+    },
+    "#D9004C": {
+      "name": "UA red"
+    },
+    "#D92121": {
+      "name": "Maximum red"
+    },
+    "#D9381E": {
+      "name": "Vermilion"
+    },
+    "#D9463E": {
+      "name": "Strawberry Daiquiri"
+    },
+    "#D9603B": {
+      "name": "Medium vermilion"
+    },
+    "#D982B5": {
+      "name": "Middle purple"
+    },
+    "#D98695": {
+      "name": "Shimmering Blush"
+    },
+    "#D99058": {
+      "name": "Persian orange"
+    },
+    "#D998A0": {
+      "name": "Parrot Pink"
+    },
+    "#D99A6C": {
+      "name": "Tan (Crayola)"
+    },
+    "#D9B611": {
+      "name": "Patrinia flowers (Patrinia scabiosaefolia) (Ominaeshi)"
+    },
+    "#D9E650": {
+      "name": "Maximum green yellow"
+    },
+    "#DA1D81": {
+      "name": "Vivid cerise"
+    },
+    "#DA2C43": {
+      "name": "Rusty red"
+    },
+    "#DA3287": {
+      "name": "Deep cerise"
+    },
+    "#DA614E": {
+      "name": "Jelly bean"
+    },
+    "#DA680F": {
+      "name": "Metallic orange"
+    },
+    "#DA70D6": {
+      "name": "Orchid"
+    },
+    "#DA8A67": {
+      "name": "Copper (Crayola)"
+    },
+    "#DA9100": {
+      "name": "Harvest gold"
+    },
+    "#DAA520": {
+      "name": "Goldenrod"
+    },
+    "#DB5A6B": {
+      "name": "Red plum colored (K\u014dbai-iro)"
+    },
+    "#DB7093": {
+      "name": "Pale red-violet"
+    },
+    "#DBD7D2": {
+      "name": "Timberwolf"
+    },
+    "#DBE9F4": {
+      "name": "Azureish white"
+    },
+    "#DC143C": {
+      "name": "Crimson"
+    },
+    "#DC3023": {
+      "name": "Red-orange (lit. orangutan-colored) (Sh\u014dj\u014dhi)"
+    },
+    "#DC5349": {
+      "name": "Lychee"
+    },
+    "#DCD0FF": {
+      "name": "Pale lavender"
+    },
+    "#DCDCDC": {
+      "name": "Gainsboro"
+    },
+    "#DDA0DD": {
+      "name": "Medium lavender magenta"
+    },
+    "#DDADAF": {
+      "name": "Pale Chestnut"
+    },
+    "#DDE26A": {
+      "name": "Bored accent green"
+    },
+    "#DE3163": {
+      "name": "Cerise"
+    },
+    "#DE5246": {
+      "name": "Google Chrome red"
+    },
+    "#DE5285": {
+      "name": "Fandango pink"
+    },
+    "#DE5D83": {
+      "name": "Blush"
+    },
+    "#DE6FA1": {
+      "name": "China pink"
+    },
+    "#DE70A1": {
+      "name": "Chinese pink"
+    },
+    "#DE8F4E": {
+      "name": "Jasper orange"
+    },
+    "#DEA5A4": {
+      "name": "Pastel pink"
+    },
+    "#DEAA88": {
+      "name": "Tumbleweed"
+    },
+    "#DEB887": {
+      "name": "Burlywood"
+    },
+    "#DF00FF": {
+      "name": "Phlox"
+    },
+    "#DF6124": {
+      "name": "Vivid red-tangelo"
+    },
+    "#DF73FF": {
+      "name": "Heliotrope"
+    },
+    "#DFFF00": {
+      "name": "Chartreuse (traditional)"
+    },
+    "#E0115F": {
+      "name": "Ruby"
+    },
+    "#E0218A": {
+      "name": "Barbie Pink (Pantone)"
+    },
+    "#E03C31": {
+      "name": "CG red"
+    },
+    "#E08A1E": {
+      "name": "Sumac-dyed (Hajizome)"
+    },
+    "#E08D3C": {
+      "name": "Tiger's Eye"
+    },
+    "#E0B0FF": {
+      "name": "Mauve"
+    },
+    "#E0BC5B": {
+      "name": "Lanzones"
+    },
+    "#E0FFFF": {
+      "name": "Light cyan"
+    },
+    "#E12C2C": {
+      "name": "Permanent Geranium Lake"
+    },
+    "#E18E96": {
+      "name": "Ruddy pink"
+    },
+    "#E1A95F": {
+      "name": "Earth yellow"
+    },
+    "#E1AD01": {
+      "name": "Mustard yellow"
+    },
+    "#E1AD21": {
+      "name": "Urobilin"
+    },
+    "#E1BD27": {
+      "name": "Durian Yellow"
+    },
+    "#E2062C": {
+      "name": "Medium candy apple red"
+    },
+    "#E25098": {
+      "name": "Raspberry pink"
+    },
+    "#E25822": {
+      "name": "Flame"
+    },
+    "#E2725B": {
+      "name": "Terra cotta"
+    },
+    "#E29C45": {
+      "name": "Golden fallen leaves (Kikuchiba)"
+    },
+    "#E29CD2": {
+      "name": "Orchid (Crayola)"
+    },
+    "#E2B13C": {
+      "name": "Japanese triandra grass (Themeda japonica) (Kariyasu)"
+    },
+    "#E2BE9F": {
+      "name": "Eggshell paper-colored (Torinoko-iro)"
+    },
+    "#E2E5DE": {
+      "name": "Chinese white"
+    },
+    "#E30022": {
+      "name": "Cadmium red"
+    },
+    "#E30B5D": {
+      "name": "Raspberry"
+    },
+    "#E3256B": {
+      "name": "Razzmatazz"
+    },
+    "#E32636": {
+      "name": "Alizarin crimson"
+    },
+    "#E34234": {
+      "name": "Cinnabar"
+    },
+    "#E35C38": {
+      "name": "Overdyed/refreshed red-brown (Sohi)"
+    },
+    "#E3A857": {
+      "name": "Indian yellow"
+    },
+    "#E3AB57": {
+      "name": "Sunray"
+    },
+    "#E3B130": {
+      "name": "Rape-blossom brown (Nanohanacha)"
+    },
+    "#E3DAC9": {
+      "name": "Bone"
+    },
+    "#E3F988": {
+      "name": "Mindaro"
+    },
+    "#E4000F": {
+      "name": "Nintendo red"
+    },
+    "#E40078": {
+      "name": "Red-purple"
+    },
+    "#E4007C": {
+      "name": "Mexican pink"
+    },
+    "#E4717A": {
+      "name": "Candy pink"
+    },
+    "#E48400": {
+      "name": "Fulvous"
+    },
+    "#E49B0F": {
+      "name": "Gamboge"
+    },
+    "#E4D00A": {
+      "name": "Citrine"
+    },
+    "#E4D96F": {
+      "name": "Straw"
+    },
+    "#E51A4C": {
+      "name": "Spanish crimson"
+    },
+    "#E52B50": {
+      "name": "Amaranth"
+    },
+    "#E56024": {
+      "name": "Vivid vermilion"
+    },
+    "#E58E73": {
+      "name": "Middle red"
+    },
+    "#E5AA70": {
+      "name": "Fawn"
+    },
+    "#E5B73B": {
+      "name": "Meat brown"
+    },
+    "#E5CCC9": {
+      "name": "Dust storm"
+    },
+    "#E5E4E2": {
+      "name": "Platinum"
+    },
+    "#E60000": {
+      "name": "Electric red"
+    },
+    "#E60026": {
+      "name": "Spanish red"
+    },
+    "#E62020": {
+      "name": "Lust"
+    },
+    "#E63E62": {
+      "name": "Paradise pink"
+    },
+    "#E66771": {
+      "name": "Light carmine pink"
+    },
+    "#E68364": {
+      "name": "Brewed mustard-brown (Tokigaracha)"
+    },
+    "#E68FAC": {
+      "name": "Charm pink"
+    },
+    "#E69B3A": {
+      "name": "Turmeric-colored (Ukon-iro)"
+    },
+    "#E6A8D7": {
+      "name": "Light orchid"
+    },
+    "#E6BE8A": {
+      "name": "Gold (Crayola)"
+    },
+    "#E6D0AB": {
+      "name": "Durian White"
+    },
+    "#E6E0D4": {
+      "name": "White coffee"
+    },
+    "#E6E200": {
+      "name": "Peridot"
+    },
+    "#E6E6FA": {
+      "name": "Lavender mist"
+    },
+    "#E73895": {
+      "name": "Royal pink"
+    },
+    "#E75480": {
+      "name": "Dark pink"
+    },
+    "#E7968B": {
+      "name": "Salmon Rose"
+    },
+    "#E79FC4": {
+      "name": "Kobi"
+    },
+    "#E7ACCF": {
+      "name": "Pink pearl"
+    },
+    "#E7C9A9": {
+      "name": "Manila"
+    },
+    "#E7FEFF": {
+      "name": "Bubbles"
+    },
+    "#E8000D": {
+      "name": "KU crimson"
+    },
+    "#E85395": {
+      "name": "Barbie Pink (1959-1975)"
+    },
+    "#E86100": {
+      "name": "Spanish orange"
+    },
+    "#E88E5A": {
+      "name": "Big Foot Feet"
+    },
+    "#E8CCD7": {
+      "name": "Queen pink"
+    },
+    "#E8E4C9": {
+      "name": "Dirty white"
+    },
+    "#E8F48C": {
+      "name": "Key lime"
+    },
+    "#E936A7": {
+      "name": "Frostbite"
+    },
+    "#E9399E": {
+      "name": "Strong boy pink"
+    },
+    "#E94196": {
+      "name": "Barbie Pink"
+    },
+    "#E95C4B": {
+      "name": "Fire opal"
+    },
+    "#E9692C": {
+      "name": "Deep carrot orange"
+    },
+    "#E97451": {
+      "name": "Burnt sienna"
+    },
+    "#E9967A": {
+      "name": "Dark salmon"
+    },
+    "#E9D66B": {
+      "name": "Arylide yellow"
+    },
+    "#E9EDF6": {
+      "name": "Coconut White"
+    },
+    "#E9F6EF": {
+      "name": "Italian ice"
+    },
+    "#E9FFDB": {
+      "name": "Nyanza"
+    },
+    "#EA3C53": {
+      "name": "Desire"
+    },
+    "#EAA221": {
+      "name": "Marigold"
+    },
+    "#EAE0C8": {
+      "name": "Pearl"
+    },
+    "#EB4C42": {
+      "name": "Carmine pink"
+    },
+    "#EB593D": {
+      "name": "Orange soda"
+    },
+    "#EB6123": {
+      "name": "Halloween orange"
+    },
+    "#EBB0D7": {
+      "name": "Thistle (Crayola)"
+    },
+    "#EBC2AF": {
+      "name": "Zinnwaldite"
+    },
+    "#EBECF0": {
+      "name": "Bright gray"
+    },
+    "#EBF6F7": {
+      "name": "Indigo white (Aijiro)"
+    },
+    "#EC1C24": {
+      "name": "Verizon Red (2000-2015)"
+    },
+    "#EC2131": {
+      "name": "Sprint Red"
+    },
+    "#EC3B83": {
+      "name": "Cerise pink"
+    },
+    "#EC5800": {
+      "name": "Persimmon"
+    },
+    "#EC8254": {
+      "name": "Washed-out persimmon (Araigaki)"
+    },
+    "#EC956C": {
+      "name": "Sawtooth oak (Akashirotsurubami)"
+    },
+    "#ECB176": {
+      "name": "Middle yellow red"
+    },
+    "#ECCFCF": {
+      "name": "Lotion pink"
+    },
+    "#ECD540": {
+      "name": "Sandstorm"
+    },
+    "#ECEBBD": {
+      "name": "Pale spring bud"
+    },
+    "#ED1C24": {
+      "name": "Huawei Red (1987-2018)"
+    },
+    "#ED2939": {
+      "name": "Imperial red"
+    },
+    "#ED872D": {
+      "name": "Cadmium orange"
+    },
+    "#ED9121": {
+      "name": "Carrot orange"
+    },
+    "#EDA6C4": {
+      "name": "Metallic pink"
+    },
+    "#EDC9AF": {
+      "name": "Desert sand"
+    },
+    "#EDE6D6": {
+      "name": "White chocolate"
+    },
+    "#EE204D": {
+      "name": "Red (Crayola)"
+    },
+    "#EE82EE": {
+      "name": "Lavender magenta"
+    },
+    "#EED202": {
+      "name": "Safety yellow"
+    },
+    "#EEDC82": {
+      "name": "Flax"
+    },
+    "#EEE0B1": {
+      "name": "Cookies and cream"
+    },
+    "#EEE600": {
+      "name": "Titanium yellow"
+    },
+    "#EEE8AA": {
+      "name": "Pale goldenrod"
+    },
+    "#EEFF1B": {
+      "name": "Watermelon Yellow"
+    },
+    "#EF3038": {
+      "name": "Deep carmine pink"
+    },
+    "#EF3939": {
+      "name": "Vivaldi Red"
+    },
+    "#EF98AA": {
+      "name": "Mauvelous"
+    },
+    "#EFBBCC": {
+      "name": "Cameo pink"
+    },
+    "#EFCC00": {
+      "name": "Yellow (Munsell)"
+    },
+    "#EFDECD": {
+      "name": "Almond"
+    },
+    "#EFDFBB": {
+      "name": "Dutch white"
+    },
+    "#F04E1F": {
+      "name": "Microsoft red"
+    },
+    "#F07427": {
+      "name": "Vivid tangelo"
+    },
+    "#F07F5E": {
+      "name": "Red incense-colored (Akak\u014d-iro)"
+    },
+    "#F08080": {
+      "name": "Light coral"
+    },
+    "#F08F90": {
+      "name": "One kin (0.6\u00a0kg) dye (Ikkonzome)"
+    },
+    "#F0DC82": {
+      "name": "Buff"
+    },
+    "#F0E130": {
+      "name": "Dandelion"
+    },
+    "#F0E68C": {
+      "name": "Light khaki"
+    },
+    "#F0E891": {
+      "name": "Green-yellow (Crayola)"
+    },
+    "#F0EAD6": {
+      "name": "Eggshell"
+    },
+    "#F0F8FF": {
+      "name": "Alice blue"
+    },
+    "#F0FFF0": {
+      "name": "Honeydew"
+    },
+    "#F0FFFF": {
+      "name": "Azure mist"
+    },
+    "#F19CBB": {
+      "name": "Amaranth pink"
+    },
+    "#F1A7FE": {
+      "name": "Rich brilliant lavender"
+    },
+    "#F1DDCF": {
+      "name": "Champagne pink"
+    },
+    "#F2003C": {
+      "name": "Red (Munsell)"
+    },
+    "#F28500": {
+      "name": "Tangerine"
+    },
+    "#F28E1C": {
+      "name": "Beer"
+    },
+    "#F29CB7": {
+      "name": "Harmonious rose"
+    },
+    "#F29EAB": {
+      "name": "Sweet Sixteen"
+    },
+    "#F2B400": {
+      "name": "American yellow"
+    },
+    "#F2BA49": {
+      "name": "Maximum yellow red"
+    },
+    "#F2BDCD": {
+      "name": "Orchid pink"
+    },
+    "#F2C649": {
+      "name": "Maize (Crayola)"
+    },
+    "#F2D930": {
+      "name": "Margarine"
+    },
+    "#F2F0E6": {
+      "name": "Alabaster"
+    },
+    "#F2F27A": {
+      "name": "Sunny"
+    },
+    "#F2F3F4": {
+      "name": "Anti-flash white"
+    },
+    "#F35336": {
+      "name": "Blood red (Benihi)"
+    },
+    "#F364A2": {
+      "name": "Barbie Pink (1990-1999)"
+    },
+    "#F37042": {
+      "name": "Chinese orange"
+    },
+    "#F37A48": {
+      "name": "Mandarin"
+    },
+    "#F38FA9": {
+      "name": "Vanilla ice"
+    },
+    "#F39998": {
+      "name": "Peach Burst"
+    },
+    "#F3C13A": {
+      "name": "Amur cork tree (Phellodendron amurense) (Kihada)"
+    },
+    "#F3E5AB": {
+      "name": "Medium champagne"
+    },
+    "#F400A1": {
+      "name": "Fashion fuchsia"
+    },
+    "#F47983": {
+      "name": "Peach-colored (Momo-iro)"
+    },
+    "#F498AD": {
+      "name": "Flower girl"
+    },
+    "#F49AC2": {
+      "name": "Pastel magenta"
+    },
+    "#F4A460": {
+      "name": "Sandy brown"
+    },
+    "#F4BBFF": {
+      "name": "Brilliant lavender"
+    },
+    "#F4C2C2": {
+      "name": "Baby pink"
+    },
+    "#F4C430": {
+      "name": "Saffron"
+    },
+    "#F4CA16": {
+      "name": "Jonquil"
+    },
+    "#F4F0EC": {
+      "name": "Isabelline"
+    },
+    "#F56991": {
+      "name": "Light crimson"
+    },
+    "#F56FA1": {
+      "name": "Cyclamen"
+    },
+    "#F57F4F": {
+      "name": "Rich gardenia (Kokikuchinashi)"
+    },
+    "#F58025": {
+      "name": "Princeton orange"
+    },
+    "#F58F84": {
+      "name": "Ibis wing color (Tokiha-iro)"
+    },
+    "#F5BD1F": {
+      "name": "Orange-yellow"
+    },
+    "#F5C71A": {
+      "name": "Deep lemon"
+    },
+    "#F5DEB3": {
+      "name": "Wheat"
+    },
+    "#F5E050": {
+      "name": "Minion yellow"
+    },
+    "#F5F3EF": {
+      "name": "Penguin White"
+    },
+    "#F5F5DC": {
+      "name": "Beige"
+    },
+    "#F5F5F5": {
+      "name": "Cultured"
+    },
+    "#F5FFFA": {
+      "name": "Mint cream"
+    },
+    "#F62681": {
+      "name": "Electric pink"
+    },
+    "#F64A8A": {
+      "name": "French rose"
+    },
+    "#F6A08C": {
+      "name": "Poppy Petal"
+    },
+    "#F6A494": {
+      "name": "Coral Reef (Valspar Paint Color)"
+    },
+    "#F6ADC6": {
+      "name": "Nadeshiko pink"
+    },
+    "#F6B511": {
+      "name": "Spanish yellow"
+    },
+    "#F6EABE": {
+      "name": "Lemon meringue"
+    },
+    "#F70D1A": {
+      "name": "Vivid red"
+    },
+    "#F7238A": {
+      "name": "Barbie Pink (1999-2004)"
+    },
+    "#F7665A": {
+      "name": "Thrice-dyed crimson (Jinzamomi)"
+    },
+    "#F77F00": {
+      "name": "University Of Tennessee Orange"
+    },
+    "#F77FBE": {
+      "name": "Persian pink"
+    },
+    "#F78FA7": {
+      "name": "Pink Sherbet"
+    },
+    "#F7BB7D": {
+      "name": "Light yellow (Asagi)"
+    },
+    "#F7BFBE": {
+      "name": "Spanish pink"
+    },
+    "#F7C58E": {
+      "name": "Douban Light Yellow"
+    },
+    "#F7E7CE": {
+      "name": "Champagne"
+    },
+    "#F7E98E": {
+      "name": "Flavescent"
+    },
+    "#F8674F": {
+      "name": "Coral color (Sango-iro)"
+    },
+    "#F88379": {
+      "name": "Congo pink"
+    },
+    "#F8B878": {
+      "name": "Mellow apricot"
+    },
+    "#F8B9D4": {
+      "name": "Little girl pink"
+    },
+    "#F8D568": {
+      "name": "Orange-yellow (Crayola)"
+    },
+    "#F8DE7E": {
+      "name": "Jasmine"
+    },
+    "#F8F4FF": {
+      "name": "Magnolia"
+    },
+    "#F8F8F8": {
+      "name": "Guyabano"
+    },
+    "#F8F8FF": {
+      "name": "Ghost white"
+    },
+    "#F9429E": {
+      "name": "Rose bonbon"
+    },
+    "#F94D00": {
+      "name": "Tangelo"
+    },
+    "#F984E5": {
+      "name": "Pale Magenta"
+    },
+    "#F984EF": {
+      "name": "Light fuchsia pink"
+    },
+    "#F9906F": {
+      "name": "Meat-color (Shishi-iro)"
+    },
+    "#F99245": {
+      "name": "Royal orange"
+    },
+    "#F9FFE3": {
+      "name": "Pomelo White"
+    },
+    "#FA1A8E": {
+      "name": "Philippine pink"
+    },
+    "#FA6E79": {
+      "name": "Begonia"
+    },
+    "#FA7B62": {
+      "name": "Dawn-color (Akebono-iro)"
+    },
+    "#FA8072": {
+      "name": "Salmon"
+    },
+    "#FA9258": {
+      "name": "Plum-dyed (Umezome)"
+    },
+    "#FAA945": {
+      "name": "Corn-colored (T\u014dmorokoshi-iro)"
+    },
+    "#FAD6A5": {
+      "name": "Deep champagne"
+    },
+    "#FADA5E": {
+      "name": "Naples yellow"
+    },
+    "#FADADD": {
+      "name": "Pale pink"
+    },
+    "#FADFAD": {
+      "name": "Peach-yellow"
+    },
+    "#FAE6FA": {
+      "name": "Pale purple (Pantone)"
+    },
+    "#FAE7B5": {
+      "name": "Banana Mania"
+    },
+    "#FAEBD7": {
+      "name": "Antique white"
+    },
+    "#FAF0BE": {
+      "name": "Blond"
+    },
+    "#FAF0E6": {
+      "name": "Linen"
+    },
+    "#FAFA37": {
+      "name": "Maximum yellow"
+    },
+    "#FAFAD2": {
+      "name": "Light goldenrod yellow"
+    },
+    "#FB0081": {
+      "name": "Flickr Pink"
+    },
+    "#FB4D46": {
+      "name": "Tart Orange"
+    },
+    "#FB4F14": {
+      "name": "Orioles orange"
+    },
+    "#FB607F": {
+      "name": "Brink pink"
+    },
+    "#FB8136": {
+      "name": "Red-bronze (lit. red dye and turmeric) (Beniukon)"
+    },
+    "#FB9902": {
+      "name": "Orange (RYB)"
+    },
+    "#FB9912": {
+      "name": "Kumquat"
+    },
+    "#FBA0E3": {
+      "name": "Lavender rose"
+    },
+    "#FBAB60": {
+      "name": "Rajah"
+    },
+    "#FBAED2": {
+      "name": "Lavender pink"
+    },
+    "#FBCCE7": {
+      "name": "Classic rose"
+    },
+    "#FBCEB1": {
+      "name": "Apricot"
+    },
+    "#FBEC5D": {
+      "name": "Corn"
+    },
+    "#FC0FC0": {
+      "name": "Shocking pink"
+    },
+    "#FC419A": {
+      "name": "Barbie Pink (2005-2009)"
+    },
+    "#FC5A8D": {
+      "name": "Strawberry"
+    },
+    "#FC6C85": {
+      "name": "Ultra red"
+    },
+    "#FC74FD": {
+      "name": "Pink flamingo"
+    },
+    "#FC89AC": {
+      "name": "Tickle Me Pink"
+    },
+    "#FC8EAC": {
+      "name": "Flamingo pink"
+    },
+    "#FCA474": {
+      "name": "Pale persimmon (Usugaki)"
+    },
+    "#FCC200": {
+      "name": "Golden poppy"
+    },
+    "#FCC9B9": {
+      "name": "Cherry blossom color (Sakura-iro)"
+    },
+    "#FCE883": {
+      "name": "Yellow (Crayola)"
+    },
+    "#FCF75E": {
+      "name": "Icterine"
+    },
+    "#FCFFA4": {
+      "name": "Calamansi"
+    },
+    "#FD0E35": {
+      "name": "Tractor red"
+    },
+    "#FD3A4A": {
+      "name": "Red Salsa"
+    },
+    "#FD3F92": {
+      "name": "French fuchsia"
+    },
+    "#FD4900": {
+      "name": "Xiaomi Orange"
+    },
+    "#FD5240": {
+      "name": "Ogre Odor"
+    },
+    "#FD5800": {
+      "name": "Willpower orange"
+    },
+    "#FD5E53": {
+      "name": "Sunset Orange"
+    },
+    "#FD6C9E": {
+      "name": "French pink"
+    },
+    "#FD7C6E": {
+      "name": "Coral reef"
+    },
+    "#FDB900": {
+      "name": "Microsoft yellow"
+    },
+    "#FDBCB4": {
+      "name": "Melancholy"
+    },
+    "#FDBE02": {
+      "name": "Mango"
+    },
+    "#FDCC0D": {
+      "name": "Metallic yellow"
+    },
+    "#FDD5B1": {
+      "name": "Feldspar"
+    },
+    "#FDD9B5": {
+      "name": "Sandy Tan"
+    },
+    "#FDDB6D": {
+      "name": "Dandelion (Crayola)"
+    },
+    "#FDDDE6": {
+      "name": "Piggy pink"
+    },
+    "#FDEE00": {
+      "name": "Aureolin"
+    },
+    "#FDF5E6": {
+      "name": "Old lace"
+    },
+    "#FDFD96": {
+      "name": "Pastel yellow"
+    },
+    "#FDFE03": {
+      "name": "Sponge"
+    },
+    "#FDFF00": {
+      "name": "Lemon glacier"
+    },
+    "#FDFFF5": {
+      "name": "Milk"
+    },
+    "#FE2712": {
+      "name": "Red (RYB)"
+    },
+    "#FE28A2": {
+      "name": "Persian rose"
+    },
+    "#FE4164": {
+      "name": "Neon Fuchsia"
+    },
+    "#FE4EDA": {
+      "name": "Purple pizzazz"
+    },
+    "#FE5A1D": {
+      "name": "Giants orange"
+    },
+    "#FE6F5E": {
+      "name": "Bittersweet"
+    },
+    "#FEBAAD": {
+      "name": "Melon"
+    },
+    "#FECB00": {
+      "name": "Philippine yellow"
+    },
+    "#FED8B1": {
+      "name": "Light orange"
+    },
+    "#FEDF00": {
+      "name": "Yellow (Pantone)"
+    },
+    "#FEF65B": {
+      "name": "Dodie yellow"
+    },
+    "#FEFDFA": {
+      "name": "Lotion"
+    },
+    "#FEFE33": {
+      "name": "Yellow (RYB)"
+    },
+    "#FEFEFA": {
+      "name": "Baby powder"
+    },
+    "#FF0000": {
+      "name": "Red"
+    },
+    "#FF0028": {
+      "name": "Ruddy"
+    },
+    "#FF0038": {
+      "name": "Carmine red"
+    },
+    "#FF003F": {
+      "name": "Electric crimson"
+    },
+    "#FF004F": {
+      "name": "Folly"
+    },
+    "#FF006C": {
+      "name": "Vivid raspberry"
+    },
+    "#FF007C": {
+      "name": "Winter Sky"
+    },
+    "#FF007F": {
+      "name": "Bright pink"
+    },
+    "#FF0090": {
+      "name": "Magenta (process)"
+    },
+    "#FF00FF": {
+      "name": "Fuchsia"
+    },
+    "#FF033E": {
+      "name": "American rose"
+    },
+    "#FF0800": {
+      "name": "Candy apple red"
+    },
+    "#FF1493": {
+      "name": "Deep pink"
+    },
+    "#FF1B2D": {
+      "name": "Opera Red"
+    },
+    "#FF1DCE": {
+      "name": "Hot magenta"
+    },
+    "#FF2052": {
+      "name": "Awesome"
+    },
+    "#FF2400": {
+      "name": "Scarlet"
+    },
+    "#FF2800": {
+      "name": "Ferrari red"
+    },
+    "#FF33CC": {
+      "name": "Razzle dazzle rose"
+    },
+    "#FF3503": {
+      "name": "Electric orange"
+    },
+    "#FF355E": {
+      "name": "Radical Red"
+    },
+    "#FF3800": {
+      "name": "Coquelicot"
+    },
+    "#FF3855": {
+      "name": "Sizzling Red"
+    },
+    "#FF3988": {
+      "name": "Barbie Pink (2004-2005)"
+    },
+    "#FF4040": {
+      "name": "Coral red"
+    },
+    "#FF404C": {
+      "name": "Sunburnt Cyclops"
+    },
+    "#FF4200": {
+      "name": "Taobao Orange"
+    },
+    "#FF43A4": {
+      "name": "Wild Strawberry"
+    },
+    "#FF4466": {
+      "name": "Magic Potion"
+    },
+    "#FF4500": {
+      "name": "Red-orange (Color wheel)"
+    },
+    "#FF4681": {
+      "name": "Sasquatch Socks"
+    },
+    "#FF496C": {
+      "name": "Infra red"
+    },
+    "#FF4E20": {
+      "name": "Ochre (earthen yellow-red-brown) (\u014ctan)"
+    },
+    "#FF4F00": {
+      "name": "International orange (aerospace)"
+    },
+    "#FF5349": {
+      "name": "Orange-red (Crayola)"
+    },
+    "#FF5470": {
+      "name": "Fiery rose"
+    },
+    "#FF5500": {
+      "name": "Mystic red"
+    },
+    "#FF55A3": {
+      "name": "Brilliant rose"
+    },
+    "#FF5800": {
+      "name": "Orange (Pantone)"
+    },
+    "#FF5A36": {
+      "name": "Portland Orange"
+    },
+    "#FF5B00": {
+      "name": "Maximum orange"
+    },
+    "#FF5CCD": {
+      "name": "Light deep pink"
+    },
+    "#FF5F00": {
+      "name": "Vivid orange"
+    },
+    "#FF631C": {
+      "name": "Brave orange"
+    },
+    "#FF6347": {
+      "name": "Tomato"
+    },
+    "#FF6600": {
+      "name": "Orange"
+    },
+    "#FF66CC": {
+      "name": "Rose pink"
+    },
+    "#FF6700": {
+      "name": "Safety orange (blaze orange)"
+    },
+    "#FF681F": {
+      "name": "Orange-red"
+    },
+    "#FF6961": {
+      "name": "Pastel red"
+    },
+    "#FF69B4": {
+      "name": "Hot pink"
+    },
+    "#FF6D3A": {
+      "name": "Smashed Pumpkin"
+    },
+    "#FF6E4A": {
+      "name": "Outrageous Orange"
+    },
+    "#FF6FFF": {
+      "name": "Shocking pink (Crayola)"
+    },
+    "#FF7300": {
+      "name": "Philippine orange"
+    },
+    "#FF7518": {
+      "name": "Pumpkin"
+    },
+    "#FF7538": {
+      "name": "Orange (Crayola)"
+    },
+    "#FF77FF": {
+      "name": "Fuchsia pink"
+    },
+    "#FF7800": {
+      "name": "Safety orange"
+    },
+    "#FF7952": {
+      "name": "Rinsed-out red (Araishu)"
+    },
+    "#FF7A00": {
+      "name": "Heat Wave"
+    },
+    "#FF7E00": {
+      "name": "Amber (SAE/ECE)"
+    },
+    "#FF7F00": {
+      "name": "Orange (color wheel)"
+    },
+    "#FF7F50": {
+      "name": "Coral"
+    },
+    "#FF80FF": {
+      "name": "Light magenta"
+    },
+    "#FF8243": {
+      "name": "Mango Tango"
+    },
+    "#FF85CF": {
+      "name": "Princess Perfume"
+    },
+    "#FF878D": {
+      "name": "Tulip"
+    },
+    "#FF8936": {
+      "name": "Daylily-colored (Kanz\u014d-iro)"
+    },
+    "#FF8B00": {
+      "name": "American orange"
+    },
+    "#FF8C00": {
+      "name": "Dark orange"
+    },
+    "#FF91A4": {
+      "name": "Salmon pink"
+    },
+    "#FF91AF": {
+      "name": "Baker-Miller pink"
+    },
+    "#FF9505": {
+      "name": "Yellow Orange (Color Wheel)"
+    },
+    "#FF9899": {
+      "name": "American pink"
+    },
+    "#FF9900": {
+      "name": "Vivid gamboge"
+    },
+    "#FF9933": {
+      "name": "Deep saffron"
+    },
+    "#FF9966": {
+      "name": "Atomic tangerine"
+    },
+    "#FF9999": {
+      "name": "Light salmon pink"
+    },
+    "#FF99CC": {
+      "name": "Pale Magenta-Pink"
+    },
+    "#FF9A00": {
+      "name": "Weebly Orange"
+    },
+    "#FF9F00": {
+      "name": "Orange peel"
+    },
+    "#FFA000": {
+      "name": "Vivid orange peel"
+    },
+    "#FFA07A": {
+      "name": "Light salmon"
+    },
+    "#FFA089": {
+      "name": "Vivid tangerine"
+    },
+    "#FFA26B": {
+      "name": "Stylish persimmon (Sharegaki)"
+    },
+    "#FFA343": {
+      "name": "Neon Carrot"
+    },
+    "#FFA400": {
+      "name": "Golden yellow (and a particular rose varietal) (Yamabuki-iro)"
+    },
+    "#FFA565": {
+      "name": "Pale incense (Usuk\u014d)"
+    },
+    "#FFA600": {
+      "name": "Cheese"
+    },
+    "#FFA631": {
+      "name": "Egg-colored (Tamago-iro)"
+    },
+    "#FFA6C9": {
+      "name": "Carnation pink"
+    },
+    "#FFA700": {
+      "name": "Chrome yellow"
+    },
+    "#FFA812": {
+      "name": "Dark tangerine"
+    },
+    "#FFAA1D": {
+      "name": "Bright yellow (Crayola)"
+    },
+    "#FFAE42": {
+      "name": "Yellow Orange"
+    },
+    "#FFB077": {
+      "name": "Very light tangelo"
+    },
+    "#FFB200": {
+      "name": "Chinese yellow"
+    },
+    "#FFB300": {
+      "name": "Ucla Gold"
+    },
+    "#FFB347": {
+      "name": "Pastel orange"
+    },
+    "#FFB3A7": {
+      "name": "Washed-out crimson (dye) (Arazome)"
+    },
+    "#FFB3DE": {
+      "name": "Light hot pink"
+    },
+    "#FFB61E": {
+      "name": "Gamboge (T\u014d\u014d)"
+    },
+    "#FFB6C1": {
+      "name": "Light pink"
+    },
+    "#FFB7C5": {
+      "name": "Cherry blossom pink"
+    },
+    "#FFB94E": {
+      "name": "Floral leaf-colored (Hanaba-iro or kayou-iro)"
+    },
+    "#FFB95A": {
+      "name": "Cape jasmine or gardenia (Kuchinashi)"
+    },
+    "#FFBA00": {
+      "name": "Selective yellow"
+    },
+    "#FFBCD9": {
+      "name": "Cotton candy"
+    },
+    "#FFBD88": {
+      "name": "Macaroni and Cheese"
+    },
+    "#FFBF00": {
+      "name": "Amber"
+    },
+    "#FFC0CB": {
+      "name": "Pink"
+    },
+    "#FFC1CC": {
+      "name": "Bubble gum"
+    },
+    "#FFC324": {
+      "name": "Ripe mango"
+    },
+    "#FFC34D": {
+      "name": "Chickadee"
+    },
+    "#FFC40C": {
+      "name": "Mikado yellow"
+    },
+    "#FFC87C": {
+      "name": "Topaz"
+    },
+    "#FFC922": {
+      "name": "Sunset Yellow"
+    },
+    "#FFCBA4": {
+      "name": "Deep peach"
+    },
+    "#FFCC00": {
+      "name": "Tangerine yellow"
+    },
+    "#FFCC33": {
+      "name": "Sunglow"
+    },
+    "#FFCC99": {
+      "name": "Peach-orange"
+    },
+    "#FFCCCB": {
+      "name": "Light red"
+    },
+    "#FFCE44": {
+      "name": "Google Chrome yellow"
+    },
+    "#FFCFF1": {
+      "name": "Shampoo"
+    },
+    "#FFD300": {
+      "name": "Cyber yellow"
+    },
+    "#FFD59A": {
+      "name": "Caramel"
+    },
+    "#FFD700": {
+      "name": "Golden"
+    },
+    "#FFD800": {
+      "name": "School bus yellow"
+    },
+    "#FFDAB9": {
+      "name": "Peach puff"
+    },
+    "#FFDAE9": {
+      "name": "Mimi pink"
+    },
+    "#FFDB00": {
+      "name": "Sizzling Sunrise"
+    },
+    "#FFDB58": {
+      "name": "Mustard"
+    },
+    "#FFDD05": {
+      "name": "Sprint Yellow"
+    },
+    "#FFDDCA": {
+      "name": "Unbleached silk"
+    },
+    "#FFDDF4": {
+      "name": "Pink lace"
+    },
+    "#FFDEAD": {
+      "name": "Navajo white"
+    },
+    "#FFDF00": {
+      "name": "Golden yellow"
+    },
+    "#FFDF46": {
+      "name": "Gargoyle Gas"
+    },
+    "#FFDFBF": {
+      "name": "Very pale orange"
+    },
+    "#FFE135": {
+      "name": "Banana yellow"
+    },
+    "#FFE302": {
+      "name": "Vivid yellow"
+    },
+    "#FFE4C4": {
+      "name": "Bisque"
+    },
+    "#FFE4CD": {
+      "name": "Lumber"
+    },
+    "#FFE4E1": {
+      "name": "Misty rose"
+    },
+    "#FFE5B4": {
+      "name": "Peach"
+    },
+    "#FFE670": {
+      "name": "Shandy"
+    },
+    "#FFE9D1": {
+      "name": "Flesh"
+    },
+    "#FFEB00": {
+      "name": "Middle yellow"
+    },
+    "#FFEBCD": {
+      "name": "Blanched almond"
+    },
+    "#FFEF00": {
+      "name": "Canary yellow"
+    },
+    "#FFEFD5": {
+      "name": "Papaya whip"
+    },
+    "#FFF000": {
+      "name": "Yellow rose"
+    },
+    "#FFF0F5": {
+      "name": "Lavender blush"
+    },
+    "#FFF44F": {
+      "name": "Lemon yellow"
+    },
+    "#FFF5EE": {
+      "name": "Seashell"
+    },
+    "#FFF600": {
+      "name": "Cadmium yellow"
+    },
+    "#FFF700": {
+      "name": "Lemon"
+    },
+    "#FFF8DC": {
+      "name": "Cornsilk"
+    },
+    "#FFF8E7": {
+      "name": "Cosmic latte"
+    },
+    "#FFFACD": {
+      "name": "Lemon chiffon"
+    },
+    "#FFFAF0": {
+      "name": "Floral white"
+    },
+    "#FFFAFA": {
+      "name": "Snow"
+    },
+    "#FFFDD0": {
+      "name": "Cream"
+    },
+    "#FFFF00": {
+      "name": "Yellow"
+    },
+    "#FFFF31": {
+      "name": "Daffodil"
+    },
+    "#FFFF33": {
+      "name": "Electric yellow"
+    },
+    "#FFFF66": {
+      "name": "Laser lemon"
+    },
+    "#FFFF99": {
+      "name": "Canary"
+    },
+    "#FFFF9F": {
+      "name": "Lemon yellow (Crayola)"
+    },
+    "#FFFFBF": {
+      "name": "Very pale yellow"
+    },
+    "#FFFFCC": {
+      "name": "Conditioner"
+    },
+    "#FFFFE0": {
+      "name": "Light yellow"
+    },
+    "#FFFFF0": {
+      "name": "Ivory"
+    },
+    "#FFFFFF": {
+      "name": "White"
+    }
+  }
+}
