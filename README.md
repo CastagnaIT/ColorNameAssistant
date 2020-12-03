@@ -2,7 +2,7 @@
 
 A simple software for Windows to identify the colours
 
-![alt text](https://github.com/castagnait/ColorNameAssistant/blob/master/Screenshot.png?raw=true)
+![alt text](https://github.com/CastagnaIT/ColorNameAssistant/blob/master/Screenshot.jpg?raw=true)
 
 The main purpose of this software is to help people suffering of a color vision deficiency (sometimes called color blindness),
 the reduced ability to see colors causes constant discomfort in daily life, making it necessary to ask other people for support to fulfill their tasks.
@@ -52,6 +52,7 @@ You are free to ignore these warnings or compile the software yourself from the 
 [Download ColorNameAssistant](https://www.dropbox.com/sh/ckbjlzmazooqy0t/AACQDJ-lxODD7htT-sWyRZ3Ba?dl=0)
 
 **How to install**
+
 The software is provided in a portable way, you just have to extract the content of zip file where you like and run the executable.
 
 ## Disclaimer
