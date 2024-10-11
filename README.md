@@ -49,7 +49,7 @@ The download link and the executable could be flagged as malware from the browse
 this because the executable has not a certified signature, signing the executable has a cost and therefore will not be applied.
 You are free to ignore these warnings or compile the software yourself from the sources.
 
-[Download ColorNameAssistant](https://www.dropbox.com/sh/ckbjlzmazooqy0t/AACQDJ-lxODD7htT-sWyRZ3Ba?dl=0)
+[Download ColorNameAssistant](https://github.com/CastagnaIT/ColorNameAssistant/blob/master/DownloadPortable/ColorNameAssistantPortable.zip?raw=true)
 
 **How to install**
 
